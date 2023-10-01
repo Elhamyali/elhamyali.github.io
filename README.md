@@ -1,35 +1,34 @@
 # Mixed-Methods Researcher
 
-#### Skills: R, Python, Excel, Git, QGIS
+#### Skills: R, Python, Excel, Git, QGIS, DHIS2, SurveyCTO
 #### Certifications: Project Management Professional (PMP), Certificates in Public Health Research Methods and Food Systems, the Environment and Public Health
 
 ## Education
-- DrPH, Health Equity and Social Justice | Johns Hopkins University Bloomberg School of Public Health (2022 - Present)
-- MPH, Health Policy and Management | Columbia University Mailman School of Public Health
-- BA, International Relations | Claremont Mckenna College
-
-## Work Experience
-Project Researcher, Beeck Center for Social Impact and Innovation
-- TBD
-
-Graduate Research Assistant, Johns Hopkins Center for a Livable Future
-- TBD
+- DrPH, Health Equity and Social Justice \| Johns Hopkins University Bloomberg School of Public Health (_2022 - Present_)
+- MPH, Health Policy and Management \| Columbia University Mailman School of Public Health
+- BA, International Relations \| Claremont Mckenna College
 
 ## Projects
-### data analysis and science project 1
-- description
-- links
-- media
+### Data analysis and science project 1
+Coming soon
 
-### data analysis and science project 2
-- description
-- links
-- media
+### Data analysis and science project 2
+Coming soon
+
+### Data analysis and science project 3
+Coming soon
+
+### Research and evaluation project 4
+Coming soon
+
+### Research and evaluation project 5
+Coming soon
+
+### Research and evaluation project 6
+Coming soon
 
 ## Publications
-- list publications here
-- link medium here
+Coming soon
 
 ## Talks & Lectures
-- list talks here
-- link youtube here
+Coming soon
