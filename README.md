@@ -4,11 +4,13 @@
 #### Certifications: Project Management Professional (PMP), Certificates in Public Health Research Methods and Food Systems, the Environment and Public Health
 
 ## Education
+***
 - DrPH, Health Equity and Social Justice \| Johns Hopkins University Bloomberg School of Public Health (_2022 - Present_)
 - MPH, Health Policy and Management \| Columbia University Mailman School of Public Health
 - BA, International Relations \| Claremont Mckenna College
 
 ## Projects
+***
 ### Data analysis and science project 1
 Coming soon
 
@@ -28,7 +30,9 @@ Coming soon
 Coming soon
 
 ## Publications
+***
 Coming soon
 
 ## Talks & Lectures
+***
 Coming soon
