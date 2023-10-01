@@ -1,10 +1,8 @@
 title: Elham Ali, MPH, PMP
 logo: https://raw.githubusercontent.com/Elhamyali/elhamyali.github.io/main/images/photo.jpg
-description: Hi, I’m Elham 👋🏽 I’m a researcher with a decade of experience in research and evaluation, human-centered design, and project management. I collaborate with local and state governments, public health agencies, startups, and civic tech organizations.
-
-What drives me is developing equity-focused, actionable data products , rooted in decision science, statistics, and human-centered design research from maps, dashboards, calculators to case studies, to help organizations make better decisions on what solutions to invest, improve and deliver to their communities, especially in food systems, climate change, and sustainability.
-
-Areas of focus are experimentation, data analysis, causal inference, predictive modeling, geospatial mapping, and data visualization. Interested in automation across all business functions and advanced machine learning algorithms.
-
+description: >
+  Hi, I’m Elham 👋🏽 I’m a researcher with a decade of experience in research and evaluation, human-centered design, and project management. I collaborate with local and state governments, public health agencies, startups, and civic tech organizations.
+  What drives me is developing equity-focused, actionable data products, rooted in decision science, statistics, and human-centered design research from maps, dashboards, calculators to case studies, to help organizations make better decisions on what solutions to invest, improve and deliver to their communities, especially in food systems, climate change, and sustainability.
+  Areas of focus are experimentation, data analysis, causal inference, predictive modeling, geospatial mapping, and data visualization. Interested in automation across all business functions and advanced machine learning algorithms.
 show_downloads: true
 theme: jekyll-theme-minimal
