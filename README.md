@@ -2,6 +2,7 @@
 
 #### Skills: R, Python, Excel, Git, QGIS, DHIS2, SurveyCTO
 #### Certifications: Project Management Professional (PMP), Certificates in Public Health Research Methods and Food Systems, the Environment and Public Health
+#### Areas of Focus: Experimentation, data analysis, causal inference, predictive modeling, geospatial mapping, and data visualization/storytelling. Interested in automation across all business functions and advanced machine learning algorithms.
 
 ## Education
 ***
