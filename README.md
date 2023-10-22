@@ -17,6 +17,7 @@ Faced with the challenge of reaching 700k+ Webtoons comic readers, the New York 
 Amid strong public opinions against mandatory COVID-19 vaccinations in schools, the Washington State Board of Health needed data-driven insights to understand drivers of public satisfaction, dissatisfaction, and behavioral determinants toward vaccine acceptance of their constituents so they could proactively improve how to collaborate with their communities. Working with another researcher, I analyzed 80,000 public comments received from survey responses and public meetings PDF documents using R for text mining and sentiment analysis. The results informed improved communication strategies in public meetings, encouraging more open and transparent discussions. The results informed improved communication strategies in public meetings, encouraging more open and transparent discussions, and an opportunity to improve the data collection pipeline of resident opinions.
 
 <img src="images/covid-1.png?raw=true" />
+<img src="images/covid-2.png?raw=true" />
 <img src="images/covid-3.png?raw=true" />
 <img src="images/covid-4.png?raw=true" />
 
