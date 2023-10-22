@@ -24,6 +24,8 @@ Amid strong public opinions against mandatory COVID-19 vaccinations in schools, 
 
 In line with New York State's ambitious 2015 Blueprint to end the AIDS epidemic, I explored how health insurance coverage impacts the rate of new HIV diagnoses among young adults in New York City's five boroughs. Using QGIS, I geocoded and georeferenced the addresses and zip codes of new HIV diagnoses. I aligned this spatial data with U.S. Census data on types of health insurance coverage, creating vector layers to visualize the distribution. I then conducted advanced spatial analysis using R to calculate Moran’s I and z-scores, identifying spatial autocorrelations and clusters within the data. Contrary to expectations, my analysis found areas with higher insurance coverage also had higher rates of HIV diagnoses. Further analysis in R uncovered a strong positive correlation between the number of HIV testing centers and increased HIV diagnosis rates. My work revealed a complex relationship between insurance coverage and HIV diagnosis rates, suggesting that increased insurance could be enabling more young adults to seek testing and treatment. This data-driven insight provides a nuanced understanding of the epidemic, challenging assumptions and informing future public health strategies.
 
+<img src="images/GIS-poster.jpg?raw=true" />
+
 [![](https://img.shields.io/badge/QGIS-green?logo=QGIS)](#) [![](https://img.shields.io/badge/RStudio-white?logo=RStudio)](#) [![](https://img.shields.io/badge/R-blue?logo=R)](#)
 
 ---
