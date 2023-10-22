@@ -18,6 +18,8 @@ Amid strong public opinions against mandatory COVID-19 vaccinations in schools, 
 
 [![](https://img.shields.io/badge/R-blue?logo=R)](#) [![](https://img.shields.io/badge/RStudio-white?logo=RStudio)](#) [![](https://img.shields.io/badge/RMarkdown-white?logo=RMarkdown)](#) [![](https://img.shields.io/badge/Tidyverse-white?logo=Tidyverse)](#)
 
+[View code on Github](https://github.com/usdigitalresponse/content-analysis-for-community-statements-on-COVID-19)
+
 ---
 
 ### Mapping the impact of health insurance coverage on HIV diagnosis rate in New York City for young adults: Geospatial mapping with QGIS
@@ -41,7 +43,7 @@ Food + Planet, a nonprofit that aims to empower 1 million health professionals t
 ## Skills-based projects
 Below is a sample of side projects that highlight data science skills such as feature engineering and predictive modeling.
 
-- [NHANES health survey data analysis of BMI](https://github.com/Elhamyali/Health-Survey-Data-Analysis-of-BMI)
+- [NHANES health survey data analysis of BMI](https://github.com/Elhamyali/Health-Survey-Data-Analysis-of-BMI)                                                   
 Analyzed survey data of 20,000 people sampled from the United States to explore health behaviors associated with lower Body Mass Index (BMI) using survey-weighted multiple and logistic regression in R.
 
 - [BCG X data science virtual experience program on Forage](https://github.com/Elhamyali/SME-Customer-Churn-Prediction-PowerCo)                                                   
