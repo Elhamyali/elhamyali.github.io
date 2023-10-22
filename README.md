@@ -34,7 +34,11 @@ In line with New York State's ambitious 2015 Blueprint to end the AIDS epidemic,
 
 ### Exploring dietitians' attitudes on sustainable diets: Data analysis and visualization of a national survey of 1,500 dietitians
 
-Food + Planet, a nonprofit that aims to empower 1 million health professionals to advance sustainable food systems by 2025, wanted to understand the attitudes and beliefs of dietitians towards sustainable diets in their practices and communities. I led exploratory and inferential analyses on a national survey of 1,500 responses, utilizing Python for data transformation and Matplotlib and Seaborn libraries for data visualization. I also wrote an executive summary and article, which the team will extract to use for future publication on Today's Dietitians. My work culminated in a report and an executive summary article to be published on Today's Dietitians, which can help secure additional funding for the organization. My analysis also led to pivotal insights into the maturity of the adoption of sustainable diets in varying dietetics roles in health systems and fitness industries. 
+Food + Planet, a nonprofit that aims to empower 1 million health professionals to advance sustainable food systems by 2025, wanted to understand the attitudes and beliefs of dietitians towards sustainable diets in their practices and communities. I led exploratory and inferential analyses on a national survey of 1,500 responses, utilizing Python for data transformation and Matplotlib and Seaborn libraries for data visualization. I also wrote an executive summary and article, which the team will extract to use for future publication on Today's Dietitians. My work culminated in a report and an executive summary article to be published on Today's Dietitians, which can help secure additional funding for the organization. My analysis also led to pivotal insights into the maturity of the adoption of sustainable diets in varying dietetics roles in health systems and fitness industries. All analyses were reproduced in Excel so that non-technical practitioners could re-create and change the designs of the insights graphs.
+
+<img src="images/sustainability-fig-1.png?raw=true" />
+
+<img src="images/sustainability-fig-2.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Matplotlib-white?logo=Matplotlib)](#) [![](https://img.shields.io/badge/Seaborn-white?logo=Seaborn)](#)
 
