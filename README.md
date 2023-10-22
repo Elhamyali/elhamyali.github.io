@@ -18,6 +18,7 @@ Amid strong public opinions against mandatory COVID-19 vaccinations in schools, 
 
 <img src="images/covid-1.png?raw=true" />
 <img src="images/covid-2.png?raw=true" />
+<img src="images/covid-3.png?raw=true" />
 
 [![](https://img.shields.io/badge/R-blue?logo=R)](#) [![](https://img.shields.io/badge/RStudio-white?logo=RStudio)](#) [![](https://img.shields.io/badge/RMarkdown-white?logo=RMarkdown)](#) [![](https://img.shields.io/badge/Tidyverse-white?logo=Tidyverse)](#)
 
