@@ -58,5 +58,5 @@ Analyzed survey data of 20,000 people sampled from the United States to explore 
 - [Optimizing customer retention for PowerCo](https://github.com/Elhamyali/SME-Customer-Churn-Prediction-PowerCo)                                                   
 Conducting hypothesis framing, exploratory data analysis, feature engineering, and predictive modeling to advise PowerCo on how to retain their small and medium enterprise customers.
 
-- [Influencing buyer behavior for British Airways](https://github.com/Elhamyali/Buying-Behavior-Prediction-British-Airways)
+- [Influencing buyer behavior for British Airways](https://github.com/Elhamyali/Buying-Behavior-Prediction-British-Airways)                                                   
 Scraping and analyzing customer review data to uncover findings. Building a predictive model to understand factors influencing buying behavior to help British Airways acquire customers before they embark on their holidays.
