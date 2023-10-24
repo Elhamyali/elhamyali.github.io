@@ -1,4 +1,4 @@
-# Product Scientist & Experience Design Researcher
+## Product Scientist & Experience Design Researcher
 
 ---
 
@@ -8,7 +8,7 @@ This is the energy that drives me every day.
 
 A little more about me: I was the founder of Jumana Design (DBA Elham Ali Consultancy), a participatory experience research studio working to advance equity in public service delivery, and former Lead Human-centered Design Advisor at Pima County Health Department. Previously, I launched equity research practices and supported over 13 government partners during COVID-19 crisis response, at US Digital Response, a nonprofit that activates highly-skilled technologists to governments to support the immediate needs of the public. I am a member of DataKind, Statisticians without Borders, Design Justice Network, Technologists for Public Good, and Climate Action Tech.
 
-🍎 Fun fact: At just 14 years old, I became the first person from Bahrain to successfully complete the entire series of Kumon math courses, spanning calculus, probability, and statistics.
+🍎 Fun fact: At just 14 years old, I became the first person from Bahrain to successfully complete the entire series of [Kumon math](https://www.kumon.com/about-kumon/kumon-method) courses, spanning calculus, probability, and statistics.
 
 Areas of focus: Data equity and justice, experimentation, data analysis, causal inference, predictive modeling, geospatial mapping, and data visualization/storytelling. Interested in automation across all business functions and advanced machine learning algorithms with a lens of human-centered design.
 
