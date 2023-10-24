@@ -10,8 +10,6 @@ A little more about me: I was the founder of Jumana Design (DBA Elham Ali Consul
 
 🍎 Fun fact: At just 14 years old, I became the first person from Bahrain to successfully complete the entire series of [Kumon math](https://www.kumon.com/about-kumon/kumon-method) courses, spanning calculus, probability, and statistics.
 
-Areas of focus: Data equity and justice, experimentation, data analysis, causal inference, predictive modeling, geospatial mapping, and data visualization/storytelling. Interested in automation across all business functions and advanced machine learning algorithms with a lens of human-centered design.
-
 On a personal note, I live in sunny California with my partner and two funny cats. I co-founded [Spudnuts Comics](https://www.instagram.com/spudnutscomics/?hl=en) and [Unmuted with Elham Ali](https://open.spotify.com/show/3t0HajfVLLDYV7AeqF9oAr) Podcast. I teach pro bono hydroponics gardening, micro-farming, and plant-forward nutrition education to help communities grow and eat fresh fruits and vegetables. 
 
 💌 I love meeting new folx and connecting. Feel free to message me on LinkedIn!
@@ -20,7 +18,9 @@ On a personal note, I live in sunny California with my partner and two funny cat
 
 ## Data projects
 
----
+**Areas of focus:** Data equity and justice, experimentation, data analysis, causal inference, predictive modeling, geospatial mapping, and data visualization/storytelling. Interested in automation across all business functions and advanced machine learning algorithms with a lens of human-centered design.
+
+**Skills:** R, tidyverse, ggplot2, Quatro, RMarkdown, SQL, QGIS, DHIS2, SurveyCTO, SurveyMonkey, Qualtrics,‬ Google Analytics. Qualitative research (atlas.ti, NVivo, diary studies, interviews, community-based‬ participatory research, focus groups, ethnography, concept and usability testing, and contextual inquiry). Quantitative research (Exploratory and inferential‬‭ analyses, experimentation, A/B testing, linear and‬ multivariate testing, survey design, card sorting, tree testing, K-means clustering, regression models, text‬ analysis, conjoint analysis, MaxDiff, crosstabs). Human-centered Design: (Design Sprints, wireframing,‬‭ prototyping, co-creation and co-design workshops,‬ personas, journey Maps, service blueprints, affinity maps, system maps).
 
 ### Enhancing HIV edutainment outreach: Web scraping and exploratory data Analysis for the "Tested" comic
 
