@@ -20,7 +20,7 @@ On a personal note, I live in sunny California with my partner and two funny cat
 
 **Areas of focus:** Data equity and justice, experimentation, data analysis, causal inference, predictive modeling, geospatial mapping, and data visualization/storytelling. Interested in automation across all business functions and advanced machine learning algorithms with a lens of human-centered design.
 
-**Skills:** R, tidyverse, ggplot2, Quatro, RMarkdown, SQL, QGIS, DHIS2, SurveyCTO, SurveyMonkey, Qualtrics,‬ Google Analytics. Qualitative research (atlas.ti, NVivo, diary studies, interviews, community-based‬ participatory research, focus groups, ethnography, concept and usability testing, and contextual inquiry). Quantitative research (Exploratory and inferential‬‭ analyses, experimentation, A/B testing, linear and‬ multivariate testing, survey design, card sorting, tree testing, K-means clustering, regression models, text‬ analysis, conjoint analysis, MaxDiff, crosstabs). Human-centered Design: (Design Sprints, wireframing,‬‭ prototyping, co-creation and co-design workshops,‬ personas, journey Maps, service blueprints, affinity maps, system maps).
+**Skills:** R, tidyverse, ggplot2, SQL, Git/Github, QGIS, DHIS2, SurveyCTO, SurveyMonkey, Qualtrics,‬ Google Analytics. Qualitative and quantitative research (interviews, community-based‬ participatory research, usability testing, exploratory and inferential‬‭ analyses, A/B testing, linear and‬ multivariate testing, survey design, card sorting, tree testing, etc). Human-centered Design (Design Sprints, co-creation and co-design workshops,‬ personas, journey Maps, service blueprints, etc).
 
 ---
 
