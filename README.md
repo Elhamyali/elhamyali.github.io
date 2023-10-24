@@ -16,11 +16,15 @@ On a personal note, I live in sunny California with my partner and two funny cat
 
 ---
 
-## Data projects
+## Skills
 
 **Areas of focus:** Data equity and justice, experimentation, data analysis, causal inference, predictive modeling, geospatial mapping, and data visualization/storytelling. Interested in automation across all business functions and advanced machine learning algorithms with a lens of human-centered design.
 
 **Skills:** R, tidyverse, ggplot2, Quatro, RMarkdown, SQL, QGIS, DHIS2, SurveyCTO, SurveyMonkey, Qualtrics,‬ Google Analytics. Qualitative research (atlas.ti, NVivo, diary studies, interviews, community-based‬ participatory research, focus groups, ethnography, concept and usability testing, and contextual inquiry). Quantitative research (Exploratory and inferential‬‭ analyses, experimentation, A/B testing, linear and‬ multivariate testing, survey design, card sorting, tree testing, K-means clustering, regression models, text‬ analysis, conjoint analysis, MaxDiff, crosstabs). Human-centered Design: (Design Sprints, wireframing,‬‭ prototyping, co-creation and co-design workshops,‬ personas, journey Maps, service blueprints, affinity maps, system maps).
+
+---
+
+## Data projects
 
 ### Enhancing HIV edutainment outreach: Web scraping and exploratory data Analysis for the "Tested" comic
 
@@ -80,3 +84,20 @@ Conducting hypothesis framing, exploratory data analysis, feature engineering, a
 
 - [Influencing buyer behavior for British Airways](https://github.com/Elhamyali/Buying-Behavior-Prediction-British-Airways)                                                   
 Scraping and analyzing customer review data to uncover findings. Building a predictive model to understand factors influencing buying behavior to help British Airways acquire customers before they embark on their holidays.
+
+---
+
+## Testimonials
+Selected quotes of people who have worked with me.
+
+*"Working with Elham is the single best thing we could have done to yield better outcomes and increase the impact of our project. Elham served in an advisory capacity, bringing a wealth of experience and knowledge as an experienced HCD practitioner to help assist in drafting effective research plans. She was also instrumental in the development of impactful HCD Design Sprint facilitation tools, and she provided effective insights and guidance around data synthesis and analysis. I was particularly impressed by her ability to produce quality work, despite time constraints and managing other projects. This was a high-visibility project that will certainly influence the operational culture of our agency, and we can attribute these successes to our partnership with this amazing UX Researcher. Elham would be an asset to any project team. "*
+
+/-/ Andrea Ownbey, Oklahoma Department of Human Services
+
+*"This [text mining insights] is amazing. I wish our agency had funding to hire people to do this work. These are the insights that our agency needs to inform policy, approach, communication, how we are engaging, etc. Deepest gratitude & appreciation for this team. You were amazing & so helpful. The work and presentation was very informative & extremely helpful. "*
+
+/-/ Kelie Kahler, State of Washington Board of Health
+
+*"Elham was a Technologist-in-Residence for USDR’s Health Program. Elham brought a combination of expertise, energy, kindness, and joy to the role. Her domain expertise in health equity allowed her to support many of our government partners improve their vaccine outreach efforts. Her energy and her skill at project management allowed her to scale up her efforts to lead a large team of volunteers while simultaneously creating reusable artifacts and speaking at several events to evangelize her work. Her kindness and joy made it a pleasure to work with her as a team member, pitching in wherever she could and ensuring a smooth transition as she ramped down from the six-month technologist-in-residence role."*
+
+/-/ Alex Allain, US Digital Response
