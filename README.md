@@ -92,12 +92,12 @@ Selected quotes of people who have worked with me.
 
 *"Working with Elham is the single best thing we could have done to yield better outcomes and increase the impact of our project. Elham served in an advisory capacity, bringing a wealth of experience and knowledge as an experienced HCD practitioner to help assist in drafting effective research plans. She was also instrumental in the development of impactful HCD Design Sprint facilitation tools, and she provided effective insights and guidance around data synthesis and analysis. I was particularly impressed by her ability to produce quality work, despite time constraints and managing other projects. This was a high-visibility project that will certainly influence the operational culture of our agency, and we can attribute these successes to our partnership with this amazing UX Researcher. Elham would be an asset to any project team. "*
 
-/-/ Andrea Ownbey, Oklahoma Department of Human Services
+-- Andrea Ownbey, Oklahoma Department of Human Services
 
 *"This [text mining insights] is amazing. I wish our agency had funding to hire people to do this work. These are the insights that our agency needs to inform policy, approach, communication, how we are engaging, etc. Deepest gratitude & appreciation for this team. You were amazing & so helpful. The work and presentation was very informative & extremely helpful. "*
 
-/-/ Kelie Kahler, State of Washington Board of Health
+-- Kelie Kahler, State of Washington Board of Health
 
 *"Elham was a Technologist-in-Residence for USDR’s Health Program. Elham brought a combination of expertise, energy, kindness, and joy to the role. Her domain expertise in health equity allowed her to support many of our government partners improve their vaccine outreach efforts. Her energy and her skill at project management allowed her to scale up her efforts to lead a large team of volunteers while simultaneously creating reusable artifacts and speaking at several events to evangelize her work. Her kindness and joy made it a pleasure to work with her as a team member, pitching in wherever she could and ensuring a smooth transition as she ramped down from the six-month technologist-in-residence role."*
 
-/-/ Alex Allain, US Digital Response
+-- Alex Allain, US Digital Response
