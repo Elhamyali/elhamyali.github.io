@@ -1,4 +1,4 @@
-## Product Scientist & Experience Design Researcher
+## Qualitative & Quantitative UX Design Researcher
 
 ---
 
