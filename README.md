@@ -10,7 +10,7 @@ A little more about me: I was the founder of Jumana Design (DBA Elham Ali Consul
 
 🍎 Fun fact: At just 14 years old, I became the first person from Bahrain to successfully complete the entire series of [Kumon math](https://www.kumon.com/about-kumon/kumon-method) courses, spanning calculus, probability, and statistics.
 
-On a personal note, I live in sunny California with my partner and two funny cats. I co-founded [Spudnuts Comics](https://www.instagram.com/spudnutscomics/?hl=en) and [Unmuted with Elham Ali](https://open.spotify.com/show/3t0HajfVLLDYV7AeqF9oAr) Podcast. I teach pro bono hydroponics gardening, micro-farming, and plant-forward nutrition education to help communities grow and eat fresh fruits and vegetables. 
+On a personal note, I live in sunny California with my partner and two funny cats. I co-founded [Spudnuts Comics](https://www.instagram.com/spudnutscomics/?hl=en) and [Unmuted with Elham Ali](https://open.spotify.com/show/3t0HajfVLLDYV7AeqF9oAr) Podcast. I teach hydroponics gardening to help communities grow and eat fresh fruits and vegetables. 
 
 💌 I love meeting new folx and connecting. Feel free to message me on LinkedIn!
 
