@@ -24,7 +24,7 @@ On a personal note, I live in sunny California with my partner and two funny cat
 
 ---
 
-## Data projects
+## Projects
 
 ### Enhancing HIV edutainment outreach: Web scraping and exploratory data Analysis for the "Tested" comic
 
