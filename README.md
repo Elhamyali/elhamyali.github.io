@@ -1,10 +1,6 @@
-## Qualitative & Quantitative UX Design Researcher
+## Mixed-methods UX Researcher
 
 ---
-
-My purpose is to empower consumers to equitably access sustainable food choices that improve their health and the planet, and inspire farmers to use sustainable climate-friendly farming practices that lower greenhouse gas emissions. 
-
-This is the energy that drives me every day.
 
 A little more about me: I was the founder of Jumana Design (DBA Elham Ali Consultancy), a participatory experience research studio working to advance equity in public service delivery, and former Lead Human-centered Design Advisor at Pima County Health Department. Previously, I launched equity research practices and supported over 13 government partners during COVID-19 crisis response, at US Digital Response, a nonprofit that activates highly-skilled technologists to governments to support the immediate needs of the public. I am a member of DataKind, Statisticians without Borders, Design Justice Network, Technologists for Public Good, and Climate Action Tech.
 
@@ -18,9 +14,9 @@ On a personal note, I live in sunny California with my partner and two funny cat
 
 ## Skills
 
-**Areas of expertise:** Data equity and justice, experimentation, data analysis, causal inference, predictive modeling, geospatial mapping, and data visualization/storytelling.
+**Areas of expertise:** Data equity and justice, experimentation, data analysis, causal inference, predictive modeling, geospatial mapping, and data visualization/storytelling. Interested in advanced machine learning techniques and automation for business functions.
 
-**Skills:** R, tidyverse, ggplot2, SQL, Git/Github, QGIS, DHIS2, SurveyCTO, SurveyMonkey, Qualtrics,‬ Google Analytics. Qualitative and quantitative research (interviews, community-based‬ participatory research, usability testing, exploratory and inferential‬‭ analyses, A/B testing, linear and‬ multivariate testing, survey design, card sorting, tree testing, etc). Human-centered Design (Design Sprints, co-creation and co-design workshops,‬ personas, journey Maps, service blueprints, etc).
+**Skills:** R, tidyverse, ggplot2, SQL, Python, Git/Github, QGIS, DHIS2, SurveyCTO, SurveyMonkey, Qualtrics,‬ Google Analytics. Qualitative and quantitative research (interviews, community-based‬ participatory research, usability testing, exploratory and inferential‬‭ analyses, A/B testing, linear and‬ multivariate testing, survey design, card sorting, tree testing, etc). Human-centered Design (Design Sprints, co-creation and co-design workshops,‬ personas, journey Maps, service blueprints, etc).
 
 ---
 
@@ -73,7 +69,7 @@ Food + Planet, a nonprofit that aims to empower 1 million health professionals t
 
 ---
 
-## Skills-based projects
+## For fun
 Below is a sample of side projects that highlight data science skills such as feature engineering and predictive modeling.
 
 - [NHANES health survey data analysis of BMI](https://github.com/Elhamyali/Health-Survey-Data-Analysis-of-BMI)                                                   
