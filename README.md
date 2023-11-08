@@ -49,7 +49,7 @@ Amid strong public opinions against mandatory COVID-19 vaccinations in schools, 
 
 ### Mapping the impact of health insurance coverage on HIV diagnosis rate in New York City for young adults: Geospatial mapping with QGIS
 
-In line with New York State's ambitious 2015 Blueprint to end the AIDS epidemic, I explored how health insurance coverage impacts the rate of new HIV diagnoses among young adults in New York City's five boroughs. Using QGIS, I geocoded and georeferenced the addresses and zip codes of new HIV diagnoses. I aligned this spatial data with U.S. Census data on types of health insurance coverage, creating vector layers to visualize the distribution. I then conducted advanced spatial analysis using R to calculate Moran’s I and z-scores, identifying spatial autocorrelations and clusters within the data. Contrary to expectations, my analysis found areas with higher insurance coverage also had higher rates of HIV diagnoses. Further analysis in R uncovered a strong positive correlation between the number of HIV testing centers and increased HIV diagnosis rates. My work revealed a complex relationship between insurance coverage and HIV diagnosis rates, suggesting that increased insurance could be enabling more young adults to seek testing and treatment. This data-driven insight provides a nuanced understanding of the epidemic, challenging assumptions and informing future public health strategies.
+In line with New York State's ambitious 2015 Blueprint to end the AIDS epidemic, I explored how health insurance coverage impacts the rate of new HIV diagnoses among young adults in New York City's five boroughs. Using QGIS, I geocoded and georeferenced the addresses and zip codes of new HIV diagnoses. I aligned this spatial data with U.S. Census data on types of health insurance coverage, creating vector layers to visualize the distribution. I then conducted advanced spatial analysis using R to calculate Moran’s I and z-scores, identifying spatial autocorrelations and clusters within the data. Contrary to expectations, my analysis found areas with higher insurance coverage also had higher rates of HIV diagnoses. Further analysis in R uncovered a strong positive correlation between the number of HIV testing centers and increased HIV diagnosis rates. My work revealed a complex relationship between insurance coverage and HIV diagnosis rates, suggesting that increased insurance could enable more young adults to seek testing and treatment. This data-driven insight provides a nuanced understanding of the epidemic, challenging assumptions and informing future public health strategies.
 
 <img src="images/GIS-poster.jpg?raw=true" />
 
@@ -67,13 +67,15 @@ Food + Planet, a nonprofit that aims to empower 1 million health professionals t
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Matplotlib-white?logo=Matplotlib)](#) [![](https://img.shields.io/badge/Seaborn-white?logo=Seaborn)](#)
 
+[View publication on Food+Planet](https://foodandplanet.org/experience/)
+
 ---
 
 ## For fun
 Below is a sample of side projects that highlight data science skills such as feature engineering and predictive modeling.
 
 - [NHANES health survey data analysis of BMI](https://github.com/Elhamyali/Health-Survey-Data-Analysis-of-BMI)                                                   
-Analyzed survey data of 20,000 people sampled from the United States to explore health behaviors associated with lower Body Mass Index (BMI) using survey-weighted multiple and logistic regression in R.
+Analyzed survey data of 20,000 people sampled from the United States to explore health behaviors associated with lower Body Mass Index (BMI) using survey-weighted multiple and logistic regression.
 
 - [Optimizing customer retention for PowerCo](https://github.com/Elhamyali/SME-Customer-Churn-Prediction-PowerCo)                                                   
 Conducting hypothesis framing, exploratory data analysis, feature engineering, and predictive modeling to advise PowerCo on how to retain their small and medium enterprise customers.
