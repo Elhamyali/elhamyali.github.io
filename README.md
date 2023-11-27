@@ -2,13 +2,15 @@
 
 ---
 
+🌍 Over the past 10 years, I've helped local and state governments, public health agencies, startups, and civic tech groups learn user behavior insights through evidence-based quantitative and qualitative design research and build equity-focused, actionable data products—from maps and dashboards to case studies—so they can make informed and impactful decisions that improve the lives of their communities. 
+
+📚 As an educator, I make learning enjoyable and accessible, specializing in demystifying topics like statistics and survey design. I use interactive methods, the teach-back approach, sketchnoting, and relatable examples to cater to diverse learning styles. My students range from data science novices to career-transitioning professionals, from recent graduates to experienced individuals seeking more quantitative skills.
+
 A little more about me: I was the founder of Jumana Design (DBA Elham Ali Consultancy), a participatory experience research studio working to advance equity in public service delivery, and former Lead Human-centered Design Advisor at Pima County Health Department. Previously, I launched equity research practices and supported over 13 government partners during COVID-19 crisis response, at US Digital Response, a nonprofit that activates highly-skilled technologists to governments to support the immediate needs of the public. I am a member of DataKind, Statisticians without Borders, Design Justice Network, Technologists for Public Good, and Climate Action Tech.
 
 🍎 Fun fact: At just 14 years old, I became the first person from Bahrain to successfully complete the entire series of [Kumon math](https://www.kumon.com/about-kumon/kumon-method) courses, spanning calculus, probability, and statistics.
 
-On a personal note, I live in sunny California with my partner and two funny cats. I co-founded [Spudnuts Comics](https://www.instagram.com/spudnutscomics/?hl=en) and [Unmuted with Elham Ali](https://open.spotify.com/show/3t0HajfVLLDYV7AeqF9oAr) Podcast. I teach hydroponics gardening to help communities grow and eat fresh fruits and vegetables. 
-
-💌 I love meeting new folx and connecting. Feel free to message me on LinkedIn!
+On a personal note, I live in sunny California with my partner and two funny cats. I co-founded [Spudnuts Comics](https://www.instagram.com/spudnutscomics/?hl=en) and [Unmuted with Elham Ali](https://open.spotify.com/show/3t0HajfVLLDYV7AeqF9oAr) Podcast.
 
 ---
 
