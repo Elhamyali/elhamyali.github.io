@@ -1,4 +1,4 @@
-## Mixed-methods UX Researcher
+## Data Scientist & Mixed-methods UX Researcher
 
 ---
 
