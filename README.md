@@ -1,4 +1,4 @@
-## Data Scientist & Mixed-methods UX Researcher
+## UX Researcher & Data Scientist
 
 ---
 
@@ -16,9 +16,13 @@ On a personal note, I live in sunny California with my partner and two funny cat
 
 ## Skills
 
-**Areas of expertise:** Data equity and justice, experimentation, data analysis, causal inference, predictive modeling, geospatial mapping, and data visualization/storytelling. Interested in advanced machine learning techniques and automation for business functions.
+- **UX research and design** (qualitative and quantitative research design, equity-driven community participatory research, survey design, sampling techniques, experimentation, usability testing, tree testing, card sorting, A/B testing)
+- **Data analysis and statistical modeling** (R, Python, EDA, Git/Github, causal inference, PCA, k-means clustering, data wrangling, munging, hacking, data equity)
+- **Geospatial mapping** (exploratory and inferential spatial data analysis)
+- **Data visualization and storytelling** (Shiny and Flexdashboard application development, ggplot2, tidyverse)
+- **NLP Classification Methods** (sentiment analysis, text mining)
 
-**Skills:** R, tidyverse, ggplot2, SQL, Python, Git/Github, QGIS, DHIS2, SurveyCTO, SurveyMonkey, Qualtrics,‬ Google Analytics. Qualitative and quantitative research (interviews, community-based‬ participatory research, usability testing, exploratory and inferential‬‭ analyses, A/B testing, linear and‬ multivariate testing, survey design, card sorting, tree testing, etc). Human-centered Design (Design Sprints, co-creation and co-design workshops,‬ personas, journey Maps, service blueprints, etc).
+Interested in ethical and accountable GenAI and open data science education.
 
 ---
 
