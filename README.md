@@ -2,9 +2,12 @@
 
 ---
 
-🌍 Over the past 10 years, I've helped local and state governments, public health agencies, startups, and civic tech groups learn user behavior insights through evidence-based quantitative and qualitative design research and build equity-focused, actionable data products—from maps and dashboards to case studies—so they can make informed and impactful decisions that improve the lives of their communities. 
+📈 I help local and state governments, public health agencies, startups, and civic tech groups uncover behavioral insights about their users through evidence-based research and build equity-focused, actionable data products—from maps and dashboards to case studies—so they can make informed and impactful decisions that improve the lives of their communities. Some of the clients I’ve worked with include Pima County Health Department, New York State Department of Health AIDS Institute, City of Los Angeles, US Digital Response, Food + Planet, and more.
 
-📚 As an educator, I make learning enjoyable and accessible, specializing in demystifying topics like statistics and survey design. I use interactive methods, the teach-back approach, sketchnoting, and relatable examples to cater to diverse learning styles. My students range from data science novices to career-transitioning professionals, from recent graduates to experienced individuals seeking more quantitative skills.
+🌍 I’m passionate about using equitable and accountable data science to:
+- Advance environmental justice and climate change by establishing and tracking climate equity plans, ECJ metrics, evaluation plans, and community buy-in.
+- Develop climate roadmaps and quantitative models including greenhouse gas accounting, Net Zero goals, and Science-Based Targets.
+- Implement solutions and measure their effectiveness and impact to reduce emissions from animal agriculture and create a climate-stable, resilient, and just food system.
 
 A little more about me: I was the founder of Jumana Design (DBA Elham Ali Consultancy), a participatory experience research studio working to advance equity in public service delivery, and former Lead Human-centered Design Advisor at Pima County Health Department. Previously, I launched equity research practices and supported over 13 government partners during COVID-19 crisis response, at US Digital Response, a nonprofit that activates highly-skilled technologists to governments to support the immediate needs of the public. I am a member of DataKind, Statisticians without Borders, Design Justice Network, Technologists for Public Good, and Climate Action Tech.
 
@@ -16,11 +19,12 @@ On a personal note, I live in sunny California with my partner and two funny cat
 
 ## Skills
 
-- **UX research and design** (qualitative and quantitative research design, equity-driven community participatory research, survey design, sampling techniques, experimentation, usability testing, tree testing, card sorting, A/B testing)
+- **UX research and design** (qualitative and quantitative research design, equity-driven community participatory research, survey design and analysis, survey reliability/validity, sampling techniques, experimentation, usability testing, tree testing, card sorting, A/B testing)
 - **Data analysis and statistical modeling** (R, Python, EDA, Git/Github, causal inference, PCA, k-means clustering, data wrangling, munging, hacking, data equity)
 - **Geospatial mapping** (exploratory and inferential spatial data analysis)
 - **Data visualization and storytelling** (Shiny and Flexdashboard application development, ggplot2, tidyverse)
-- **NLP Classification Methods** (sentiment analysis, text mining)
+- **NLP classification** (sentiment analysis, text mining)
+- **Predictive Modeling** (linear regression, logistic regression, decision trees, monte carlo simulation, cost-effectiveness simulations)
 
 Interested in ethical and accountable GenAI and open data science education.
 
