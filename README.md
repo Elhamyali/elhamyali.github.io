@@ -24,7 +24,8 @@ On a personal note, I live in sunny California with my partner and two funny cat
 - **Geospatial mapping** (exploratory and inferential spatial data analysis)
 - **Data visualization and storytelling** (Shiny and Flexdashboard application development, ggplot2, tidyverse)
 - **NLP classification** (sentiment analysis, text mining)
-- **Predictive Modeling** (linear regression, logistic regression, decision trees, monte carlo simulation, cost-effectiveness simulations)
+- **Predictive Modeling** (linear regression, logistic regression)
+- **Decision Analysis** (decision trees, monte carlo simulation, markov models, cost-effectiveness analysis)
 
 Interested in ethical and accountable GenAI and open data science education.
 
