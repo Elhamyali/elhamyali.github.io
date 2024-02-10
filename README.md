@@ -20,12 +20,12 @@ On a personal note, I live in sunny California with my partner and two funny cat
 ## Skills
 
 - **UX research and design** (qualitative and quantitative research design, equity-driven community participatory research, survey design and analysis, survey reliability/validity, sampling techniques, experimentation, usability testing, tree testing, card sorting, A/B testing)
-- **Data analysis and statistical modeling** (R, Python, EDA, Git/Github, causal inference, PCA, k-means clustering, data wrangling, munging, hacking, data equity)
+- **Data analysis and statistical modeling** (R, Python, EDA, Git/Github, causal inference, PCA, k-means clustering, data wrangling, munging)
 - **Geospatial mapping** (exploratory and inferential spatial data analysis)
 - **Data visualization and storytelling** (Shiny and Flexdashboard application development, ggplot2, tidyverse)
 - **NLP classification** (sentiment analysis, text mining)
 - **Predictive Modeling** (linear regression, logistic regression)
-- **Decision Analysis** (decision trees, monte carlo simulation, markov models, cost-effectiveness analysis)
+- **Decision Analysis** (decision trees, Monte Carlo simulation, Markov models, cost-effectiveness analysis)
 
 Interested in ethical and accountable GenAI and open data science education.
 
@@ -90,11 +90,8 @@ Below is a sample of side projects that highlight data science skills such as fe
 - [NHANES health survey data analysis of BMI](https://github.com/Elhamyali/Health-Survey-Data-Analysis-of-BMI)                                                   
 Analyzed survey data of 20,000 people sampled from the United States to explore health behaviors associated with lower Body Mass Index (BMI) using survey-weighted multiple and logistic regression.
 
-- [Optimizing customer retention for PowerCo](https://github.com/Elhamyali/SME-Customer-Churn-Prediction-PowerCo)                                                   
-Conducting hypothesis framing, exploratory data analysis, feature engineering, and predictive modeling to advise PowerCo on how to retain their small and medium enterprise customers.
-
-- [Influencing buyer behavior for British Airways](https://github.com/Elhamyali/Buying-Behavior-Prediction-British-Airways)                                                   
-Scraping and analyzing customer review data to uncover findings. Building a predictive model to understand factors influencing buying behavior to help British Airways acquire customers before they embark on their holidays.
+- [Hack4Equity Georgia Hackathon]([https://github.com/Elhamyali/SME-Customer-Churn-Prediction-PowerCo](https://github.com/Elhamyali/Jumana-Care)      
+Jumana Care won 1st place for the track Building Community-based Equity during the Hack4Equity Georgia hackathon on September 26th, 2021.
 
 ---
 
