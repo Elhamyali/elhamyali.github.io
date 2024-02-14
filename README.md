@@ -1,35 +1,23 @@
 ## UX Researcher & Data Scientist
 
----
+I help people make informed decisions that support the climate using data, storytelling, and research. I uncover deeper truths about the world and the human experience. And I reveal stories that shift norms and shape conversations.
 
-📈 I help local and state governments, public health agencies, startups, and civic tech groups uncover behavioral insights about their users through evidence-based research and build equity-focused, actionable data products—from maps and dashboards to case studies—so they can make informed and impactful decisions that improve the lives of their communities. Some of the clients I’ve worked with include Pima County Health Department, New York State Department of Health AIDS Institute, City of Los Angeles, US Digital Response, Food + Planet, and more.
+📈 With 10 years of experience in UX research, data science, program evaluation, and human-centered design in public health and civic tech, I've helped local and state governments, public health agencies, startups, and civic tech groups uncover behavioral insights about their users through evidence-based research and build equity-focused, actionable data products—from maps and dashboards to case studies—so they can make informed and impactful decisions that improve the lives of their communities. Some of the clients I’ve worked with include Pima County Health Department, New York State Department of Health AIDS Institute, City of Los Angeles, US Digital Response, Food + Planet, and more.
 
-🌍 I’m passionate about using equitable and accountable data science to:
-- Advance environmental justice and climate change by establishing and tracking climate equity plans, ECJ metrics, evaluation plans, and community buy-in.
-- Develop climate roadmaps and quantitative models including greenhouse gas accounting, Net Zero goals, and Science-Based Targets.
-- Implement solutions and measure their effectiveness and impact to reduce emissions from animal agriculture and create a climate-stable, resilient, and just food system.
+**Research Interests:** I’m passionate about using equitable and accountable data science to advance climate change and health equity, climate adaptation and mitigation actions, local and state government climate resilience, spatial modeling, data visualization and analysis, and predictive modeling. I’m driven to use equitable and accountable data science and storytelling to advance climate justice and create a sustainable, resilient, and just food system. 
 
-A little more about me: I was the founder of Jumana Design (DBA Elham Ali Consultancy), a participatory experience research studio working to advance equity in public service delivery, and former Lead Human-centered Design Advisor at Pima County Health Department. Previously, I launched equity research practices and supported over 13 government partners during COVID-19 crisis response, at US Digital Response, a nonprofit that activates highly-skilled technologists to governments to support the immediate needs of the public. I am a member of DataKind, Statisticians without Borders, Design Justice Network, Technologists for Public Good, and Climate Action Tech.
-
-🍎 Fun fact: At just 14 years old, I became the first person from Bahrain to successfully complete the entire series of [Kumon math](https://www.kumon.com/about-kumon/kumon-method) courses, spanning calculus, probability, and statistics.
-
-On a personal note, I live in sunny California with my partner and two funny cats. I co-founded [Spudnuts Comics](https://www.instagram.com/spudnutscomics/?hl=en) and [Unmuted with Elham Ali](https://open.spotify.com/show/3t0HajfVLLDYV7AeqF9oAr) Podcast.
-
----
+**A little more about me:** I was the founder of Jumana Design (DBA Elham Ali Consultancy), a participatory experience research studio working to advance equity in public service delivery, and former Lead Human-centered Design Advisor at Pima County Health Department. Previously, I launched equity research practices and supported over 13 government partners during COVID-19 crisis response, at US Digital Response, a nonprofit that activates highly-skilled technologists to governments to support the immediate needs of the public. I am a member of DataKind, Statisticians without Borders, Design Justice Network, Technologists for Public Good, and Climate Action Tech.
 
 ## Skills
 
-- **UX research and design** (qualitative and quantitative research design, equity-driven community participatory research, survey design and analysis, survey reliability/validity, sampling techniques, experimentation, usability testing, tree testing, card sorting, A/B testing)
-- **Data analysis and statistical modeling** (R, Python, EDA, Git/Github, causal inference, PCA, k-means clustering, data wrangling, munging)
+- **UX research** (qualitative and quantitative research design, equity-driven community participatory research, survey design and analysis, survey reliability/validity, sampling techniques, experimentation, usability testing, tree testing, card sorting, A/B testing)
+- **Programming languages** (R, Python)
 - **Geospatial mapping** (exploratory and inferential spatial data analysis)
-- **Data visualization and storytelling** (Shiny and Flexdashboard application development, ggplot2, tidyverse)
+- **Data visualization and storytelling** (Shiny and flexdashboard, ggplot2, tidyverse)
 - **NLP classification** (sentiment analysis, text mining)
-- **Predictive Modeling** (linear regression, logistic regression)
-- **Decision Analysis** (decision trees, Monte Carlo simulation, Markov models, cost-effectiveness analysis)
+- **Predictive Modeling** (linear regression, logistic regression, decision trees, monte carlo simulation, cost-effectiveness simulations)
 
 Interested in ethical and accountable GenAI and open data science education.
-
----
 
 ## Projects
 
@@ -82,30 +70,8 @@ Faced with the challenge of reaching 700k+ Webtoons comic readers, the New York 
 
 [View code on Github](https://github.com/Elhamyali/webtoons-comments-in-python)
 
----
+## Personal
 
-## For fun
-Below is a sample of side projects that highlight data science skills such as feature engineering and predictive modeling.
+🍎 Fun fact: At just 14 years old, I became the first person from Bahrain to successfully complete the entire series of [Kumon math](https://www.kumon.com/about-kumon/kumon-method) courses, spanning calculus, probability, and statistics.
 
-- [NHANES health survey data analysis of BMI](https://github.com/Elhamyali/Health-Survey-Data-Analysis-of-BMI)                                                   
-Analyzed survey data of 20,000 people sampled from the United States to explore health behaviors associated with lower Body Mass Index (BMI) using survey-weighted multiple and logistic regression.
-
-- [Hack4Equity Georgia Hackathon]([https://github.com/Elhamyali/SME-Customer-Churn-Prediction-PowerCo](https://github.com/Elhamyali/Jumana-Care)      
-Jumana Care won 1st place for the track Building Community-based Equity during the Hack4Equity Georgia hackathon on September 26th, 2021.
-
----
-
-## Testimonials
-Selected quotes of people who have worked with me.
-
-*"Working with Elham is the single best thing we could have done to yield better outcomes and increase the impact of our project. Elham served in an advisory capacity, bringing a wealth of experience and knowledge as an experienced HCD practitioner to help assist in drafting effective research plans. She was also instrumental in the development of impactful HCD Design Sprint facilitation tools, and she provided effective insights and guidance around data synthesis and analysis. I was particularly impressed by her ability to produce quality work, despite time constraints and managing other projects. This was a high-visibility project that will certainly influence the operational culture of our agency, and we can attribute these successes to our partnership with this amazing UX Researcher. Elham would be an asset to any project team. "*
-
--- Andrea Ownbey, Oklahoma Department of Human Services
-
-*"This [text mining insights] is amazing. I wish our agency had funding to hire people to do this work. These are the insights that our agency needs to inform policy, approach, communication, how we are engaging, etc. Deepest gratitude & appreciation for this team. You were amazing & so helpful. The work and presentation was very informative & extremely helpful. "*
-
--- Kelie Kahler, State of Washington Board of Health
-
-*"Elham was a Technologist-in-Residence for USDR’s Health Program. Elham brought a combination of expertise, energy, kindness, and joy to the role. Her domain expertise in health equity allowed her to support many of our government partners improve their vaccine outreach efforts. Her energy and her skill at project management allowed her to scale up her efforts to lead a large team of volunteers while simultaneously creating reusable artifacts and speaking at several events to evangelize her work. Her kindness and joy made it a pleasure to work with her as a team member, pitching in wherever she could and ensuring a smooth transition as she ramped down from the six-month technologist-in-residence role."*
-
--- Alex Allain, US Digital Response
+On a personal note, I live in sunny California with my partner and two funny cats. I co-founded [Spudnuts Comics](https://www.instagram.com/spudnutscomics/?hl=en) and [Unmuted with Elham Ali](https://open.spotify.com/show/3t0HajfVLLDYV7AeqF9oAr) Podcast.
