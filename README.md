@@ -1,8 +1,8 @@
-## UX Researcher & Data Scientist
+## UX Researcher & Data Science Nerd
 
 I help people make informed decisions that support the climate using data, storytelling, and research. I uncover deeper truths about the world and the human experience. And I reveal stories that shift norms and shape conversations.
 
-📈 With 10 years of experience in UX research, data science, program evaluation, and human-centered design in public health and civic tech, I've helped local and state governments, public health agencies, startups, and civic tech groups uncover behavioral insights about their users through evidence-based research and build equity-focused, actionable data products—from maps and dashboards to case studies—so they can make informed and impactful decisions that improve the lives of their communities. Some of the clients I’ve worked with include Pima County Health Department, New York State Department of Health AIDS Institute, City of Los Angeles, US Digital Response, Food + Planet, and more.
+📈 With 10 years of experience in UX research, data analysis, program evaluation, and human-centered design in public health and civic tech, I've helped local and state governments, public health agencies, startups, and civic tech groups uncover behavioral insights about their users through evidence-based research and build equity-focused, actionable data products—from maps and dashboards to case studies—so they can make informed and impactful decisions that improve the lives of their communities. Some clients I’ve worked with include Pima County Health Department, New York State Department of Health AIDS Institute, City of Los Angeles, US Digital Response, Food + Planet, and more.
 
 **Research Interests:** I’m passionate about using equitable and accountable data science to advance climate change and health equity, climate adaptation and mitigation actions, local and state government climate resilience, spatial modeling, data visualization and analysis, and predictive modeling. I’m driven to use equitable and accountable data science and storytelling to advance climate justice and create a sustainable, resilient, and just food system. 
 
