@@ -15,7 +15,7 @@ I help people make informed decisions that support the climate using data, story
 - **UX research** (qualitative and quantitative research design, equity-driven community participatory research, survey design and analysis, survey reliability/validity, sampling techniques, experimentation, usability testing, tree testing, card sorting, A/B testing)
 - **Programming languages** (R, Python)
 - **Geospatial mapping** (exploratory and inferential spatial data analysis)
-- **Data visualization and storytelling** (Shiny and flexdashboard, ggplot2, tidyverse)
+- **Data visualization and storytelling** (Streamlit and Dash, ggplot2, tidyverse. Introductory to Shiny and flexdashboard)
 - **NLP classification** (sentiment analysis, text mining)
 - **Predictive Modeling** (linear regression, logistic regression, decision trees, monte carlo simulation, cost-effectiveness simulations)
 
