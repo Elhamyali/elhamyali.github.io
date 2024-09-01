@@ -1,0 +1,73 @@
+---
+title: "{{ title }}"
+author: "{{ author }}"
+citation:
+  url: "{{ author_url }}"
+date: "{{ date }}"
+description: "{{ description }}"
+toc: true
+categories: 
+  - {{ category1 }}
+  - {{ category2 }}
+  - {{ category3 }}
+  - {{ category4 }}
+  - {{ category5 }}
+  - {{ category6 }}
+execute: 
+  echo: false
+format: html
+lightbox: 
+  match: auto
+  desc-position: right
+  loop: true
+  effect: zoom
+---
+
+## Challenge
+
+{{ challenge_intro }}
+
+{{ organization }} needed support in developing a {{ project_name }} to {{ project_goal }}. The site needed to present {{ key_content }} and connect users to valuable resources. The content was organized around key thematic areas: {{ thematic_areas }}.
+
+## Approach
+
+As the project lead, I managed and coached a team of researchers, UX designers, and content strategists. I established inclusive partnerships with various stakeholders, including {{ stakeholders }}.
+
+I conducted user research, including {{ research_methods }}, to understand how users interact with the site's content. Working closely with the UX designer, I helped shape the site’s information architecture to be intuitive and accessible. I developed content guidelines to ensure the site communicated with {{ content_tone }}. This included {{ content_details }}.
+
+## Results
+
+Our work demonstrated the importance of data in driving conversations about {{ topic }} and empowering community members to engage with local partners. Within {{ timeframe }}, my team delivered prototypes and a new information architecture that {{ client_name }} put into production. Key deliverables include the following:
+
+- [{{ deliverable1 }}]({{ deliverable1_link }})
+- [{{ deliverable2 }}]({{ deliverable2_link }})
+
+::: {layout-ncol="2"}
+![{{ image1_description }}]({{ image1 }}){group="gallery"}
+
+![{{ image2_description }}]({{ image2 }}){group="gallery"}
+
+![{{ image3_description }}]({{ image3 }}){group="gallery"}
+
+![{{ image4_description }}]({{ image4 }}){group="gallery"}
+
+![{{ image5_description }}]({{ image5 }}){group="gallery"}
+
+![{{ image6_description }}]({{ image6 }}){group="gallery"}
+
+![{{ image7_description }}]({{ image7 }}){group="gallery"}
+
+![{{ image8_description }}]({{ image8 }}){group="gallery"}
+:::
+
+## Testimonial
+
+*"{{ testimonial }}"*
+
+\- {{ testimonial_author }}
+
+<!-- Navigation Arrows -->
+
+::: article-navigation
+<a href="{{ previous_link }}" class="nav-arrow left-arrow">←</a> <!-- Left arrow for previous --> <a href="{{ next_link }}" class="nav-arrow right-arrow">→</a> <!-- Right arrow for next -->
+:::

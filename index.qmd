@@ -25,7 +25,7 @@ I'm a scholar with the [Crown Prince International Scholarship Program](https://
 ```         
 ```
 
-[![Pima County Health Department](images/featured/pchd.png)](https://elhamyusufali.wixsite.com/mysite-1/us-digital-response)
+[![Pima County Health Department](images/featured/pchd.png)](/featured-work/pchd/pchd.qmd)
 
 COVID-19 vaccine delivery for Latina/o/e pregnant people
 :::
@@ -34,7 +34,7 @@ COVID-19 vaccine delivery for Latina/o/e pregnant people
 ```         
 ```
 
-![Washington State Board of Health](images/featured/wsboh.png)
+[![Washington State Board of Health](images/featured/wsboh.png)](/featured-work/wsbh/wsbh.qmd)
 
 Decisions to require COVID-19 vaccination for school entry
 :::
@@ -52,7 +52,7 @@ COVID-19 crisis delivery for 19+ local and state governments
 ```         
 ```
 
-[![Johns Hopkins Center for a Livable Future](images/featured/clf.jpg)](https://elhamyusufali.wixsite.com/mysite-1/new-york-state-department-of-health)
+[![Johns Hopkins Center for a Livable Future](images/featured/clf.jpg)](/featured-work/clf/clf.qmd)
 
 Climate food labels to influence student eating behavior
 :::
@@ -61,7 +61,7 @@ Climate food labels to influence student eating behavior
 ```         
 ```
 
-![Arizona Department of Health Services](images/featured/azdhs.png)
+[![Arizona Department of Health Services](images/featured/azdhs.png)](/featured-work/azdhs/azdhs.qmd)
 
 Testing bilingual patient vaccine portal for faster bookings
 :::
@@ -79,7 +79,7 @@ Digital tools for improved HIV prevention among young adults
 ```         
 ```
 
-[![City of Los Angeles](images/featured/la.png)](https://elhamyusufali.wixsite.com/mysite-1/us-digital-response)
+[![City of Los Angeles](images/featured/la.png)](/featured-work/la/la.qmd)
 
 Racial equity hubsite with historical and actionable datasets
 :::
@@ -88,7 +88,7 @@ Racial equity hubsite with historical and actionable datasets
 ```         
 ```
 
-[![Rho Impact](images/featured/rho.png)](https://elhamyusufali.wixsite.com/mysite-1/new-york-state-department-of-health)
+[![Rho Impact](images/featured/rho.png)](/featured-work/rho/rho.qmd)
 
 Projected greenhouse emissions cuts by new farming technology‬
 :::
@@ -106,7 +106,7 @@ Rebrand of an \$11M merger and acquisition of six companies
 ```         
 ```
 
-![Food+Planet](images/featured/foodplanet.png)
+[![Food+Planet](images/featured/foodplanet.png)](/featured-work/foodplanet/foodplanet.qmd)
 
 Analysis of dietitian attitudes and actions towards sustainable diets
 :::
@@ -115,7 +115,7 @@ Analysis of dietitian attitudes and actions towards sustainable diets
 ```         
 ```
 
-![Columbia University](images/featured/columbia.png)
+[![Columbia University](images/featured/columbia.png)](/featured-work/columbia/columbia.qmd)
 
 Impact of lactation pods among pregnant and lactating staff
 :::
@@ -124,7 +124,7 @@ Impact of lactation pods among pregnant and lactating staff
 ```         
 ```
 
-[![Healthcare Ready](images/featured/healthcare.png)](https://elhamyusufali.wixsite.com/mysite-1/new-york-state-department-of-health)
+[![Healthcare Ready](images/featured/healthcare.png)](/featured-work/healthcare/healthcare.qmd)
 
 Multilingual patient and clinician education on COVID-19 treatment
 :::

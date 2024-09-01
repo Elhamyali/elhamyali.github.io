@@ -2,7 +2,7 @@
 title: "Bureau Veritas North America"
 author: Elham Ali
 citation:
-  url: https://www.elhamyali.com/featured-work/arizona-department-of-health-services
+  url: https://www.elhamyali.com/
 date: 2019-11-07
 subtitle: "Managing the rebrand of an $11M merger and acquisition of six companies in North America. Published new content and design rebrand on Bureau Veritas North America."
 toc: true

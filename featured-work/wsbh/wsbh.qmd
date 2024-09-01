@@ -1,14 +1,18 @@
 ---
-title: "U.S. Digital Response"
-description: "Leading research, experience design, health literacy, and communication projects to support local and state governments in COVID-19 vaccination and testing efforts."
+title: "Washington State Board of Health"
+author: Elham Ali
+citation:
+  url: https://www.elhamyali.com/
+date: 2022-04-30
+subtitle: "Text mining and content analysis of 80,000 public comments on mandatory school COVID-19 vaccinations."
 toc: true
 categories: 
   - qualitative research
   - quantitative research
   - data analysis
-  - health communication
-  - content design
-  - information architecture
+  - text mining
+  - natural language processing
+  - sentiment analysis
 execute: 
   echo: false
 format: html
@@ -21,54 +25,52 @@ lightbox:
 
 ## Challenge
 
-City, county, and state governments were inundated with thousands of complaints from residents who were confused about their eligibility for the COVID-19 vaccine, how to access vaccination clinics, and where to sign up. Public servants were overwhelmed by the sheer volume of support tickets and calls from residents struggling to navigate the available resources. The lack of clear, accessible information not only created frustration among the public but also highlighted significant digital equity gaps that needed to be addressed for more effective communication and service delivery.
-
-To help solve these challenges, [U.S. Digital Response](https://www.usdigitalresponse.org/)(USDR) partnered with governments, nonprofits, and public entities to respond to critical public needs by rapidly activating highly-skilled talent. As the Research and Design Lead/Technologist-in-Residence for the Health Program at the height of the pandemic, I led efforts to build accessible vaccination portals and websites for local and state governments. Many existing websites failed to meet accessibility standards and conveyed complex health information that hindered communities, especially those harder to reach, from easily booking vaccination appointments. My role focused on creating user-friendly, equitable digital experiences that enabled governments to communicate effectively with all residents and close the digital equity gaps.
+The [Washington State Board of Health](https://sboh.wa.gov/) (SBOH) considered adding the COVID-19 vaccine to the list of required immunizations for school entry, prompting a surge in public engagement. This proposal led to the formation of a technical advisory group in December 2021. However, the Board was overwhelmed by more than 30,000 emails and 50,000 community comments, including both legitimate inquiries and organized misinformation campaigns. With only two staff members available to manage media relations, public records requests, and customer service, SBOH lacked the capacity to analyze the feedback effectively. The challenge was to develop an approach that could handle the massive volume of data while understanding the context and sentiment of the responses.
 
 ## Approach
 
-I led over 19 projects in seven months with cities, counties, state governments, health departments, agencies, and community-based organizations to create equitable and accessible website designs and content using health literacy, plain language guidelines, and crisis communication. I managed more than 30 volunteers to deliver evidence-based research, including comparative analysis, contextual inquiry, usability testing, interviewing, and survey analysis, increasing governments' confidence and connection with their communities. I implemented cognitive biases in writing and communication to influence health and care-seeking behaviors in social media posts and patient education brochures. I developed, edited, and gathered information to create clear, concise, and compelling materials for key stakeholders and audiences, including press releases, speeches, blogs, op-eds, backgrounders, talking points, scripts, reports, stories, and website copy. I built governments' capacity to integrate literacy and equity into digital media through website templates and a toolkit.
+[![](https://img.shields.io/badge/R-276DC2?logo=R&logoColor=white)](#) [![](https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white)](#) [![](https://img.shields.io/badge/RMarkdown-015B86?logo=RMarkdown&logoColor=white)](#) [![](https://img.shields.io/badge/Tidyverse-1A162D?logo=R&logoColor=white)](#)
+
+::: callout-note
+Watch my recorded workship in partnership with Innovate(US) on "[How to Apply Human-Centered Design to Government AI Projects.](https://innovate-us.org/how-to-apply-human-centered-design-to-government-ai-projects-)" Learn how I integrated human-centered design and equity principles into the design and use of AI for the Washington State Board of Health project. [View code on Github](https://github.com/usdigitalresponse/content-analysis-for-community-statements-on-COVID-19)
+:::
+
+Amid strong public opposition to mandatory COVID-19 vaccinations in schools, the Washington State Board of Health needed data-driven insights to understand public satisfaction, dissatisfaction, and factors influencing vaccine acceptance. Collaborating with U.S. Digital Response, I worked alongside Dr. Chimobi Ucha, a computer and data scientist, and the Board's Communications Manager and Policy Team to analyze 80,000 public comments from emails, survey responses, and public meeting transcripts.
+
+My approach began with sentiment analysis and text mining of all feedback, using R for text mining and sentiment analysis. My teammate and I created a phased pipeline to process comments from town meeting transcripts, emails, and survey responses, using a combination of R libraries. The analysis pipeline consisted of a scraper, relevancy model, sentiment model, text analysis model, and thematic analysis, which allowed us to classify comments as positive, neutral, or negative.
+
+We focused on identifying key names, organizations, and keywords associated with misinformation campaigns and used frequency analysis and topic modeling to identify common themes. A random sample of comments was further analyzed thematically using Atlas.ti and Miro. This systematic approach significantly improved our precision-recall score from 34% to 91%-92%, allowing us to uncover the underlying beliefs, values, and attitudes driving public opinion on the vaccine mandate.
 
 ## Results
 
-Read about USDR's [Health Program accomplishments here](https://medium.com/u-s-digital-response/building-resilience-in-times-of-crisis-highlights-from-one-year-of-usdrs-health-program-cf083215aef). My contributions are highlighted in the "Website Usability, Communication, and Equity" section, which includes:
-
--   [Various speaking engagements at events like the American Public Health Association during National Public Health Week and](https://www.elhamyali.com/post/covid-19-crisis-communication-empowering-the-public-health-community) the DotGov Conference.
-
--   [COVID-19 Vaccine Website Template](https://medium.com/u-s-digital-response/delivering-clear-accurate-information-about-the-covid-19-vaccine-rollout-b78b9a856f7): A Medium article announcing the launch of a vaccination website template, ready for government partners to deploy within days.
-
--   [Improving Vaccine Info Webpages with Updated Content and Design for Pueblo County, CO](https://www.usdigitalresponse.org/success-stories/pueblo-county-vaccine-website-updates/): A case study on redesigning Pueblo County's COVID vaccine and testing webpages using user experience and equity design principles.
-
--   [COVID-19 Communication Toolkit: A Health Equity Lens](https://usdr.gitbook.io/covid-communication-toolkit-health-equity/): A step-by-step guide to help health communicators, content developers, educators, and designers implement health equity in COVID-19 communication.
-
--   [How to incorporate equity into your health communications efforts](https://medium.com/u-s-digital-response/how-to-incorporate-equity-into-your-health-communications-efforts-a9baa735037c): Key takeaways from applying equity-focused design in COVID communications with government partners.
+Our findings helped the Board better understand public sentiment and shaped more effective communication strategies, centered on open and transparent discussions in public meetings. The insights we provided also informed improvements to the data collection process, so that the Board can gauge resident opinions and respond proactively to concerns. The results and our process, including the analysis code and repository, were shared with the Board for future use.
 
 ::: {layout-ncol="2"}
-![Redesigning Mesa County's vaccine phases and communication](1-usdr.webp){group="gallery"}
+![Analysis of the most frequent words in survey responses](0-wsbh.png){group="gallery"}
 
-![Redesigning Pueblo County's COVID-19 vaccines resources](2-usdr.webp){group="gallery"}
+![Most common words found in public comments](1-wsbh.png){group="gallery"}
 
-![COVID-19 Communication Toolkit: A Health Equity Lens](3-usdr.webp){group="gallery"}
+![Mapping keywords and influential entities associated with COVID-19 in Washington State](2-wsbh.png){group="gallery"}
 
-![Webinar to support governments tackle COVID vaccine delivery](4-usdr.webp){group="gallery"}
+![Examples of public comments and key highlight](3-wsbh.png){group="gallery"}
 
-![Vaccinate the States vaccine finder multilingual translation](5-usdr.webp){group="gallery"}
+![Wordcloud of top keywords in clusters of themes](4-wsbh.png){group="gallery"}
 
-![Health communication during National Public Health Week](6-usdr.webp){group="gallery"}
+![Visual representation of initial analysis from dominant words to more nuanced themes](5-wsbh.png){group="gallery"}
 
-![Ongoing landscape analysis of COVID equity challenges](7-usdr.webp){group="gallery"}
+![](6-wsbh.png){group="gallery"} 
 
-![Health program delivery team](8-usdr.webp){group="gallery"}
+![](7-wsbh.png){group="gallery"}
 :::
 
 ## Testimonial
 
-*"Elham was a Technologist-in-Residence for USDR's Health Program. Elham brought a combination of expertise, energy, kindness and joy to the role. Her domain expertise in healthcare equity allowed her to support many of our government partners improve their vaccine outreach efforts. Her energy and her skill at project management allowed her to scale up her efforts to leading a large team of volunteers while simultaneously creating reusable artifacts and speaking at a number of events to evangelize her work. Her kindness and joy made it a pleasure to work with her as a team member, pitching in wherever she could and ensuring a smooth transition as she ramped down from the six month technologist-in-residence role."*
+*"Oh my gosh this is amazing. I wish our agency had funding to hire people to do this work. These are the insights that our agency needs to inform policy, approach, communication, how we are engaging, etc. This is fascinating. We were aware of \[reciprocity concerns / opportunities\], but didn't know the extent or have the language. Deepest gratitude & appreciation for this team. You were amazing & so helpful. The work & presentation was very informative & extremely helpful. I will be using it & see great value to the rest of the team."* 
 
-\- Alex Allain, Co-Founder and CTO at U.S. Digital Response
+\- Kellie Kahler, Communications Manager, WA State Board of Health
 
 <!-- Navigation Arrows -->
 
 ::: article-navigation
-<a href="previous-article.html" class="nav-arrow left-arrow">←</a> <!-- Left arrow for previous --> <a href="next-article.html" class="nav-arrow right-arrow">→</a> <!-- Right arrow for next -->
+<a href="/featured-work/pchd/pchd.qmd" class="nav-arrow left-arrow">←</a> <!-- Left arrow for previous --> <a href="/featured-work/1-usdr/usdr.qmd" class="nav-arrow right-arrow">→</a> <!-- Right arrow for next -->
 :::

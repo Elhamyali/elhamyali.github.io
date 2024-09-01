@@ -1,6 +1,10 @@
 ---
-title: "U.S. Digital Response"
-description: "Leading research, experience design, health literacy, and communication projects to support local and state governments in COVID-19 vaccination and testing efforts."
+title: "Pima County Health Department"
+author: Elham Ali
+citation:
+  url: https://www.elhamyali.com/
+date: 2023-09-15
+subtitle: "Leading research, experience design, health literacy, and communication projects to support local and state governments in COVID-19 vaccination and testing efforts."
 toc: true
 categories: 
   - qualitative research
@@ -70,5 +74,5 @@ Read about USDR's [Health Program accomplishments here](https://medium.com/u-s-d
 <!-- Navigation Arrows -->
 
 ::: article-navigation
-<a href="previous-article.html" class="nav-arrow left-arrow">←</a> <!-- Left arrow for previous --> <a href="next-article.html" class="nav-arrow right-arrow">→</a> <!-- Right arrow for next -->
+<a href="/featured-work/bridgehome/bridgehome.qmd" class="nav-arrow left-arrow">←</a> <!-- Left arrow for previous --> <a href="/featured-work/wsbh/wsbh.qmd" class="nav-arrow right-arrow">→</a> <!-- Right arrow for next -->
 :::
