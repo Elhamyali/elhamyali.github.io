@@ -70,7 +70,7 @@ Testing bilingual patient vaccine portal for faster bookings
 ```         
 ```
 
-[![New York State Department of Health](images/featured/2-nysdoh.jpg)](/featured-work/nysdoh/nysdoh.qmd)
+[![New York State Department of Health AIDS Institute](images/featured/2-nysdoh.jpg)](/featured-work/nysdoh/nysdoh.qmd)
 
 Digital tools for improved HIV prevention among young adults
 :::
