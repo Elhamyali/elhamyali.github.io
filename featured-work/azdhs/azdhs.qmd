@@ -1,0 +1,84 @@
+---
+title: "Arizona Department of Health Services"
+author: Elham Ali
+citation:
+  url: https://www.elhamyali.com/featured-work/arizona-department-of-health-services
+date: 2021-12-11
+subtitle: "Testing a bilingual patient vaccine portal to shorten the time to register for a COVID-19 vaccination appointment with equitable messaging and information wayfinding."
+toc: true
+categories: 
+  - qualitative research
+  - quantitative research
+  - usability testing
+  - Ux/UI design
+execute: 
+  echo: false
+format: 
+  html:
+    toc: true
+    lightbox: 
+      match: auto
+      desc-position: right
+      loop: true
+      effect: zoom
+---
+
+## Challenge
+
+At the height of the COVID-19 pandemic, employees at the [Arizona Department of Health Services](https://www.azdhs.gov/)struggled with the process of booking COVID-19 vaccination appointments. The sign-up, booking, and password resetting procedures were cumbersome and frustrating, even for those within the department who were among the first to test a new portal. Recognizing the urgent need for a quicker and easier system, the department, in collaboration with the governor's office, sought to improve the Vaccine Patient Portal to better serve Arizona's 7 million residents.
+
+By March 2021, the Department had launched the initial version of the Vaccine Patient Portal, designed to handle registration, eligibility determination, and appointment scheduling. However, the portal still required enhancements to make it more user-friendly. My team and I were brought in to conduct usability testing with the department's employees to identify key pain points and provide actionable recommendations for improving the booking process.
+
+## Approach
+
+As the Project Lead and Experience Researcher, I led a team of researchers in collaboration with the department's project manager and UX designer. We developed research protocols, including screener surveys to select participants, facilitation guides, and communication materials for leadership. I coached researchers on effective interview techniques to reduce bias during usability assessments and provided feedback throughout the research process.
+
+I also wrote and refined the content for the Vaccine Patient Portal, aligning it with research recommendations focused on equitable communication. This included revising dropdown menus for gender preferences, updating insurance status fields, and improving microcopy, tooltips, emails, and instructional content. Our content strategy prioritized language justice, clarity, transparency, and trust to minimize decision fatigue, reduce information overload, and correct misaligned mental models.
+
+To ensure the portal was more user-friendly, we conducted two rounds of moderated and unmoderated remote usability testing on high-fidelity prototypes, closely collaborating with the governor's office and department staff to refine the design based on user feedback.
+
+## Results
+
+Within two months, we delivered the project on time and with important insights. The Arizona Department of Health Services published an improved [Vaccine Patient Portal](https://podvaccine.azdhs.gov/) in both Spanish and English, incorporating our research recommendations to ensure equity-focused design and accessibility. The improved portal allowed users to book vaccination appointments more quickly and increased overall satisfaction with the process.
+
+Key outcomes from the usability testing included significant reductions in the average time to complete various tasks on the portal:
+
+-   Login time reduced by 1 minute.
+
+-   Password reset time reduced by 4 minutes.
+
+-   Sign-up time reduced by 8 minutes.
+
+-   Vaccine appointment scheduling time reduced by 3 minutes, resulting in a total improvement of up to 16 minutes faster.
+
+Customer satisfaction scores improved markedly, with the overall rating increasing from 3 to 5 on a scale of 1 to 5 among all residents, including bilingual speakers.
+
+The Arizona Department of Health Services has since made the [website](https://drive.google.com/file/d/1NHGrsOIbUFDfKvMhIqPPQls4U5Flu8Jk/view?usp=sharing) and [mobile prototypes](https://www.figma.com/file/hEjTnK1flO9EbjkSnNu9O6/Vaccine-portal), along with the published content and design, available on their Vaccine Patient Portal.
+
+::: {layout-ncol="2"}
+![Tooltip recommendation](1-azdhs.webp){group="gallery"}
+
+![Insurance microcopy recommendation](2-azdhs.webp){group="gallery"}
+
+![User workflows and user stories](14-azdhs.webp){group="gallery"}
+
+![Content and design recommendation](4-azdhs.webp){group="gallery"}
+
+![Design recommendation](5-azdhs.webp){group="gallery"}
+
+![Design and process recommendation](6-azdhs.webp){group="gallery"}
+
+![Spanish translation recommendation](7-azdhs.webp){group="gallery"}
+
+![Moderated usability testing with participants](10-azdhs.webp){group="gallery"}
+
+![Unmoderated usability testing with participants](12-azdhs.webp){group="gallery"}
+
+![Facilitator guide](13-azdhs.webp){group="gallery"}
+:::
+
+<!-- Navigation Arrows -->
+
+::: article-navigation
+<a href="/featured-work/clf/clf.qmd" class="nav-arrow left-arrow">←</a> <!-- Left arrow for previous --> <a href="/featured-work/nysdoh/nysdoh.qmd" class="nav-arrow right-arrow">→</a> <!-- Right arrow for next -->
+:::

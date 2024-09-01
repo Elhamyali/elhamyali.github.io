@@ -1,0 +1,19 @@
+- title: "Unmuted Podcast"
+  description: "I talk to inspiring people about their lives and stories of equity and belonging. Check it out at: [https://open.spotify.com/show/3t0HajfVLLDYV7AeqF9oAr](https://open.spotify.com/show/3t0HajfVLLDYV7AeqF9oAr)"
+  url: "https://open.spotify.com/show/3t0HajfVLLDYV7AeqF9oAr"
+  image: "images/fun/unmuted-podcast.jpg"
+  keywords:
+    - podcast
+    - stories
+    - equity
+    - belonging
+
+- title: "Spudnuts Comics"
+  description: "When I find time to draw comics, I post them here: [https://www.webtoons.com/en/canvas/spudnuts-comics/list?title_no=847331](https://www.webtoons.com/en/canvas/spudnuts-comics/list?title_no=847331)"
+  url: "https://www.webtoons.com/en/canvas/spudnuts-comics/list?title_no=847331"
+  image: "images/fun/spudnuts-comics.jpg"
+  keywords:
+    - comics
+    - digital art
+    - cartoons
+    - wholesome

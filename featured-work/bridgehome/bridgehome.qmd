@@ -1,0 +1,62 @@
+---
+title: "Bridge to Home"
+author: Elham Ali
+citation:
+  url: https://www.elhamyali.com/featured-work/arizona-department-of-health-services
+date: 2022-08-15
+subtitle: "Fundraising for a homeless shelter in Santa Clarita Valley through effective social media campaigns. Published content and design on Bridge to Home's Facebook, Instagram, and Website."
+toc: true
+categories: 
+  - qualitative research
+  - UI design
+  - marketing
+  - social media
+  - content design
+  - fundraising
+execute: 
+  echo: false
+format: html
+lightbox: 
+  match: auto
+  desc-position: right
+  loop: true
+  effect: zoom
+---
+
+## Challenge
+
+[Bridge to Home](https://btohome.org/home), an organization dedicated to helping individuals and families in the Santa Clarita Valley transition from homelessness to stable housing, faced a critical need to increase funding for a new permanent shelter. With limited dedicated social media engagement, they needed support to effectively reach potential donors and raise awareness for their cause. To meet this challenge, I directed and launched targeted social media campaigns within two months to drive fundraising efforts through the [Virtual Cowboy Chili Cookout](https://btohome.org/home), with proceeds from this event supporting Bridge to Home's essential services, including emergency shelter, case management, housing navigation, and referrals for health, mental health, and substance use treatment.
+
+## Approach
+
+I began the campaign by developing a social media strategy that included an editorial calendar, content guidelines, and a style guide for design assets. I used Google analytics and analytics on various social media platforms to track the effectiveness of different communication approaches, refining messaging based on what resonated most with potential donors. I applied behavioral science principles, such as the endowment effect and crowd-out effect, to optimize social media posts.
+
+I crafted engaging content for Facebook, Instagram, and the website, including client stories, achievements, donor spotlights, facts and figures, service updates, news, events, and sponsor promotions. I created a content calendar with targeted calls to action for the primary demographics and presented the strategy to the Fundraising team and Board of Directors. I also coordinated partnerships with sponsors and partners to amplify our reach through cross-promotion.
+
+## Results
+
+The campaign raised nearly \$20,000 for the Chili Cookout event (excluding sponsorships), with \$2,800 (14%) generated from social media traffic. It also increased awareness among new supporters and redirected new followers to the Capital Campaign, which aims to raise \$1M for a new shelter. The content and designs I developed were published on Bridge to Home's Facebook, Instagram, and website, effectively reaching a wider audience and driving engagement. Published content and design are available on Bridge to Home's [Facebook](https://www.facebook.com/btohome), [Instagram](https://www.instagram.com/btohome/?hl=en), and [Website](https://btohome.org/cowboy-chili-cookoff?rq=chili%20cookoff). Sample content is listed below.
+
+::: {layout-ncol="2"}
+![Compelling facts and figures](1-bridgehome.webp){group="gallery"}
+
+![Client story post](2-bridgehome.webp){group="gallery"}
+
+![News article highlight of the chili cookout fundraisere](3-bridgehome.webp){group="gallery"}
+
+![Social media with of local news partnerships](4-bridgehome.webp){group="gallery"}
+
+![Social media post event sponsors promotional](5-bridgehome.webp){group="gallery"}
+
+![Website copy of the chili cookout fundraiser](6-bridgehome.webp){group="gallery"}
+
+![Fundraising event website copy](7-bridgehome.webp){group="gallery"}
+
+![Sponsorship website copy](8-bridgehome.webp){group="gallery"}
+:::
+
+<!-- Navigation Arrows -->
+
+::: article-navigation
+<a href="previous-article.html" class="nav-arrow left-arrow">←</a> <!-- Left arrow for previous --> <a href="next-article.html" class="nav-arrow right-arrow">→</a> <!-- Right arrow for next -->
+:::
