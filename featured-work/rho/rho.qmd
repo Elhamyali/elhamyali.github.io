@@ -52,7 +52,7 @@ The forecasted model showed significant potential for carbon and nitrogen saving
 :::
 
 <!-- Navigation Arrows -->
-
 ::: article-navigation
-<a href="/featured-work/la/la.qmd" class="nav-arrow left-arrow">←</a> <!-- Left arrow for previous --> <a href="/featured-work/bva/bva.qmd" class="nav-arrow right-arrow">→</a> <!-- Right arrow for next -->
+<a href="/featured-work/la/la.qmd" class="nav-arrow left-arrow">←</a> <!-- Left arrow for previous -->
+<a href="/featured-work/bva/bva.qmd" class="nav-arrow right-arrow">→</a> <!-- Right arrow for next -->
 :::
