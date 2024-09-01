@@ -33,15 +33,15 @@ To address these challenges, I led research and design efforts to redesign the [
 
 ## Approach
 
-I developed a cohesive strategy using health communication methods, including community mobilization and citizen engagement, to redesign the YGetIt? website and enhance social media campaigns. This involved creating a brand guide and design system that was story-driven, youth-led, and action-oriented. To evaluate the impact of social media campaigns, I designed a logic model and integrated tools like Google Analytics, heatmaps, and eye-tracking software to monitor user engagement and encourage care-seeking behaviors.
-
-To better understand and engage YGetIt?'s audience, I scraped over 600 comments from the *Tested* comic on Webtoons using Python, Pandas, and Selenium. I conducted thematic and exploratory data analysis to identify trends in public sentiment and inform the creation of culturally responsive content for future episodes. This data-driven approach guided the visual design and content strategy for the website. I performed usability testing through various design fidelities that led to a centralized platform where readers could easily subscribe to edutainment episodes, access actionable HIV resources, and engage with each other.
-
 [![](https://img.shields.io/badge/Python-blue?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-orange?logo=Jupyter)](#) [![](https://img.shields.io/badge/Pandas-blue?logo=Pandas)](#) [![](https://img.shields.io/badge/Selenium-green?logo=Selenium)](#)
 
 ::: callout-note
 [View code on Github](https://github.com/Elhamyali/webtoons-comments-in-python)
 :::
+
+I developed a cohesive strategy using health communication methods, including community mobilization and citizen engagement, to redesign the YGetIt? website and enhance social media campaigns. This involved creating a brand guide and design system that was story-driven, youth-led, and action-oriented. To evaluate the impact of social media campaigns, I designed a logic model and integrated tools like Google Analytics, heatmaps, and eye-tracking software to monitor user engagement and encourage care-seeking behaviors.
+
+To better understand and engage YGetIt?'s audience, I scraped over 600 comments from the *Tested* comic on Webtoons using Python, Pandas, and Selenium. I conducted thematic and exploratory data analysis to identify trends in public sentiment and inform the creation of culturally responsive content for future episodes. This data-driven approach guided the visual design and content strategy for the website. I performed usability testing through various design fidelities that led to a centralized platform where readers could easily subscribe to edutainment episodes, access actionable HIV resources, and engage with each other.
 
 ## Results
 

@@ -58,5 +58,5 @@ The campaign raised nearly \$20,000 for the Chili Cookout event (excluding spons
 <!-- Navigation Arrows -->
 
 ::: article-navigation
-<a href="previous-article.html" class="nav-arrow left-arrow">←</a> <!-- Left arrow for previous --> <a href="next-article.html" class="nav-arrow right-arrow">→</a> <!-- Right arrow for next -->
+<a href="/featured-work/healthcare/healthcare.qmd" class="nav-arrow left-arrow">←</a> <!-- Left arrow for previous --> <a href="/featured-work/pchd/pchd.qmd" class="nav-arrow right-arrow">→</a> <!-- Right arrow for next -->
 :::
