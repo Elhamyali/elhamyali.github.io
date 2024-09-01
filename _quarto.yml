@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: "."
 
+render:
+  input-files: ["index.qmd", "about.qmd", "blog.qmd", "fun.qmd", "publications.qmd"]
+  
 website:
   title: "Elham Ali"
   description: "Featured work and publications of Elham Ali, MPH, PMP."
