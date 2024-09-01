@@ -1,5 +1,9 @@
 ---
 title: "New York State Department of Health AIDS Institute"
+author: Elham Ali
+citation:
+  url: https://www.elhamyali.com/
+date: 2021-12-11
 description: "Redesigning HIV edutainment digital tools to enhance health and care-seeking behaviors among young adults affected by HIV, STDs, and viral hepatitis in New York."
 toc: true
 categories: 
@@ -19,7 +23,6 @@ lightbox:
   desc-position: right
   loop: true
   effect: zoom
-citation: true
 ---
 
 ## Challenge

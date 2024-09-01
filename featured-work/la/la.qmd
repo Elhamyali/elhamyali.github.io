@@ -1,14 +1,18 @@
 ---
-title: "U.S. Digital Response"
-description: "Leading research, experience design, health literacy, and communication projects to support local and state governments in COVID-19 vaccination and testing efforts."
+title: "City of Los Angeles"
+author: Elham Ali
+citation:
+  url: https://www.elhamyali.com/
+date: 2022-07-25
+description: "Leading the design and content of a racial equity hub site to share historical context for racial inequities in the City, deep data dives, and connection to resources for residents."
 toc: true
 categories: 
   - qualitative research
   - quantitative research
-  - data analysis
-  - health communication
+  - UX/UI design
   - content design
   - information architecture
+  - racial equity
 execute: 
   echo: false
 format: html
@@ -21,54 +25,50 @@ lightbox:
 
 ## Challenge
 
-City, county, and state governments were inundated with thousands of complaints from residents who were confused about their eligibility for the COVID-19 vaccine, how to access vaccination clinics, and where to sign up. Public servants were overwhelmed by the sheer volume of support tickets and calls from residents struggling to navigate the available resources. The lack of clear, accessible information not only created frustration among the public but also highlighted significant digital equity gaps that needed to be addressed for more effective communication and service delivery.
+In 2022, the City Council of Los Angeles approved the creation of a centralized hub to share the city's racial equity history using historical datasets and community stories. The goal is to provide a resource that residents and community advocates can use to better understand and engage with the city's efforts toward racial equity. The City needed guidance on how to organize a large amount of information in a way that is user-friendly and accessible to diverse learners and advocates. This is where I came in.
 
-To help solve these challenges, [U.S. Digital Response](https://www.usdigitalresponse.org/)(USDR) partnered with governments, nonprofits, and public entities to respond to critical public needs by rapidly activating highly-skilled talent. As the Research and Design Lead/Technologist-in-Residence for the Health Program at the height of the pandemic, I led efforts to build accessible vaccination portals and websites for local and state governments. Many existing websites failed to meet accessibility standards and conveyed complex health information that hindered communities, especially those harder to reach, from easily booking vaccination appointments. My role focused on creating user-friendly, equitable digital experiences that enabled governments to communicate effectively with all residents and close the digital equity gaps.
+The [City of Los Angeles](https://lacity.gov/), the second-largest municipality in the United States with a population of over 4 million, required support in developing a racial equity hub website to showcase the work of its newly established [Civil & Human Rights Department](https://lasentinel.net/racial-equity-finds-a-permanent-home-in-los-angeles.html). The site needed to present historical context for racial inequities, offer deep data insights, and connect residents to valuable resources. The content was organized around five key thematic areas: Housing and Built Environment, Economic Opportunity and Community Wealth, Education Access and Attainment, Justice, Policing, and Civic Engagement, and Health and Wellbeing.
 
 ## Approach
 
-I led over 19 projects in seven months with cities, counties, state governments, health departments, agencies, and community-based organizations to create equitable and accessible website designs and content using health literacy, plain language guidelines, and crisis communication. I managed more than 30 volunteers to deliver evidence-based research, including comparative analysis, contextual inquiry, usability testing, interviewing, and survey analysis, increasing governments' confidence and connection with their communities. I implemented cognitive biases in writing and communication to influence health and care-seeking behaviors in social media posts and patient education brochures. I developed, edited, and gathered information to create clear, concise, and compelling materials for key stakeholders and audiences, including press releases, speeches, blogs, op-eds, backgrounders, talking points, scripts, reports, stories, and website copy. I built governments' capacity to integrate literacy and equity into digital media through website templates and a toolkit.
+As the project lead, I managed and coaches a team of researchers, UX designers, and content strategists. I established inclusive partnerships with various city departments, community organizations, and stakeholders to maintain a broad perspective on user needs.
+
+I conducted user research, including card sorting exercises and moderated usability assessments, to understand how residents interact with the hub\'s content. Working closely with the UX designer, I helped shape the site\'s information architecture to be intuitive and accessible. I developed content guidelines to ensure the site communicated with an intersectional and anti-racist voice. This included providing clear historical context, sharing community stories, explaining how various efforts advance racial equity, analyzing race-based data, and connecting users to relevant resources, programs, and services.
 
 ## Results
 
-Read about USDR's [Health Program accomplishments here](https://medium.com/u-s-digital-response/building-resilience-in-times-of-crisis-highlights-from-one-year-of-usdrs-health-program-cf083215aef). My contributions are highlighted in the "Website Usability, Communication, and Equity" section, which includes:
+This work demonstrated that data is essential in driving conversations about racial equity and empowering community members to identify, learn, and engage with local partners. Within eight weeks, my team delivered prototypes and a new information architecture that the City of Los Angeles put into production. Key deliverables include the following and are now under development with the City of Los Angeles Civil & Human Rights Department.
 
--   [Various speaking engagements at events like the American Public Health Association during National Public Health Week and](https://www.elhamyali.com/post/covid-19-crisis-communication-empowering-the-public-health-community) the DotGov Conference.
+-   [Mobile and desktop prototypes](https://bit.ly/3COizhi)
 
--   [COVID-19 Vaccine Website Template](https://medium.com/u-s-digital-response/delivering-clear-accurate-information-about-the-covid-19-vaccine-rollout-b78b9a856f7): A Medium article announcing the launch of a vaccination website template, ready for government partners to deploy within days.
-
--   [Improving Vaccine Info Webpages with Updated Content and Design for Pueblo County, CO](https://www.usdigitalresponse.org/success-stories/pueblo-county-vaccine-website-updates/): A case study on redesigning Pueblo County's COVID vaccine and testing webpages using user experience and equity design principles.
-
--   [COVID-19 Communication Toolkit: A Health Equity Lens](https://usdr.gitbook.io/covid-communication-toolkit-health-equity/): A step-by-step guide to help health communicators, content developers, educators, and designers implement health equity in COVID-19 communication.
-
--   [How to incorporate equity into your health communications efforts](https://medium.com/u-s-digital-response/how-to-incorporate-equity-into-your-health-communications-efforts-a9baa735037c): Key takeaways from applying equity-focused design in COVID communications with government partners.
+-   [Content development guidelines](https://docs.google.com/document/d/1X0grgdLBa3Pz2nCYsFZdlYUK5bXn9LCU--_npQzc58U/edit)
 
 ::: {layout-ncol="2"}
-![Redesigning Mesa County's vaccine phases and communication](1-usdr.webp){group="gallery"}
+![User research methods used](1-la.webp){group="gallery"}
 
-![Redesigning Pueblo County's COVID-19 vaccines resources](2-usdr.webp){group="gallery"}
+![Logic model of the racial equity hub](9-la.webp){group="gallery"}
 
-![COVID-19 Communication Toolkit: A Health Equity Lens](3-usdr.webp){group="gallery"}
+![Content development guidelines](3-la.webp){group="gallery"}
 
-![Webinar to support governments tackle COVID vaccine delivery](4-usdr.webp){group="gallery"}
+![Prototype of racial equity hub historical context](4-la.webp){group="gallery"}
 
-![Vaccinate the States vaccine finder multilingual translation](5-usdr.webp){group="gallery"}
+![Prototype of community stories](6-la.webp){group="gallery"}
 
-![Health communication during National Public Health Week](6-usdr.webp){group="gallery"}
+![Prototype of deep data dives](8-la.webp){group="gallery"}
 
-![Ongoing landscape analysis of COVID equity challenges](7-usdr.webp){group="gallery"}
+![Contact us prototype](7-la.webp){group="gallery"}
 
-![Health program delivery team](8-usdr.webp){group="gallery"}
+![Example of a quote from a research participant](2-la.webp){group="gallery"}
 :::
 
 ## Testimonial
 
-*"Elham was a Technologist-in-Residence for USDR's Health Program. Elham brought a combination of expertise, energy, kindness and joy to the role. Her domain expertise in healthcare equity allowed her to support many of our government partners improve their vaccine outreach efforts. Her energy and her skill at project management allowed her to scale up her efforts to leading a large team of volunteers while simultaneously creating reusable artifacts and speaking at a number of events to evangelize her work. Her kindness and joy made it a pleasure to work with her as a team member, pitching in wherever she could and ensuring a smooth transition as she ramped down from the six month technologist-in-residence role."*
+*"I enjoyed working with Elham and USDR on a racial equity project for the City of Los Angeles. Elham was wonderful to work with and excelled as the project lead. She gave us the structure that we needed, and connected us with an impressive team of technologists. Her leadership helped us get the project off the ground and through the prototyping stage. I highly recommend working with her for her grasp of public policy issues, technology expertise, and ability to drive projects forward."*
 
-\- Alex Allain, Co-Founder and CTO at U.S. Digital Response
+\- Eva Pereira, Chief Data Officer at City of Los Angeles
 
 <!-- Navigation Arrows -->
 
 ::: article-navigation
-<a href="previous-article.html" class="nav-arrow left-arrow">←</a> <!-- Left arrow for previous --> <a href="next-article.html" class="nav-arrow right-arrow">→</a> <!-- Right arrow for next -->
+<a href="/featured-work/nysdoh/nysdoh.qmd" class="nav-arrow left-arrow">←</a> <!-- Left arrow for previous --> <a href="/featured-work/rho/rho.qmd" class="nav-arrow right-arrow">→</a> <!-- Right arrow for next -->
 :::

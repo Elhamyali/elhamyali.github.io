@@ -2,7 +2,7 @@
 title: "Bridge to Home"
 author: Elham Ali
 citation:
-  url: https://www.elhamyali.com/featured-work/arizona-department-of-health-services
+  url: https://www.elhamyali.com/
 date: 2022-08-15
 subtitle: "Fundraising for a homeless shelter in Santa Clarita Valley through effective social media campaigns. Published content and design on Bridge to Home's Facebook, Instagram, and Website."
 toc: true
