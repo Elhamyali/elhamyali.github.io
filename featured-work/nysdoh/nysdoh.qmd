@@ -4,7 +4,7 @@ author: Elham Ali
 citation:
   url: https://www.elhamyali.com/
 date: 2021-12-11
-description: "Redesigning HIV edutainment digital tools to enhance health and care-seeking behaviors among young adults affected by HIV, STDs, and viral hepatitis in New York."
+subtitle: "Redesigning HIV edutainment digital tools to enhance health and care-seeking behaviors among young adults affected by HIV, STDs, and viral hepatitis in New York."
 toc: true
 categories: 
   - qualitative research
@@ -47,11 +47,15 @@ To better understand and engage YGetIt?'s audience, I scraped over 600 comments 
 
 The redesigned [YGetIt? website](https://www.ygetit.org/), launched in December 2020, featured new content, an updated information architecture, and a cohesive design system, significantly enhancing the user experience. Through strategic social media efforts, YGetIt? expanded its presence on [Facebook](https://www.facebook.com/YGetIt/), [Twitter](https://twitter.com/YGetIt/), and [Instagram](https://www.instagram.com/YGetIt/), achieving over 11,000 followers and more than 700,000 views. These efforts not only increased engagement but also supported the AIDS Institute in successfully renewing the \$1.6M grant for the statewide [Clinical Education Institute](https://ceitraining.org/). The program evaluation and data-driven insights informed future work at the AIDS Institute, contributing to their March 2020 publication, ["YGetIt? Project: Using Social Media to Do What You Need to Do."](https://5529a76d-ecd7-41df-963f-23a515973942.filesusr.com/ugd/50af12_c6ac0873be6a49f8986dd87d47397c7d.pdf) These combined efforts advanced equitable health education in New York and strengthened the Institute's capacity to deliver impactful health communications to diverse communities.
 
-<iframe width="600" height="338" src="https://www.youtube.com/embed/qaDAdaKRAyQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="338" src="https://www.youtube.com/embed/qaDAdaKRAyQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
 
 New redesigned website
 
-<iframe width="600" height="338" src="https://www.youtube.com/embed/tWdW_wT0mNU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="338" src="https://www.youtube.com/embed/tWdW_wT0mNU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
 
 Old website
 

@@ -4,15 +4,15 @@ author: Elham Ali
 citation:
   url: https://www.elhamyali.com/
 date: 2023-09-15
-subtitle: "Leading research, experience design, health literacy, and communication projects to support local and state governments in COVID-19 vaccination and testing efforts."
+subtitle: "Forecasting greenhouse gas emissions reductions of a smart AI-driven agricultural technology."
 toc: true
 categories: 
   - qualitative research
   - quantitative research
   - data analysis
-  - health communication
-  - content design
-  - information architecture
+  - predictive analytics
+  - carbon sequestration
+  - data visualization
 execute: 
   echo: false
 format: html
