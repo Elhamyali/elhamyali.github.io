@@ -1,32 +1,47 @@
-name: Deploy to GitHub Pages
-
+name: Render and Deploy Quarto Site
 on:
   push:
-    branches:
-      - main
+    branches: main
+  schedule:
+    # Runs daily at midnight (EST)
+    - cron: '0 5 * * *'
 
 jobs:
-  deploy:
-    runs-on: ubuntu-latest
+  build:
+    runs-on: macOS-latest
     steps:
-      - name: Checkout the repository
-        uses: actions/checkout@v2
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '16'
-
-      - name: Install Quarto
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@v2
+      - uses: r-lib/actions/setup-pandoc@v2
+      - uses: quarto-dev/quarto-actions/setup@v2
+      - name: Query dependencies
         run: |
-          wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.0.0/quarto-1.0.0-linux-amd64.deb
-          sudo dpkg -i quarto-1.0.0-linux-amd64.deb
+          options(download.file.method = "libcurl")
+          options(repos = "https://cran.rstudio.com")
+          install.packages('remotes')
+          saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)
+        shell: Rscript {0}
 
-      - name: Render the site
-        run: quarto render
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Cache R packages
+        uses: actions/cache@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+          path: ${{ env.R_LIBS_USER }}
+          key: macOS-r-3.6-${{ hashFiles('.github/depends.Rds') }}
+          restore-keys: macOS-r-3.6-
+
+      - name: Install system dependencies
+        run: |
+          brew install libgit2
+
+      - name: Install dependencies
+        run: |
+          install.packages("remotes")
+          remotes::install_deps(dependencies = TRUE)
+        shell: Rscript {0}
+
+      - name: Publish to GitHub Pages (and render)
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
