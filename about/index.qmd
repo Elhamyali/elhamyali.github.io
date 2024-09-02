@@ -1,9 +1,7 @@
 ---
 title: "About"
-image: images/home/cover.webp
 about:
   template: marquee
-  image: images/home/cover.webp
   links:
     - icon: linkedin
       text: Linkedin
@@ -41,6 +39,8 @@ format:
     display: none;
   }
 ```
+
+![](/images/home/cover.webp)
 
 My career is a blend of [*halo-halo*](https://en.wikipedia.org/wiki/Halo-halo) (Tagalog for a mixed dessert) experiences! 🌍 I started in microfinance and international relations in East Africa, transitioned into health policy and management, and have spent the past 10 years supporting local and state governments. I've collaborated with diverse clients like the Pima County Health Department, New York State Department of Health AIDS Institute, City of Los Angeles, and US Digital Response.
 
