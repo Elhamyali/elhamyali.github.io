@@ -1,0 +1,56 @@
+---
+title: "Six ways organizations can build antifragile teams"
+description: |
+  Learn how organizations can go beyond resilience to thrive amid chaos by fostering antifragile teams. This post offers six strategies—from promoting experimentation to embracing small losses—that empower teams to grow stronger through adversity.
+date: '2023-03-28'
+image: "images/antifragile_teams.png"
+categories:
+  - Learning Design
+  - Human-centered Design
+format: html
+citation: true
+toc: true
+toc-depth: 6
+lightbox: true
+execute:
+  eval: false
+bibliography: references.bib
+---
+
+<center>![](images/antifragile_teams.png)</center>
+
+<br>
+
+At the height of the pandemic, I worked with local and state public health departments to design COVID-19 vaccination and testing products at the speed of need. Colleagues felt traumatized, disconnected, and burnt out (PH WINS data validates this too). [@debeaumont2021] It was like watching your friends go through an out-of-body experience because of this shared, collective trauma.
+
+So when I first saw the term antifragility (coined by Nassim Nicholas Taleb) in an article by Dr. Marissa J. Levine, I was intrigued. [@taleb2014; @mulloy2023] Not because humans can thrive amidst adversity but because the conditions organizations foster for their staff to prosper at work matter even more.
+
+Antifragility is about having more chaos and stress in our daily lives to test our institutions. While resilience is about bouncing back from adversity (like recovering from an injury), antifragility is about getting stronger and thriving in the face of challenges. For example, when you exercise, your muscles experience stress and strain, causing tiny tears in the fibers. However, when you rest and recover, your body repairs the damage and becomes stronger than before.
+
+To be antifragile, organizations need to do some prereqs:
+
+#### 1️⃣ Culture of experimentation to embrace uncertainty 
+
+Antifragility requires a willingness to experiment and learn. Employees need to feel safe to take calculated risks and experiment with new ideas without fear of losing their jobs or being reprimanded. Create a culture that celebrates continuous iterations of work-in-progress deliverables and recognizes that failure is necessary for learning.
+
+#### 2️⃣ Resilience and adaptability 
+
+Build cross-functional teams that can quickly adapt to changing circumstances with role charters. Encourage employees to be flexible and open-minded by applying principles from human-centered design, and provide coaching to support ongoing learning and development.
+
+#### 3️⃣ Redundancy and decentralization 
+
+Develop and train leaders and managers to value decentralization and empowerment by encouraging their teams to take ownership of their work. Build redundancies into critical systems like objective key results to prevent single points of failure.
+
+#### 4️⃣ Continuous learning and improvement 
+
+Provide ongoing training and professional development opportunities for employees. Create a culture that values feedback and encourages employees to seek new information and perspectives, whether in communities of practices, lunch and learns, etc.
+
+#### 5️⃣ Embracing small losses to prevent big ones 
+
+Encourage employees to be transparent about mistakes and failures and use these experiences as opportunities for learning and growth in retrospectives and lessons learned workshops. Build regular checkpoints and milestones to prevent significant failures down the road.
+
+#### 6️⃣ Dynamic response to change 
+
+Promote examples of agility and responsiveness, where employees are encouraged to think creatively and adapt quickly to changing circumstances. Use data and feedback to inform decision-making, and be open to pivoting or changing direction as needed.
+
+What do you need from your organization to be antifragile?

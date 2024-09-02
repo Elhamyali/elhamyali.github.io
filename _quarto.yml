@@ -21,8 +21,8 @@ website:
         text: Featured Work
       # - href: publications.qmd
       #   text: Publications
-      # - href: blog.qmd
-      #   text: Blog
+      - href: blog/index.qmd
+        text: Blog
       - href: fun.qmd
         text: Fun
       - href: about.qmd

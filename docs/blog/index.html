@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="">
 
-<title>Elham Ali - Hi👋, I’m Elham.</title>
+<title>Elham Ali - Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +24,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./images/about/elham-ali.jpg" rel="icon" type="image/jpeg">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../images/about/elham-ali.jpg" rel="icon" type="image/jpeg">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,26 +70,80 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Elham Ali - Hi👋, I’m Elham.">
-<meta property="og:description" content="Featured work and publications of Elham Ali, MPH, PMP.">
-<meta property="og:image" content="https://www.elhamyali.com/images/featured/pchd.png">
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle','listing-author','listing-summary','listing-description','listing-extsite','listing-repo',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-date"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Elham Ali - Blog">
 <meta property="og:site_name" content="https://elhamyali.com">
 <meta property="og:locale" content="es_ES">
-<meta property="og:image:height" content="608">
-<meta property="og:image:width" content="816">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Elham Ali</span>
     </a>
   </div>
@@ -97,19 +154,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Featured Work</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog/index.html"> 
+    <a class="nav-link active" href="../blog/index.html" aria-current="page"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./fun.html"> 
+    <a class="nav-link" href="../fun.html"> 
 <span class="menu-text">Fun</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
@@ -140,21 +197,24 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
+  
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Compassionate Dialogue">Compassionate Dialogue <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Human-centered Design">Human-centered Design <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Learning Design">Learning Design <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Race">Race <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Racism">Racism <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Unmuted Podcast">Unmuted Podcast <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Hi👋, I’m Elham.</h1>
+<h1 class="title">Blog</h1>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -166,138 +226,107 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p class="description">
-</p><p>Pronounced <a href="https://www.name-coach.com/elham-ali">ill-huhm</a></p>
-<p></p>
-<p>I’m a mixed-methods design researcher with a decade of experience in human-centered design, impact evaluation, and data analysis with storytelling in civic tech and public health.</p>
-<p>I’m a scholar with the <a href="https://www.cpisp.bh/">Crown Prince International Scholarship Program</a> in Bahrain 🇧🇭, and a doctoral student at Johns Hopkins University in Health Equity and Social Justice. My research helps cities equitably implement and evaluate <a href="https://www.nature.org/en-us/what-we-do/our-insights/perspectives/natural-climate-solutions/">nature-based climate solutions</a> so they can make informed decisions that improve our climate. 🌿</p>
-<p>🔍 I specialize in uncovering user behavior insights through evidence-based research and developing equity-focused, actionable data products—from maps to data stories. My goal is to help people discover deeper truths about the world and human experience, and to reveal stories that shift norms and shape conversations. Here is some of my featured work.</p>
-<div class="featured-work">
-<div class="work-item">
-<pre><code></code></pre>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./featured-work/pchd/pchd.html"><img src="images/featured/pchd.png" class="img-fluid figure-img" alt="Pima County Health Department"></a></p>
-<figcaption>Pima County Health Department</figcaption>
-</figure>
-</div>
-<p>COVID-19 vaccine delivery for Latina/o/e pregnant people</p>
-</div>
-<div class="work-item">
-<pre><code></code></pre>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./featured-work/wsbh/wsbh.html"><img src="images/featured/wsboh.png" class="img-fluid figure-img" alt="Washington State Board of Health"></a></p>
-<figcaption>Washington State Board of Health</figcaption>
-</figure>
-</div>
-<p>Decisions to require COVID-19 vaccination for school entry</p>
-</div>
-<div class="work-item">
-<pre><code></code></pre>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./featured-work/1-usdr/usdr.html"><img src="images/featured/usdr.png" class="img-fluid figure-img" alt="Image of a U.S. flag being held by a white hand with a blurred background"></a></p>
-<figcaption>U.S. Digital Response</figcaption>
-</figure>
-</div>
-<p>COVID-19 crisis delivery for 19+ local and state governments</p>
-</div>
-<div class="work-item">
-<pre><code></code></pre>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./featured-work/clf/clf.html"><img src="images/featured/clf.jpg" class="img-fluid figure-img" alt="Johns Hopkins Center for a Livable Future"></a></p>
-<figcaption>Johns Hopkins Center for a Livable Future</figcaption>
-</figure>
-</div>
-<p>Climate food labels to influence student eating behavior</p>
-</div>
-<div class="work-item">
-<pre><code></code></pre>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./featured-work/azdhs/azdhs.html"><img src="images/featured/azdhs.png" class="img-fluid figure-img" alt="Arizona Department of Health Services"></a></p>
-<figcaption>Arizona Department of Health Services</figcaption>
-</figure>
-</div>
-<p>Testing bilingual patient vaccine portal for faster bookings</p>
-</div>
-<div class="work-item">
-<pre><code></code></pre>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./featured-work/nysdoh/nysdoh.html"><img src="images/featured/2-nysdoh.jpg" class="img-fluid figure-img" alt="New York State Department of Health AIDS Institute"></a></p>
-<figcaption>New York State Department of Health AIDS Institute</figcaption>
-</figure>
-</div>
-<p>Digital tools for improved HIV prevention among young adults</p>
-</div>
-<div class="work-item">
-<pre><code></code></pre>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./featured-work/la/la.html"><img src="images/featured/la.png" class="img-fluid figure-img" alt="City of Los Angeles"></a></p>
-<figcaption>City of Los Angeles</figcaption>
-</figure>
-</div>
-<p>Racial equity hubsite with historical and actionable datasets</p>
-</div>
-<div class="work-item">
-<pre><code></code></pre>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./featured-work/rho/rho.html"><img src="images/featured/rho.png" class="img-fluid figure-img" alt="Rho Impact"></a></p>
-<figcaption>Rho Impact</figcaption>
-</figure>
-</div>
-<p>Projected greenhouse emissions cuts by new farming technology‬</p>
-</div>
-<div class="work-item">
-<pre><code></code></pre>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./featured-work/bva/bva.html"><img src="images/featured/bva.png" class="img-fluid figure-img" alt="Bureau Veritas"></a></p>
-<figcaption>Bureau Veritas</figcaption>
-</figure>
-</div>
-<p>Rebrand of an $11M merger and acquisition of six companies</p>
-</div>
-<div class="work-item">
-<pre><code></code></pre>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./featured-work/foodplanet/foodplanet.html"><img src="images/featured/foodplanet.png" class="img-fluid figure-img" alt="Food+Planet"></a></p>
-<figcaption>Food+Planet</figcaption>
-</figure>
-</div>
-<p>Analysis of dietitian attitudes and actions towards sustainable diets</p>
-</div>
-<div class="work-item">
-<pre><code></code></pre>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./featured-work/columbia/columbia.html"><img src="images/featured/columbia.png" class="img-fluid figure-img" alt="Columbia University"></a></p>
-<figcaption>Columbia University</figcaption>
-</figure>
-</div>
-<p>Impact of lactation pods among pregnant and lactating staff</p>
-</div>
-<div class="work-item">
-<pre><code></code></pre>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./featured-work/healthcare/healthcare.html"><img src="images/featured/healthcare.png" class="img-fluid figure-img" alt="Healthcare Ready"></a></p>
-<figcaption>Healthcare Ready</figcaption>
-</figure>
-</div>
-<p>Multilingual patient and clinician education on COVID-19 treatment</p>
-</div>
-</div>
 
 
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Learning Design,Human-centered Design" data-listing-date-sort="1679950800000" data-listing-file-modified-sort="1725272170453" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="447">
+<div class="thumbnail">
+<p><a href="../blog/2023-03-28-six-ways-organizations-can-build-antifragile-teams/index.html" class="no-external"></a></p><a href="../blog/2023-03-28-six-ways-organizations-can-build-antifragile-teams/index.html" class="no-external">
+<p><img src="../blog/2023-03-28-six-ways-organizations-can-build-antifragile-teams/images/antifragile_teams.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/2023-03-28-six-ways-organizations-can-build-antifragile-teams/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/2023-03-28-six-ways-organizations-can-build-antifragile-teams/index.html" class="no-external">Six ways organizations can build antifragile teams</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/2023-03-28-six-ways-organizations-can-build-antifragile-teams/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../blog/2023-03-28-six-ways-organizations-can-build-antifragile-teams/index.html" class="no-external">Learn how organizations can go beyond resilience to thrive amid chaos by fostering antifragile teams. This post offers six strategies—from promoting experimentation to embracing small losses—that empower teams to grow stronger through adversity. </a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/2023-03-28-six-ways-organizations-can-build-antifragile-teams/index.html" class="no-external">
+<div class="listing-date">
+2023-03-28
+</div>
+<div class="listing-author">
+Elham Ali
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="Learning Design" data-listing-date-sort="1676235600000" data-listing-file-modified-sort="1725271107471" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="154">
+<div class="thumbnail">
+<p><a href="../blog/2023-02-13-learning-fast-and-slow/index.html" class="no-external"></a></p><a href="../blog/2023-02-13-learning-fast-and-slow/index.html" class="no-external">
+<p><img src="../blog/2023-02-13-learning-fast-and-slow/images/learning_fast_slow.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/2023-02-13-learning-fast-and-slow/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/2023-02-13-learning-fast-and-slow/index.html" class="no-external">Learning fast and slow</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/2023-02-13-learning-fast-and-slow/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../blog/2023-02-13-learning-fast-and-slow/index.html" class="no-external">Is it better to learn intensively or slowly over time? Research suggests a mix might be best: start strong, then shift to continuous review. Could this approach apply to everything from language learning to design bootcamps? How do you prefer to learn? </a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/2023-02-13-learning-fast-and-slow/index.html" class="no-external">
+<div class="listing-date">
+2023-02-13
+</div>
+<div class="listing-author">
+Elham Ali
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="Unmuted Podcast,Race,Racism,Compassionate Dialogue" data-listing-date-sort="1654203600000" data-listing-file-modified-sort="1725273370322" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="564">
+<div class="thumbnail">
+<p><a href="../blog/2022-06-09-how-to-talk-about-race-with-white-peers/index.html" class="no-external"></a></p><a href="../blog/2022-06-09-how-to-talk-about-race-with-white-peers/index.html" class="no-external">
+<p><img src="../blog/2022-06-09-how-to-talk-about-race-with-white-peers/images/unmuted_ep1.png" class="thumbnail-image"></p>
+</a><p><a href="../blog/2022-06-09-how-to-talk-about-race-with-white-peers/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/2022-06-09-how-to-talk-about-race-with-white-peers/index.html" class="no-external">Unmuted Episode Show Notes: How to talk about race with white peers</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/2022-06-09-how-to-talk-about-race-with-white-peers/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../blog/2022-06-09-how-to-talk-about-race-with-white-peers/index.html" class="no-external">Join racial reconciliation leader John Bobb-Semple as he shares insights on navigating tough conversations about race and equity with empathy and vulnerability. Listen to his journey, reflections on identity, and practical ways to bridge community divides. Available now on Apple Podcasts, Spotify, and Amazon Music. </a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/2022-06-09-how-to-talk-about-race-with-white-peers/index.html" class="no-external">
+<div class="listing-date">
+2022-06-03
+</div>
+<div class="listing-author">
+Elham Ali
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
