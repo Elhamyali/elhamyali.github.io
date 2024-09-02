@@ -4,7 +4,7 @@ author: Elham Ali
 citation:
   url: https://www.elhamyali.com/
 date: 2023-05-30
-subtitle: "Coming soon!"
+subtitle: "Designing holistic experiences for health-seeking clients to improve health literacy and vaccine access and health communication for clinicians."
 toc: true
 categories: 
   - qualitative research
@@ -37,28 +37,28 @@ Coming soon!
 Coming soon!
 
 ::: {layout-ncol="2"}
-![](1-usdr.webp){group="gallery"}
+![HCD double diamond](1-pchd.png){group="gallery"}
 
-![](2-usdr.webp){group="gallery"}
+![Client journey](4-pchd.png){group="gallery"}
 
-![](3-usdr.webp){group="gallery"}
+![Ecosystem mapping](2-pchd.png){group="gallery"}
 
-![](4-usdr.webp){group="gallery"}
+![Personas](3-pchd.png){group="gallery"}
 
-![](5-usdr.webp){group="gallery"}
+![Vaccination influences](5-pchd.png){group="gallery"}
 
-![](6-usdr.webp){group="gallery"}
+![Co-creation sessions](6-pchd.png){group="gallery"}
 
-![](7-usdr.webp){group="gallery"}
+![Prototype testing materials](7-pchd.png){group="gallery"}
 
-![](8-usdr.webp){group="gallery"}
+![Clinical pilot supporting tools](8-pchd.png){group="gallery"}
 :::
 
 ## Testimonial
 
-*"Coming soon!"*
+*"Elham, I had to take my HCD training. Your training is amazing! Elham was a game-changer in our approach to human-centered design in our county. Her creativity and expertise in organizational equity were pivotal when we developed and implemented four major health literacy projects to improve COVID-19 vaccination health literacy among Latina/o/e pregnant people under a $4M federal grant. Elham's remarkable ability to strategize and pivot when needed, combined with her rigorous research and human-centered design approach, has not only improved our department's capabilities but also established a sustainable model for health equity. Her leadership in forming partnerships and her visionary approach to integrating design thinking into our work processes have left a lasting impact on Pima County Health Department."*
 
-\- Coming soon
+\- Theresa Cullen, MD, MS, Public Health Director at Pima County Health Department
 
 <!-- Navigation Arrows -->
 
