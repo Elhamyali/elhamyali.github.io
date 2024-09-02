@@ -44,9 +44,12 @@ website:
    
 format:
   html:
-      theme: cosmo
+      theme:
+        light: cosmo
+        dark: [cosmo, theme-dark.scss]
       css: styles.css
       toc: true
+      highlight-style: arrow
       include-in-header:
         - https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
         - https://cdn.jsdelivr.net/npm/glightbox@3.1.0/dist/css/glightbox.min.css
