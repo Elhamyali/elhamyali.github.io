@@ -1,0 +1,71 @@
+---
+title: "Unmuted Episode Show Notes: Taking risks without being at risk"
+description: |
+  In this episode, Hunter Gatewood shares how to create a culture of trust and power-sharing in group settings so everyone to can take risks safely. Discover practical strategies for fostering safety, nurturing trust, and managing change effectively. Listen now on Apple Podcasts, Spotify, or Amazon Music.
+date: '2022-08-05'
+image: "images/unmuted_ep3.png"
+categories:
+  - Unmuted Podcast
+  - Organizational safety
+  - Culture builders
+  - Leadership
+format: html
+citation: true
+toc: true
+toc-depth: 6
+lightbox: true
+execute:
+  eval: false
+---
+
+<center>![](images/unmuted_ep3.png)</center>
+
+<br>
+
+Remember what it is like being in a workshop or a group meeting to collaborate on a specific project or task? Awkward silences, loud voices dominating, and lack of direction in the conversation. We have all been there. In this episode, we talk with [[Hunter Gatewood]{.underline}](https://www.linkedin.com/in/hgatewood), who shares group agreements that build a culture of power-sharing, safety, and trustworthiness so everyone can take risks without being at risk. Previously a social worker, Hunter Gatewood is the Owner of Signal Key Consulting and an instructor and coach for team leaders.
+
+Here are highlights from our conversation with Hunter on the Unmuted Podcast. Listen to the full episode to hear Hunter talk about his career start as a social worker, the role of safety in protecting people\'s narratives, nurturing trust, and fostering healing in teams amidst changing political and social climates.
+
+Listen to the episode on [[Apple Podcast]{.underline}](https://apple.co/3zGHLZ7), [[Spotify]{.underline}](https://spoti.fi/3xXa4RP), or [[Amazon Music]{.underline}](https://amzn.to/3yiDOZf).
+
+### Conversation highlights
+
+-   Growing Beginnings as a **social worker** in San Francisco, starting a company, and path as an instructor and coach
+
+-   The **role of power-sharing** in workshops and meetings,
+
+-   **Nurturing safety** from being at risk while coaching teams and leaders in change management, and process improvement work
+
+-   **Visual communication and doodling** as a bridge and power level
+
+-   **The Six Culture Builders for Team Leaders** to build psychological safety and trust
+
+-   **Culturally and linguistically appropriate** builders for a just culture
+
+-   How to foster **organizational healing**
+
+-   Managing **change fatigue** amid political, social, and economic climates
+
+-   **Why being at rest** and at pause is important
+
+### Memorable moments
+
+{{< video "https://www.youtube.com/watch?v=Y2sS_OMqlMQ" >}}
+
+> "Sharing power is what a lot of opportunity and leadership is about. And it's definitely what needs to happen. So on a, let's say, at a micro level in a instruction session on one of my courses or in a coaching, scenario, group coaching, like the one I was just talking about, one way to share power is to make sure everyone's heard, right, that's what you were part of what you were alluding to. And one way to make sure everybody's heard, it just has a facilitator, this is real simple, is have everybody sit and write, sit and think and write for five minutes before instead of just going with whoever stands up or raises their hand or you know, is really good at interrupting or, you know, getting into the flow of conversation, because they're used to people listening to them, and they're, they're more extroverted probably. So just having that pause to say, Come up with your ideas, and then we're going to share them and you can share them in writing with the person next to you. There's lots of ways to build that out until it's shared in the whole group. So that's one way to help people who is to set that expectation and set and set again, it's we're not just gonna start talking. We're gonna have everybody write something down so that everyone has something to contribute, if they choose to."
+
+\- Hunter Gatewood
+
+### Episode transcript
+
+[Download the episode transcript (PDF)](images/unmuted_ep3_transcript.pdf).
+
+### About the speaker
+
+Hunter Gatewood is the Owner of Signal Key Consulting and an instructor and coach for team leaders who helps mission-driven organizations and individuals from grant-makers to hospitals and schools do good better. Hunter helps people move from strategy to implementation, building their knowledge and effectiveness at each step so they are more capable and confident in facing the next set of changes. He does this through the design and facilitation of professional learning networks and change management initiatives, and shorter strategic planning and instruction engagements. Through work with Hunter and the Signal Key team, clients get measurable results for the people they serve and new knowledge and skills for themselves.
+
+Connect with Hunter on [[Linkedin]{.underline}](https://www.linkedin.com/in/hgatewood)and [[Signal Key Consulting]{.underline}](https://www.signalkey.com/). Participate in the [[Six Culture Builders for Team Leaders]{.underline}](https://www.signalkey.com/courses-community)this September and attend the free monthly [[Recharging Series]{.underline}](https://www.signalkey.com/courses-community)class today.
+
+### Let's connect
+
+Have questions on equity and justice or want to speak on Unmuted? Email [elham.yusufali\@gmail.com](mailto:elham.yusufali@gmail.com).

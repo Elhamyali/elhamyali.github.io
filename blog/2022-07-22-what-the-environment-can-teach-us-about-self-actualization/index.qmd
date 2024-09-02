@@ -1,0 +1,69 @@
+---
+title: "Unmuted Episode Show Notes: What the environment can teach us about self-actualization"
+description: |
+  Explore how the natural and built environments can shape both personal and organizational self-actualization. Join Ronnell Hampton as he shares his journey and insights on fostering justice through permaculture design, ecosystem thinking, and the power of community engagement. Listen now on Apple Podcasts, Spotify, or Amazon Music.
+date: '2022-07-22'
+image: "images/unmuted_ep2.png"
+categories:
+  - Unmuted Podcast
+  - Built environment
+  - Ecosystem thinking
+  - Permaculture design
+format: html
+citation: true
+toc: true
+toc-depth: 6
+lightbox: true
+execute:
+  eval: false
+---
+
+<center>![](images/unmuted_ep2.png)</center>
+
+<br>
+
+We all want to realize our true potential and unlock our best selves. This is self-actualization. But what helps organizations achieve self-actualization to deliver equitable and just services and products to communities most historically marginalized? [[Ronnell Hampton]{.underline}](https://www.linkedin.com/in/ronnell-hampton8830) says we like to think it\'s only nurture - but in his personal experiences and work, he has found it\'s also more often nature and the built environment. Ronnell Hampton is the Principal Equity Strategy at a large government municipality and the Founder of Growing Greatness.
+
+Here are highlights from our conversation with Ronnell on the Unmuted Podcast. Listen to the full episode to hear Ronnell talk about his story in foster care, the role of safety in protecting people\'s narratives, organizational self-actualization, and the role of permaculture design and ecosystem thinking in shaping a culture of justice.
+
+Listen to this episode on [[Apple Podcast]{.underline}](https://apple.co/3zGHLZ7), [[Spotify]{.underline}](https://spoti.fi/3xXa4RP), or [[Amazon Music]{.underline}](https://music.amazon.com/podcasts/46744d66-475b-4238-8ba5-bee12f995ef9)[.]{.underline}
+
+### Conversation highlights
+
+-   The impact of **foster care** on Ronnell and his calling.
+
+-   **Aha moments** that became drivers working in justice and equity.
+
+-   What **self-actualization** looks like for Ronnell, the highest form in Maslow\'s hierarchy of needs.
+
+-   How self-actualization can manifest in high-performing organizations to **build a culture of justice**.
+
+-   Discussion if self-actualization is a **privilege** and a luxury that only those with social and financial capital can achieve.
+
+-   Frameworks in **permaculture design and ecosystem thinking** to impact the built environment to design sustainable systems.
+
+-   What can **nature and ants teach us** about collective movement and organizational designs toward one mission?
+
+-   What is **one thing an individual can do** today to influence systemic structure to build a culture of justice?
+
+### Memorable moments
+
+{{< video "https://www.youtube.com/embed/bmj92O_mikU" >}}
+
+> "This idea of self-actualization comes through engagement you have to engage with people to self-actualize. When you are alone, you only have yourself to bounce your ideas off to be your control for your testing and your theories and your thinking. But when you engage with folks, you get to see not only if you're testing your thinking works, but how others people testing and thinking works. And when we're isolated in community, or an individual space, our ability to comprehend other people's positions, or even be willing to analyze or consider other people's position."
+
+\- Ronnell Hampton
+
+### Episode transcript
+
+[Download the episode transcript (PDF)](images/unmuted_ep2_transcript.pdf).
+
+### About the speaker
+
+Ronnell Hampton, MA Is a Principal Equity Strategist in a government municipality in Los Angeles, CA. Ronnell\'s work focuses on the digital divide, food security, and COVID-19 response, as well as supporting the development of a Racial Equity Office. He is also the founder of Growing Greatness, an organization committed to social and environmental justice by providing consultation and customized training for small to midsize organizations that include DEI, Social Justice, Policy, and Personal Development. Ronnell's passion is rooted in developing infrastructure and resources to improve underserved and underrepresented communities' outcomes.
+
+Connect with Ronnell on [[Linkedin]{.underline}](https://www.linkedin.com/in/ronnell-hampton8830), [[Email]{.underline}](mailto:growinggreatnessnow@gmail.com), and [[Growing Greatness Now]{.underline}](https://www.growinggreatnessnow.com/).
+
+### Let's connect
+
+Have questions on equity and justice or want to speak on Unmuted? Email [elham.yusufali\@gmail.com](mailto:elham.yusufali@gmail.com).
