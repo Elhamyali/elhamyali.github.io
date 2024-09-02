@@ -1,0 +1,56 @@
+---
+title: "Food+Planet"
+author: Elham Ali
+citation:
+  url: https://www.elhamyali.com/
+date: 2023-10-01
+subtitle: "Exploring dietitians' attitudes on sustainable diets with data analysis and visualization of a national survey of 1,500 dietitians." 
+toc: true
+categories: 
+  - qualitative research
+  - quantitative research
+  - data analysis
+  - health communication
+  - content design
+  - information architecture
+execute: 
+  echo: false
+format: html
+lightbox: 
+  match: auto
+  desc-position: right
+  loop: true
+  effect: zoom
+---
+
+## Challenge
+
+Food + Planet, a nonprofit aiming to empower 1 million health professionals to advance sustainable food systems by 2025, wanted to understand not only dietitians' attitudes and beliefs about sustainable diets but also their behaviors. This insight would help design and launch a targeted curriculum for dietitians to integrate sustainable practices into their work and communities effectively.
+
+## Approach
+
+[![](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)](#) [![](https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white)](#) [![](https://img.shields.io/badge/Matplotlib-11557C?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA30lEQVQ4T6XTMUsDQRTG8Z/zBs5kIUIRpYLlYiIfQJZycX0AesG1WAmzRXSycRRBPdBTdyJWLCKUDoJaGQERERyZMb9gfi5dr3POnzph5zn/OLwK/IhmRzrJ+ZhiAWrAqw7sSKIY3kuuwBDdlY5REp7myXJmhp/GfwO5K3gR59bJd2MScA9TA8J5F83RfI/IZDMLu3GR8ArjEFepAwdsC79VmKLwCXbaMs0UXmAgII+kN72rUq0uZ3QLRWKJ1geuwfj1xVj9G4GvH/AoBZzzY7aZtHfHsAsvX4GpI1VbJDbDEAAAAASUVORK5CYII=&logoColor=white)](#) [![](https://img.shields.io/badge/Seaborn-46B6B6?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAnUlEQVQ4T2NkQAOdpMd//9fo/3mFYGBg6wAyI4EQXAbCj4JWqBChOHB1VTR0DmwKZIQBV0+vAPuAVCCxoEF7AiANRLTnAyAE8g0IqOEHzJDA8Yy3IQjPRAUSwmEoHsJqCGDL9AboOczTCJCC5E0IIW8BoiMlUQ2SFrCGic1IisAqwYVoRlo0AK+F+AMbgTIDzDtAEB+jMwN5OAHML3oKjINCoDAAAAAElFTkSuQmCC&logoColor=white)](#)
+
+I led an analysis of a national survey with 1,500 dietitians, using Python including data cleaning, transformation and visualization with Matplotlib and Seaborn. I also prepared an executive summary and article to highlight the key findings and presented it to stakeholders. I also improved future iteration of this survey for longitudinal analysis with an analysis plan, sample size approach, weighting, and design.
+
+## Results
+
+The analysis, published in partnership with [Today's Dietitian Magazine](https://www.todaysdietitian.com/) and the [Johns Hopkins Center for a Livable Future](https://clf.jhsph.edu/), provided insights that could help secure additional funding for the organization. It revealed important information about how dietitians in different roles within health systems and fitness industries are adopting sustainable diets. To make the findings accessible to non-technical practitioners, all analyses were reproduced in Excel, allowing them to recreate and customize the visualizations.
+
+[View the full publication on Food + Planet](https://foodandplanet.org/experience/)
+
+-   [Survey insights](https://drive.google.com/file/d/1LGNZr36cZDxHjtyJsp3INg_TDsYyKaCY/view)
+
+-   [Press release](https://drive.google.com/file/d/1MnoRevrB_DOMXEwI_GWAm2fGHn1CZPM_/view)
+
+::: {layout-ncol="2"}
+![](1-foodplanet.png){group="gallery"}
+
+![](2-foodplanet.png){group="gallery"}
+:::
+
+<!-- Navigation Arrows -->
+
+::: article-navigation
+<a href="/featured-work/bureau-veritas/index.qmd" class="nav-arrow left-arrow">←</a> <!-- Left arrow for previous --> <a href="/featured-work/columbia-university/index.qmd" class="nav-arrow right-arrow">→</a> <!-- Right arrow for next -->
+:::

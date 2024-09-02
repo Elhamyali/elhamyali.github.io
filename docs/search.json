@@ -649,5 +649,369 @@
     "title": "City of Los Angeles",
     "section": "Testimonial",
     "text": "Testimonial\n“I enjoyed working with Elham and USDR on a racial equity project for the City of Los Angeles. Elham was wonderful to work with and excelled as the project lead. She gave us the structure that we needed, and connected us with an impressive team of technologists. Her leadership helped us get the project off the ground and through the prototyping stage. I highly recommend working with her for her grasp of public policy issues, technology expertise, and ability to drive projects forward.”\n- Eva Pereira, Chief Data Officer at City of Los Angeles\n\n\n←  → \n\n\n\n\nUser research methods used\nLogic model of the racial equity hub\nContent development guidelines\nPrototype of racial equity hub historical context\nPrototype of community stories\nPrototype of deep data dives\nContact us prototype\nExample of a quote from a research participant"
+  },
+  {
+    "objectID": "featured-work/washington-state-board-health/index.html",
+    "href": "featured-work/washington-state-board-health/index.html",
+    "title": "Washington State Board of Health",
+    "section": "",
+    "text": "The Washington State Board of Health (SBOH) considered adding the COVID-19 vaccine to the list of required immunizations for school entry, prompting a surge in public engagement. This proposal led to the formation of a technical advisory group in December 2021. However, the Board was overwhelmed by more than 30,000 emails and 50,000 community comments, including both legitimate inquiries and organized misinformation campaigns. With only two staff members available to manage media relations, public records requests, and customer service, SBOH lacked the capacity to analyze the feedback effectively. The challenge was to develop an approach that could handle the massive volume of data while understanding the context and sentiment of the responses."
+  },
+  {
+    "objectID": "featured-work/washington-state-board-health/index.html#challenge",
+    "href": "featured-work/washington-state-board-health/index.html#challenge",
+    "title": "Washington State Board of Health",
+    "section": "",
+    "text": "The Washington State Board of Health (SBOH) considered adding the COVID-19 vaccine to the list of required immunizations for school entry, prompting a surge in public engagement. This proposal led to the formation of a technical advisory group in December 2021. However, the Board was overwhelmed by more than 30,000 emails and 50,000 community comments, including both legitimate inquiries and organized misinformation campaigns. With only two staff members available to manage media relations, public records requests, and customer service, SBOH lacked the capacity to analyze the feedback effectively. The challenge was to develop an approach that could handle the massive volume of data while understanding the context and sentiment of the responses."
+  },
+  {
+    "objectID": "featured-work/washington-state-board-health/index.html#approach",
+    "href": "featured-work/washington-state-board-health/index.html#approach",
+    "title": "Washington State Board of Health",
+    "section": "Approach",
+    "text": "Approach\n   \n\n\n\n\n\n\nNote\n\n\n\nWatch my recorded workship in partnership with Innovate(US) on “How to Apply Human-Centered Design to Government AI Projects.” Learn how I integrated human-centered design and equity principles into the design and use of AI for the Washington State Board of Health project. View code on Github\n\n\nAmid strong public opposition to mandatory COVID-19 vaccinations in schools, the Washington State Board of Health needed data-driven insights to understand public satisfaction, dissatisfaction, and factors influencing vaccine acceptance. Collaborating with U.S. Digital Response, I worked alongside Dr. Chimobi Ucha, a computer and data scientist, and the Board’s Communications Manager and Policy Team to analyze 80,000 public comments from emails, survey responses, and public meeting transcripts.\nMy approach began with sentiment analysis and text mining of all feedback, using R for text mining and sentiment analysis. My teammate and I created a phased pipeline to process comments from town meeting transcripts, emails, and survey responses, using a combination of R libraries. The analysis pipeline consisted of a scraper, relevancy model, sentiment model, text analysis model, and thematic analysis, which allowed us to classify comments as positive, neutral, or negative.\nWe focused on identifying key names, organizations, and keywords associated with misinformation campaigns and used frequency analysis and topic modeling to identify common themes. A random sample of comments was further analyzed thematically using Atlas.ti and Miro. This systematic approach significantly improved our precision-recall score from 34% to 91%-92%, allowing us to uncover the underlying beliefs, values, and attitudes driving public opinion on the vaccine mandate."
+  },
+  {
+    "objectID": "featured-work/washington-state-board-health/index.html#results",
+    "href": "featured-work/washington-state-board-health/index.html#results",
+    "title": "Washington State Board of Health",
+    "section": "Results",
+    "text": "Results\nOur findings helped the Board better understand public sentiment and shaped more effective communication strategies, centered on open and transparent discussions in public meetings. The insights we provided also informed improvements to the data collection process, so that the Board can gauge resident opinions and respond proactively to concerns. The results and our process, including the analysis code and repository, were shared with the Board for future use.\n\n\n\n\n\n\n\n\n\nAnalysis of the most frequent words in survey responses\n\n\n\n\n\n\n\nMost common words found in public comments\n\n\n\n\n\n\n\n\n\nMapping keywords and influential entities associated with COVID-19 in Washington State\n\n\n\n\n\n\n\nExamples of public comments and key highlight\n\n\n\n\n\n\n\n\n\nWordcloud of top keywords in clusters of themes\n\n\n\n\n\n\n\nVisual representation of initial analysis from dominant words to more nuanced themes"
+  },
+  {
+    "objectID": "featured-work/washington-state-board-health/index.html#testimonial",
+    "href": "featured-work/washington-state-board-health/index.html#testimonial",
+    "title": "Washington State Board of Health",
+    "section": "Testimonial",
+    "text": "Testimonial\n“Oh my gosh this is amazing. I wish our agency had funding to hire people to do this work. These are the insights that our agency needs to inform policy, approach, communication, how we are engaging, etc. This is fascinating. We were aware of [reciprocity concerns / opportunities], but didn’t know the extent or have the language. Deepest gratitude & appreciation for this team. You were amazing & so helpful. The work & presentation was very informative & extremely helpful. I will be using it & see great value to the rest of the team.” \n- Kellie Kahler, Communications Manager, WA State Board of Health\n\n\n←  → \n\n\n\n\nAnalysis of the most frequent words in survey responses\nMost common words found in public comments\nMapping keywords and influential entities associated with COVID-19 in Washington State\nExamples of public comments and key highlight\nWordcloud of top keywords in clusters of themes\nVisual representation of initial analysis from dominant words to more nuanced themes"
+  },
+  {
+    "objectID": "featured-work/food-planet/index.html",
+    "href": "featured-work/food-planet/index.html",
+    "title": "Food+Planet",
+    "section": "",
+    "text": "Food + Planet, a nonprofit aiming to empower 1 million health professionals to advance sustainable food systems by 2025, wanted to understand not only dietitians’ attitudes and beliefs about sustainable diets but also their behaviors. This insight would help design and launch a targeted curriculum for dietitians to integrate sustainable practices into their work and communities effectively."
+  },
+  {
+    "objectID": "featured-work/food-planet/index.html#challenge",
+    "href": "featured-work/food-planet/index.html#challenge",
+    "title": "Food+Planet",
+    "section": "",
+    "text": "Food + Planet, a nonprofit aiming to empower 1 million health professionals to advance sustainable food systems by 2025, wanted to understand not only dietitians’ attitudes and beliefs about sustainable diets but also their behaviors. This insight would help design and launch a targeted curriculum for dietitians to integrate sustainable practices into their work and communities effectively."
+  },
+  {
+    "objectID": "featured-work/food-planet/index.html#approach",
+    "href": "featured-work/food-planet/index.html#approach",
+    "title": "Food+Planet",
+    "section": "Approach",
+    "text": "Approach\n   \nI led an analysis of a national survey with 1,500 dietitians, using Python including data cleaning, transformation and visualization with Matplotlib and Seaborn. I also prepared an executive summary and article to highlight the key findings and presented it to stakeholders. I also improved future iteration of this survey for longitudinal analysis with an analysis plan, sample size approach, weighting, and design."
+  },
+  {
+    "objectID": "featured-work/food-planet/index.html#results",
+    "href": "featured-work/food-planet/index.html#results",
+    "title": "Food+Planet",
+    "section": "Results",
+    "text": "Results\nThe analysis, published in partnership with Today’s Dietitian Magazine and the Johns Hopkins Center for a Livable Future, provided insights that could help secure additional funding for the organization. It revealed important information about how dietitians in different roles within health systems and fitness industries are adopting sustainable diets. To make the findings accessible to non-technical practitioners, all analyses were reproduced in Excel, allowing them to recreate and customize the visualizations.\nView the full publication on Food + Planet\n\nSurvey insights\nPress release\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n←  →"
+  },
+  {
+    "objectID": "featured-work/new-york-state-department-health-aids-institute/index.html",
+    "href": "featured-work/new-york-state-department-health-aids-institute/index.html",
+    "title": "New York State Department of Health AIDS Institute",
+    "section": "",
+    "text": "The AIDS Institute at the New York State Department of Health faced uncertainty about whether their edutainment comic, Tested, was effectively reaching their 700k+ Webtoons readers and how to create culturally responsive content that met the needs and interests of their readers. Their website, which hosted key resources on HIV management and prevention, was outdated and not user-friendly, limiting its effectiveness in engaging users and delivering critical health information. The Institute needed insights to make data-driven decisions for future content development and to support their funding proposal, including renewing a $1.6M grant for a statewide clinical education program aligned with the Ending the Epidemic (ETE) goals.\nTo address these challenges, I led research and design efforts to redesign the YGetIt? project website, which aims to engage, link, and retain people in care through a mobile app, GET!, and the Tested comic. I spearheded social media strategies and analyzed engagement data to support funding proposals, including renewing a $1.6M RFP for a statewide clinical education program impacting 18,000 physicians aligned with the Ending the Epidemic (ETE) goals. My role was to uncover key insights to inform their strategies and ensure that both the web redesign and content remained relevant and impactful to their diverse audience."
+  },
+  {
+    "objectID": "featured-work/new-york-state-department-health-aids-institute/index.html#challenge",
+    "href": "featured-work/new-york-state-department-health-aids-institute/index.html#challenge",
+    "title": "New York State Department of Health AIDS Institute",
+    "section": "",
+    "text": "The AIDS Institute at the New York State Department of Health faced uncertainty about whether their edutainment comic, Tested, was effectively reaching their 700k+ Webtoons readers and how to create culturally responsive content that met the needs and interests of their readers. Their website, which hosted key resources on HIV management and prevention, was outdated and not user-friendly, limiting its effectiveness in engaging users and delivering critical health information. The Institute needed insights to make data-driven decisions for future content development and to support their funding proposal, including renewing a $1.6M grant for a statewide clinical education program aligned with the Ending the Epidemic (ETE) goals.\nTo address these challenges, I led research and design efforts to redesign the YGetIt? project website, which aims to engage, link, and retain people in care through a mobile app, GET!, and the Tested comic. I spearheded social media strategies and analyzed engagement data to support funding proposals, including renewing a $1.6M RFP for a statewide clinical education program impacting 18,000 physicians aligned with the Ending the Epidemic (ETE) goals. My role was to uncover key insights to inform their strategies and ensure that both the web redesign and content remained relevant and impactful to their diverse audience."
+  },
+  {
+    "objectID": "featured-work/new-york-state-department-health-aids-institute/index.html#approach",
+    "href": "featured-work/new-york-state-department-health-aids-institute/index.html#approach",
+    "title": "New York State Department of Health AIDS Institute",
+    "section": "Approach",
+    "text": "Approach\n   \n\n\n\n\n\n\nNote\n\n\n\nView code on Github\n\n\nI developed a cohesive strategy using health communication methods, including community mobilization and citizen engagement, to redesign the YGetIt? website and enhance social media campaigns. This involved creating a brand guide and design system that was story-driven, youth-led, and action-oriented. To evaluate the impact of social media campaigns, I designed a logic model and integrated tools like Google Analytics, heatmaps, and eye-tracking software to monitor user engagement and encourage care-seeking behaviors.\nTo better understand and engage YGetIt?’s audience, I scraped over 600 comments from the Tested comic on Webtoons using Python, Pandas, and Selenium. I conducted thematic and exploratory data analysis to identify trends in public sentiment and inform the creation of culturally responsive content for future episodes. This data-driven approach guided the visual design and content strategy for the website. I performed usability testing through various design fidelities that led to a centralized platform where readers could easily subscribe to edutainment episodes, access actionable HIV resources, and engage with each other."
+  },
+  {
+    "objectID": "featured-work/new-york-state-department-health-aids-institute/index.html#results",
+    "href": "featured-work/new-york-state-department-health-aids-institute/index.html#results",
+    "title": "New York State Department of Health AIDS Institute",
+    "section": "Results",
+    "text": "Results\nThe redesigned YGetIt? website, launched in December 2020, featured new content, an updated information architecture, and a cohesive design system, significantly enhancing the user experience. Through strategic social media efforts, YGetIt? expanded its presence on Facebook, Twitter, and Instagram, achieving over 11,000 followers and more than 700,000 views. These efforts not only increased engagement but also supported the AIDS Institute in successfully renewing the $1.6M grant for the statewide Clinical Education Institute. The program evaluation and data-driven insights informed future work at the AIDS Institute, contributing to their March 2020 publication, “YGetIt? Project: Using Social Media to Do What You Need to Do.” These combined efforts advanced equitable health education in New York and strengthened the Institute’s capacity to deliver impactful health communications to diverse communities.\n\n\nNew redesigned website\n\n\nOld website\n\n\n\n\n\n\n\n\n\nTested comic characters\n\n\n\n\n\n\n\nYGetIt? mobile app with resource library\n\n\n\n\n\n\n\n\n\nFirst prototype of old YGetIt? website homepage\n\n\n\n\n\n\n\nTested comic characters\n\n\n\n\n\n\n\n\n\nLogic model for first social media campaign\n\n\n\n\n\n\n\nData collected from first social media campaign\n\n\n\n\n\n\n\n←  → \n\n\n\n\nTested comic characters\nYGetIt? mobile app with resource library\nFirst prototype of old YGetIt? website homepage\nTested comic characters\nLogic model for first social media campaign\nData collected from first social media campaign"
+  },
+  {
+    "objectID": "featured-work/healthcare-ready/index.html",
+    "href": "featured-work/healthcare-ready/index.html",
+    "title": "Healthcare Ready",
+    "section": "",
+    "text": "Many residents and health practitioners across the country were unaware of effective early COVID-19 treatments, such as monoclonal antibody therapy, that could help prevent severe outcomes. In collaboration with the HHS, Administration for Strategic Preparedness and Response (ASPR), and representatives of the private sector, I supported Healthcare Ready, a nonprofit focused on healthcare supply chains and disaster response, in launching an educational campaign to address this gap. The goal was to create printed and digital materials for distribution at COVID-19 testing sites, providing clear and accessible information in plain-language about monoclonal antibodies as an early treatment option for those at risk for COVID-19.​"
+  },
+  {
+    "objectID": "featured-work/healthcare-ready/index.html#challenge",
+    "href": "featured-work/healthcare-ready/index.html#challenge",
+    "title": "Healthcare Ready",
+    "section": "",
+    "text": "Many residents and health practitioners across the country were unaware of effective early COVID-19 treatments, such as monoclonal antibody therapy, that could help prevent severe outcomes. In collaboration with the HHS, Administration for Strategic Preparedness and Response (ASPR), and representatives of the private sector, I supported Healthcare Ready, a nonprofit focused on healthcare supply chains and disaster response, in launching an educational campaign to address this gap. The goal was to create printed and digital materials for distribution at COVID-19 testing sites, providing clear and accessible information in plain-language about monoclonal antibodies as an early treatment option for those at risk for COVID-19.​"
+  },
+  {
+    "objectID": "featured-work/healthcare-ready/index.html#approach",
+    "href": "featured-work/healthcare-ready/index.html#approach",
+    "title": "Healthcare Ready",
+    "section": "Approach",
+    "text": "Approach\nAs a user researcher and advisor, I worked closely with a project manager, experience designer, and content strategist to develop an effective educational campaign. I began by defining the project scope, outlining deliverables, setting the schedule, identifying potential risks and dependencies, and establishing the roles within the team. We then moved to concept testing, where I coordinated sessions with a panel of residents and clinicians to gather insights on the draft educational flyers. This testing revealed the need for simple language, messages that matched patient values, personal stories, and trusted sources.\nUsing these insights, I developed clear recommendations for the design and content of the materials. I reviewed and edited the flyers and website content to make sure they followed FDA guidelines and health literacy standards. I also translated the patient education materials into Tagalog and Arabic to reach more communities. To measure the campaign’s effectiveness, I advised on using Google Analytics to track how people interacted with the content."
+  },
+  {
+    "objectID": "featured-work/healthcare-ready/index.html#results",
+    "href": "featured-work/healthcare-ready/index.html#results",
+    "title": "Healthcare Ready",
+    "section": "Results",
+    "text": "Results\nWithin six weeks, my team and I developed and published multilingual health communications for patients and clinicians, making them accessible to the public and distributing them to various partner COVID-19 testing sites nationwide. The materials included:\n\nWebsite content\nPatient education flyer\nClinician education flyer\n\n\n\n\n\n\n\n\n\n\nPatient education brochure in English\n\n\n\n\n\n\n\nPatient education brochure in Tagalog\n\n\n\n\n\n\n\n\n\nClinician education back of brochure\n\n\n\n\n\n\n\nExample of early draft key messages in flyers\n\n\n\n\n\n\n\n\n\nExample of concept testing session of clinician brochure with a practitioner\n\n\n\n\n\n\n\nEvolution of flyers based on experience research\n\n\n\n\n\n\n\n\n\nEdits and proofreading based on research insights\n\n\n\n\n\n\n\nWebsite content design\n\n\n\n\n\n\n\n←  → \n\n\n\n\nPatient education brochure in English\nPatient education brochure in Tagalog\nClinician education back of brochure\nExample of early draft key messages in flyers\nExample of concept testing session of clinician brochure with a practitioner\nEvolution of flyers based on experience research\nEdits and proofreading based on research insights\nWebsite content design"
+  },
+  {
+    "objectID": "featured-work/us-digital-response/index.html",
+    "href": "featured-work/us-digital-response/index.html",
+    "title": "U.S. Digital Response",
+    "section": "",
+    "text": "City, county, and state governments were inundated with thousands of complaints from residents who were confused about their eligibility for the COVID-19 vaccine, how to access vaccination clinics, and where to sign up. Public servants were overwhelmed by the sheer volume of support tickets and calls from residents struggling to navigate the available resources. The lack of clear, accessible information not only created frustration among the public but also highlighted significant digital equity gaps that needed to be addressed for more effective communication and service delivery.\nTo help solve these challenges, U.S. Digital Response (USDR) partnered with governments, nonprofits, and public entities to respond to critical public needs by rapidly activating highly-skilled talent. As the Research and Design Lead/Technologist-in-Residence for the Health Program at the height of the pandemic, I led efforts to build accessible vaccination portals and websites for local and state governments. Many existing websites failed to meet accessibility standards and conveyed complex health information that hindered communities, especially those harder to reach, from easily booking vaccination appointments. My role focused on creating user-friendly, equitable digital experiences that enabled governments to communicate effectively with all residents and close the digital equity gaps."
+  },
+  {
+    "objectID": "featured-work/us-digital-response/index.html#challenge",
+    "href": "featured-work/us-digital-response/index.html#challenge",
+    "title": "U.S. Digital Response",
+    "section": "",
+    "text": "City, county, and state governments were inundated with thousands of complaints from residents who were confused about their eligibility for the COVID-19 vaccine, how to access vaccination clinics, and where to sign up. Public servants were overwhelmed by the sheer volume of support tickets and calls from residents struggling to navigate the available resources. The lack of clear, accessible information not only created frustration among the public but also highlighted significant digital equity gaps that needed to be addressed for more effective communication and service delivery.\nTo help solve these challenges, U.S. Digital Response (USDR) partnered with governments, nonprofits, and public entities to respond to critical public needs by rapidly activating highly-skilled talent. As the Research and Design Lead/Technologist-in-Residence for the Health Program at the height of the pandemic, I led efforts to build accessible vaccination portals and websites for local and state governments. Many existing websites failed to meet accessibility standards and conveyed complex health information that hindered communities, especially those harder to reach, from easily booking vaccination appointments. My role focused on creating user-friendly, equitable digital experiences that enabled governments to communicate effectively with all residents and close the digital equity gaps."
+  },
+  {
+    "objectID": "featured-work/us-digital-response/index.html#approach",
+    "href": "featured-work/us-digital-response/index.html#approach",
+    "title": "U.S. Digital Response",
+    "section": "Approach",
+    "text": "Approach\nI led over 19 projects in seven months with cities, counties, state governments, health departments, agencies, and community-based organizations to create equitable and accessible website designs and content using health literacy, plain language guidelines, and crisis communication. I managed more than 30 volunteers to deliver evidence-based research, including comparative analysis, contextual inquiry, usability testing, interviewing, and survey analysis, increasing governments’ confidence and connection with their communities. I implemented cognitive biases in writing and communication to influence health and care-seeking behaviors in social media posts and patient education brochures. I developed, edited, and gathered information to create clear, concise, and compelling materials for key stakeholders and audiences, including press releases, speeches, blogs, op-eds, backgrounders, talking points, scripts, reports, stories, and website copy. I built governments’ capacity to integrate literacy and equity into digital media through website templates and a toolkit."
+  },
+  {
+    "objectID": "featured-work/us-digital-response/index.html#results",
+    "href": "featured-work/us-digital-response/index.html#results",
+    "title": "U.S. Digital Response",
+    "section": "Results",
+    "text": "Results\nRead about USDR’s Health Program accomplishments here. My contributions are highlighted in the “Website Usability, Communication, and Equity” section, which includes:\n\nVarious speaking engagements at events like the American Public Health Association during National Public Health Week and the DotGov Conference.\nCOVID-19 Vaccine Website Template: A Medium article announcing the launch of a vaccination website template, ready for government partners to deploy within days.\nImproving Vaccine Info Webpages with Updated Content and Design for Pueblo County, CO: A case study on redesigning Pueblo County’s COVID vaccine and testing webpages using user experience and equity design principles.\nCOVID-19 Communication Toolkit: A Health Equity Lens: A step-by-step guide to help health communicators, content developers, educators, and designers implement health equity in COVID-19 communication.\nHow to incorporate equity into your health communications efforts: Key takeaways from applying equity-focused design in COVID communications with government partners.\n\n\n\n\n\n\n\n\n\n\nRedesigning Mesa County’s vaccine phases and communication\n\n\n\n\n\n\n\nRedesigning Pueblo County’s COVID-19 vaccines resources\n\n\n\n\n\n\n\n\n\nCOVID-19 Communication Toolkit: A Health Equity Lens\n\n\n\n\n\n\n\nWebinar to support governments tackle COVID vaccine delivery\n\n\n\n\n\n\n\n\n\nVaccinate the States vaccine finder multilingual translation\n\n\n\n\n\n\n\nHealth communication during National Public Health Week\n\n\n\n\n\n\n\n\n\nOngoing landscape analysis of COVID equity challenges\n\n\n\n\n\n\n\nHealth program delivery team"
+  },
+  {
+    "objectID": "featured-work/us-digital-response/index.html#testimonial",
+    "href": "featured-work/us-digital-response/index.html#testimonial",
+    "title": "U.S. Digital Response",
+    "section": "Testimonial",
+    "text": "Testimonial\n“Elham was a Technologist-in-Residence for USDR’s Health Program. Elham brought a combination of expertise, energy, kindness and joy to the role. Her domain expertise in healthcare equity allowed her to support many of our government partners improve their vaccine outreach efforts. Her energy and her skill at project management allowed her to scale up her efforts to leading a large team of volunteers while simultaneously creating reusable artifacts and speaking at a number of events to evangelize her work. Her kindness and joy made it a pleasure to work with her as a team member, pitching in wherever she could and ensuring a smooth transition as she ramped down from the six month technologist-in-residence role.”\n- Alex Allain, Co-Founder and CTO at U.S. Digital Response\n\n\n←  → \n\n\n\n\nRedesigning Mesa County’s vaccine phases and communication\nRedesigning Pueblo County’s COVID-19 vaccines resources\nCOVID-19 Communication Toolkit: A Health Equity Lens\nWebinar to support governments tackle COVID vaccine delivery\nVaccinate the States vaccine finder multilingual translation\nHealth communication during National Public Health Week\nOngoing landscape analysis of COVID equity challenges\nHealth program delivery team"
+  },
+  {
+    "objectID": "featured-work/bridge-to-home/index.html",
+    "href": "featured-work/bridge-to-home/index.html",
+    "title": "Bridge to Home",
+    "section": "",
+    "text": "Bridge to Home, an organization dedicated to helping individuals and families in the Santa Clarita Valley transition from homelessness to stable housing, faced a critical need to increase funding for a new permanent shelter. With limited dedicated social media engagement, they needed support to effectively reach potential donors and raise awareness for their cause. To meet this challenge, I directed and launched targeted social media campaigns within two months to drive fundraising efforts through the Virtual Cowboy Chili Cookout, with proceeds from this event supporting Bridge to Home’s essential services, including emergency shelter, case management, housing navigation, and referrals for health, mental health, and substance use treatment."
+  },
+  {
+    "objectID": "featured-work/bridge-to-home/index.html#challenge",
+    "href": "featured-work/bridge-to-home/index.html#challenge",
+    "title": "Bridge to Home",
+    "section": "",
+    "text": "Bridge to Home, an organization dedicated to helping individuals and families in the Santa Clarita Valley transition from homelessness to stable housing, faced a critical need to increase funding for a new permanent shelter. With limited dedicated social media engagement, they needed support to effectively reach potential donors and raise awareness for their cause. To meet this challenge, I directed and launched targeted social media campaigns within two months to drive fundraising efforts through the Virtual Cowboy Chili Cookout, with proceeds from this event supporting Bridge to Home’s essential services, including emergency shelter, case management, housing navigation, and referrals for health, mental health, and substance use treatment."
+  },
+  {
+    "objectID": "featured-work/bridge-to-home/index.html#approach",
+    "href": "featured-work/bridge-to-home/index.html#approach",
+    "title": "Bridge to Home",
+    "section": "Approach",
+    "text": "Approach\nI began the campaign by developing a social media strategy that included an editorial calendar, content guidelines, and a style guide for design assets. I used Google analytics and analytics on various social media platforms to track the effectiveness of different communication approaches, refining messaging based on what resonated most with potential donors. I applied behavioral science principles, such as the endowment effect and crowd-out effect, to optimize social media posts.\nI crafted engaging content for Facebook, Instagram, and the website, including client stories, achievements, donor spotlights, facts and figures, service updates, news, events, and sponsor promotions. I created a content calendar with targeted calls to action for the primary demographics and presented the strategy to the Fundraising team and Board of Directors. I also coordinated partnerships with sponsors and partners to amplify our reach through cross-promotion."
+  },
+  {
+    "objectID": "featured-work/bridge-to-home/index.html#results",
+    "href": "featured-work/bridge-to-home/index.html#results",
+    "title": "Bridge to Home",
+    "section": "Results",
+    "text": "Results\nThe campaign raised nearly $20,000 for the Chili Cookout event (excluding sponsorships), with $2,800 (14%) generated from social media traffic. It also increased awareness among new supporters and redirected new followers to the Capital Campaign, which aims to raise $1M for a new shelter. The content and designs I developed were published on Bridge to Home’s Facebook, Instagram, and website, effectively reaching a wider audience and driving engagement. Published content and design are available on Bridge to Home’s Facebook, Instagram, and Website. Sample content is listed below.\n\n\n\n\n\n\n\n\n\nCompelling facts and figures\n\n\n\n\n\n\n\nClient story post\n\n\n\n\n\n\n\n\n\nNews article highlight of the chili cookout fundraisere\n\n\n\n\n\n\n\nSocial media with of local news partnerships\n\n\n\n\n\n\n\n\n\nSocial media post event sponsors promotional\n\n\n\n\n\n\n\nWebsite copy of the chili cookout fundraiser\n\n\n\n\n\n\n\n\n\nFundraising event website copy\n\n\n\n\n\n\n\nSponsorship website copy\n\n\n\n\n\n\n\n←  → \n\n\n\n\nCompelling facts and figures\nClient story post\nNews article highlight of the chili cookout fundraisere\nSocial media with of local news partnerships\nSocial media post event sponsors promotional\nWebsite copy of the chili cookout fundraiser\nFundraising event website copy\nSponsorship website copy"
+  },
+  {
+    "objectID": "featured-work/arizona-department-of-health-services/index.html",
+    "href": "featured-work/arizona-department-of-health-services/index.html",
+    "title": "Arizona Department of Health Services",
+    "section": "",
+    "text": "At the height of the COVID-19 pandemic, employees at the Arizona Department of Health Servicesstruggled with the process of booking COVID-19 vaccination appointments. The sign-up, booking, and password resetting procedures were cumbersome and frustrating, even for those within the department who were among the first to test a new portal. Recognizing the urgent need for a quicker and easier system, the department, in collaboration with the governor’s office, sought to improve the Vaccine Patient Portal to better serve Arizona’s 7 million residents.\nBy March 2021, the Department had launched the initial version of the Vaccine Patient Portal, designed to handle registration, eligibility determination, and appointment scheduling. However, the portal still required enhancements to make it more user-friendly. My team and I were brought in to conduct usability testing with the department’s employees to identify key pain points and provide actionable recommendations for improving the booking process."
+  },
+  {
+    "objectID": "featured-work/arizona-department-of-health-services/index.html#challenge",
+    "href": "featured-work/arizona-department-of-health-services/index.html#challenge",
+    "title": "Arizona Department of Health Services",
+    "section": "",
+    "text": "At the height of the COVID-19 pandemic, employees at the Arizona Department of Health Servicesstruggled with the process of booking COVID-19 vaccination appointments. The sign-up, booking, and password resetting procedures were cumbersome and frustrating, even for those within the department who were among the first to test a new portal. Recognizing the urgent need for a quicker and easier system, the department, in collaboration with the governor’s office, sought to improve the Vaccine Patient Portal to better serve Arizona’s 7 million residents.\nBy March 2021, the Department had launched the initial version of the Vaccine Patient Portal, designed to handle registration, eligibility determination, and appointment scheduling. However, the portal still required enhancements to make it more user-friendly. My team and I were brought in to conduct usability testing with the department’s employees to identify key pain points and provide actionable recommendations for improving the booking process."
+  },
+  {
+    "objectID": "featured-work/arizona-department-of-health-services/index.html#approach",
+    "href": "featured-work/arizona-department-of-health-services/index.html#approach",
+    "title": "Arizona Department of Health Services",
+    "section": "Approach",
+    "text": "Approach\nAs the Project Lead and Experience Researcher, I led a team of researchers in collaboration with the department’s project manager and UX designer. We developed research protocols, including screener surveys to select participants, facilitation guides, and communication materials for leadership. I coached researchers on effective interview techniques to reduce bias during usability assessments and provided feedback throughout the research process.\nI also wrote and refined the content for the Vaccine Patient Portal, aligning it with research recommendations focused on equitable communication. This included revising dropdown menus for gender preferences, updating insurance status fields, and improving microcopy, tooltips, emails, and instructional content. Our content strategy prioritized language justice, clarity, transparency, and trust to minimize decision fatigue, reduce information overload, and correct misaligned mental models.\nTo ensure the portal was more user-friendly, we conducted two rounds of moderated and unmoderated remote usability testing on high-fidelity prototypes, closely collaborating with the governor’s office and department staff to refine the design based on user feedback."
+  },
+  {
+    "objectID": "featured-work/arizona-department-of-health-services/index.html#results",
+    "href": "featured-work/arizona-department-of-health-services/index.html#results",
+    "title": "Arizona Department of Health Services",
+    "section": "Results",
+    "text": "Results\nWithin two months, we delivered the project on time and with important insights. The Arizona Department of Health Services published an improved Vaccine Patient Portal in both Spanish and English, incorporating our research recommendations to ensure equity-focused design and accessibility. The improved portal allowed users to book vaccination appointments more quickly and increased overall satisfaction with the process.\nKey outcomes from the usability testing included significant reductions in the average time to complete various tasks on the portal:\n\nLogin time reduced by 1 minute.\nPassword reset time reduced by 4 minutes.\nSign-up time reduced by 8 minutes.\nVaccine appointment scheduling time reduced by 3 minutes, resulting in a total improvement of up to 16 minutes faster.\n\nCustomer satisfaction scores improved markedly, with the overall rating increasing from 3 to 5 on a scale of 1 to 5 among all residents, including bilingual speakers.\nThe Arizona Department of Health Services has since made the website and mobile prototypes, along with the published content and design, available on their Vaccine Patient Portal.\n\n\n\n\n\n\n\n\n\nTooltip recommendation\n\n\n\n\n\n\n\nInsurance microcopy recommendation\n\n\n\n\n\n\n\n\n\nUser workflows and user stories\n\n\n\n\n\n\n\nContent and design recommendation\n\n\n\n\n\n\n\n\n\nDesign recommendation\n\n\n\n\n\n\n\nDesign and process recommendation\n\n\n\n\n\n\n\n\n\nSpanish translation recommendation\n\n\n\n\n\n\n\nModerated usability testing with participants\n\n\n\n\n\n\n\n\n\nUnmoderated usability testing with participants\n\n\n\n\n\n\n\nFacilitator guide\n\n\n\n\n\n\n\n←  → \n\n\n\n\nTooltip recommendation\nInsurance microcopy recommendation\nUser workflows and user stories\nContent and design recommendation\nDesign recommendation\nDesign and process recommendation\nSpanish translation recommendation\nModerated usability testing with participants\nUnmoderated usability testing with participants\nFacilitator guide"
+  },
+  {
+    "objectID": "featured-work/columbia-university/index.html",
+    "href": "featured-work/columbia-university/index.html",
+    "title": "Columbia University",
+    "section": "",
+    "text": "The Breastfeeding Support Program, managed by the Office of Work|Life at Columbia University, provides lactating individuals with private rooms equipped with hospital-grade breast pumps to express, store, and collect breast milk while on campus. The program staff needed to assess its effectiveness and identify ways to increase awareness, knowledge, and usage of the lactation rooms among staff and students."
+  },
+  {
+    "objectID": "featured-work/columbia-university/index.html#challenge",
+    "href": "featured-work/columbia-university/index.html#challenge",
+    "title": "Columbia University",
+    "section": "",
+    "text": "The Breastfeeding Support Program, managed by the Office of Work|Life at Columbia University, provides lactating individuals with private rooms equipped with hospital-grade breast pumps to express, store, and collect breast milk while on campus. The program staff needed to assess its effectiveness and identify ways to increase awareness, knowledge, and usage of the lactation rooms among staff and students."
+  },
+  {
+    "objectID": "featured-work/columbia-university/index.html#approach",
+    "href": "featured-work/columbia-university/index.html#approach",
+    "title": "Columbia University",
+    "section": "Approach",
+    "text": "Approach\nI collaborated with a team of public health evaluators to conduct a process and outcomes evaluation using the CDC Program Evaluation Framework. We developed a theory of change to improve health outcomes and interviewed program staff while reviewing past testimonials and feedback from lactating individuals. We also analyzed historical data on lactation room usage, identifying three key themes for the program: education, privacy, and access to breast pump accessories.\nOur research revealed that the program increased breastfeeding rates among individuals who had not traditionally breastfed, which contributed to lower rates of gastrointestinal disorders in infants and more frequent well-baby visits. The evaluation also highlighted other positive health outcomes, including reduced feelings of shame and stigma around breastfeeding in the workplace."
+  },
+  {
+    "objectID": "featured-work/columbia-university/index.html#results",
+    "href": "featured-work/columbia-university/index.html#results",
+    "title": "Columbia University",
+    "section": "Results",
+    "text": "Results\nWe presented our evaluation findings to program stakeholders and provided actionable recommendations. I proposed digital tools such as a virtual lactation room sign-up and scheduling system through Sign-up Genius to help lactating individuals easily check room availability. I also recommended providing sanitization accessories to maintain hygiene in the lactation rooms. These solutions have been implemented and remained in use, especially during the COVID-19 pandemic. The evaluation plan was published by Columbia University.\n\n\n\n\n\n\n\n\n\nPicture of a lactation room on campus\n\n\n\n\n\n\n\nLogic model of the breastfeeding support program\n\n\n\n\n\n\n\n\n\nExample of lactation room scheduling solution\n\n\n\n\n\n\n\nExample of lactation room booking appointment solution\n\n\n\n\n\n\n\n\n\nExample of workflow for lactation room scheduling\n\n\n\n\n\n\n\nExample of lactation room booking appointment solution\n\n\n\n\n\n\n\n←  → \n\n\n\n\nPicture of a lactation room on campus\nLogic model of the breastfeeding support program\nExample of lactation room scheduling solution\nExample of lactation room booking appointment solution\nExample of workflow for lactation room scheduling\nExample of lactation room booking appointment solution"
+  },
+  {
+    "objectID": "featured-work/rho-impact/index.html",
+    "href": "featured-work/rho-impact/index.html",
+    "title": "Rho Impact",
+    "section": "",
+    "text": "As a research fellow with Rho Impact, a startup focused on developing open standards and frameworks for modeling the transition to net zero, I worked with a cohort of fellows to forecast greenhouse gas (GHG) reductions from smart technologies. Our team analyzed SOWIT, a company that provides AI-driven decision support tools to optimize fertilizer application in agriculture, specifically through its product, Fertisat. Fertisat offers precise recommendations tailored to the needs of each field, which can help reduce greenhouse gas (GHG) emissions in several ways. My goal was to evaluate its potential for carbon sequestration in Africa—a region with significant untapped potential.\nBy minimizing excess nitrogen use, it cuts down on emissions of nitrous oxide (N2O), a highly potent greenhouse gas. It also boosts crop yields by improving the efficiency of fertilization, which lowers the emissions per kilogram of crop produced. Fertisat also reduces fertilizer waste and runoff, lessening the environmental impact from fertilizer production, transport, and agricultural runoff."
+  },
+  {
+    "objectID": "featured-work/rho-impact/index.html#challenge",
+    "href": "featured-work/rho-impact/index.html#challenge",
+    "title": "Rho Impact",
+    "section": "",
+    "text": "As a research fellow with Rho Impact, a startup focused on developing open standards and frameworks for modeling the transition to net zero, I worked with a cohort of fellows to forecast greenhouse gas (GHG) reductions from smart technologies. Our team analyzed SOWIT, a company that provides AI-driven decision support tools to optimize fertilizer application in agriculture, specifically through its product, Fertisat. Fertisat offers precise recommendations tailored to the needs of each field, which can help reduce greenhouse gas (GHG) emissions in several ways. My goal was to evaluate its potential for carbon sequestration in Africa—a region with significant untapped potential.\nBy minimizing excess nitrogen use, it cuts down on emissions of nitrous oxide (N2O), a highly potent greenhouse gas. It also boosts crop yields by improving the efficiency of fertilization, which lowers the emissions per kilogram of crop produced. Fertisat also reduces fertilizer waste and runoff, lessening the environmental impact from fertilizer production, transport, and agricultural runoff."
+  },
+  {
+    "objectID": "featured-work/rho-impact/index.html#approach",
+    "href": "featured-work/rho-impact/index.html#approach",
+    "title": "Rho Impact",
+    "section": "Approach",
+    "text": "Approach\nI developed a quantitative model to project greenhouse gas emissions reductions achievable by using SOWIT’s technology, including both baseline and solution scenarios, assumptions, and market size projections. I conducted a Life Cycle Analysis and reviewed existing literature to assess the carbon sequestration potential of various crops, such as wheat and corn, in the African market. In collaboration with a team, I also evaluated GHG intensities and model outcomes, using diverse data sources to provide actionable insights for the company’s sustainability initiatives.\nThe analysis focused on measuring the kilograms of CO2 equivalent saved per hectare of farmland using Fertisat. I compared two scenarios: the baseline model, which looked at emissions from current agricultural practices without Fertisat, and the solution model, which projected emissions with the use of Fertisat.\nI also focused on the agricultural sector, particularly small and large-scale farms in African countries where SOWIT operates. The projection timeframe extended from 2024 to 2050, assessing the potential impact over the next several decades."
+  },
+  {
+    "objectID": "featured-work/rho-impact/index.html#results",
+    "href": "featured-work/rho-impact/index.html#results",
+    "title": "Rho Impact",
+    "section": "Results",
+    "text": "Results\nThe forecasted model showed significant potential for carbon and nitrogen savings. These results demonstrate the substantial impact of SOWIT’s technology on reducing GHG emissions in agricultural practices across Africa.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n←  →"
+  },
+  {
+    "objectID": "featured-work/bureau-veritas/index.html",
+    "href": "featured-work/bureau-veritas/index.html",
+    "title": "Bureau Veritas North America",
+    "section": "",
+    "text": "Bureau Veritas North America (BVNA), a division of the $50B publicly-traded Bureau Veritas, was struggling with a large-scale merger and acquisition project that involved rebranding six acquired companies. They had recently lost a key project manager, causing delays and resulting in deliverables that did not meet stakeholder expectations. Facing significant misalignment and siloed communication across teams, BVNA, along with Marketri, needed a dedicated project manager who could bridge these gaps, realign the project scope, and ensure the rebrand met the parent company’s guidelines.\nAs a Senior Project Manager with Marketri, I stepped in to lead this high-stakes project. I worked to align cross-functional stakeholders on a cohesive content architecture that accurately represented the new brand. I collaborated closely with a global team to meet the parent company’s standards, managing a team of graphic designers and copywriters to produce hundreds of new web copies, flyers, and a unified website — all delivered on time, under budget, and within scope."
+  },
+  {
+    "objectID": "featured-work/bureau-veritas/index.html#challenge",
+    "href": "featured-work/bureau-veritas/index.html#challenge",
+    "title": "Bureau Veritas North America",
+    "section": "",
+    "text": "Bureau Veritas North America (BVNA), a division of the $50B publicly-traded Bureau Veritas, was struggling with a large-scale merger and acquisition project that involved rebranding six acquired companies. They had recently lost a key project manager, causing delays and resulting in deliverables that did not meet stakeholder expectations. Facing significant misalignment and siloed communication across teams, BVNA, along with Marketri, needed a dedicated project manager who could bridge these gaps, realign the project scope, and ensure the rebrand met the parent company’s guidelines.\nAs a Senior Project Manager with Marketri, I stepped in to lead this high-stakes project. I worked to align cross-functional stakeholders on a cohesive content architecture that accurately represented the new brand. I collaborated closely with a global team to meet the parent company’s standards, managing a team of graphic designers and copywriters to produce hundreds of new web copies, flyers, and a unified website — all delivered on time, under budget, and within scope."
+  },
+  {
+    "objectID": "featured-work/bureau-veritas/index.html#approach",
+    "href": "featured-work/bureau-veritas/index.html#approach",
+    "title": "Bureau Veritas North America",
+    "section": "Approach",
+    "text": "Approach\nTo create a people-centric approach while merging six companies with diverse services and needs, I combined an enterprise design thinking process with a waterfall methodology. I started by auditing the project to identify and resolve delays and align stakeholder expectations and communication. To clarify the project’s goals, I interviewed key stakeholders from the communications and marketing teams to define what success would look like for the rebrand.\nI streamlined the team structure, hired new talent, and set up an efficient process for creating and delivering web copy, flyers, and brochures. I also co-created a site map and information architecture to represent the combined services of all merged companies on the new website so that the content was consistent and cohesive.\nI oversaw the creation and approval of all website content and marketing materials using a structured process. I established a project schedule with Gantt charts to facilitate clear communication and problem-solving during weekly meetings. Additionally, I collaborated with an IT team in France to develop wireframes and content in Drupal that matched the new brand identity and design system, aligned with the parent company’s brand guidelines."
+  },
+  {
+    "objectID": "featured-work/bureau-veritas/index.html#results",
+    "href": "featured-work/bureau-veritas/index.html#results",
+    "title": "Bureau Veritas North America",
+    "section": "Results",
+    "text": "Results\nThis effort led to the timely delivery of over 500 rebranded collateral pieces and six customized communication plans. My meticulous documentation and quality assurance process enabled the team to deliver modular, service-oriented designs and content. As a result, Bureau Veritas North America successfully launched its rebrand in 2019. The new website can be viewed here or in the video below.\n\n\n\n\n\n\n\n\n\n\n\nNewly rebranded BVNA prototype\n\n\n\n\n\n\n\nDigital identity system\n\n\n\n\n\n\n\n\n\nWireframes for a market page\n\n\n\n\n\n\n\nWireframes for a blog article\n\n\n\n\n\n\n\n\n\nContent development process\n\n\n\n\n\n\n\nOver 500 collateral development process\n\n\n\n\n\n\n\n\n\nNew merged website sitemap and information architecture\n\n\n\n\n\n\n\nProject gantt chart"
+  },
+  {
+    "objectID": "featured-work/bureau-veritas/index.html#testimonial",
+    "href": "featured-work/bureau-veritas/index.html#testimonial",
+    "title": "Bureau Veritas North America",
+    "section": "Testimonial",
+    "text": "Testimonial\n“Elham was exceptional in every way. Her project management is a 10 out of 10. Her communication is the same. She managed a highly complex project and made it look easy and it was not. She always had a positive attitude and kept her cool even during highly stressful periods in the project. Her team loved her. She represented Marketri so very well and I’m grateful. The project was on-time, on-budget and very profitable! Thank you Elham!!”\n- Debra Andrews, President & Owner of Marketri\n\n\n←  → \n\n\n\n\nNewly rebranded BVNA prototype\nDigital identity system\nWireframes for a market page\nWireframes for a blog article\nContent development process\nOver 500 collateral development process\nNew merged website sitemap and information architecture\nProject gantt chart"
+  },
+  {
+    "objectID": "featured-work/pima-county-health-department/index.html",
+    "href": "featured-work/pima-county-health-department/index.html",
+    "title": "Pima County Health Department",
+    "section": "",
+    "text": "City, county, and state governments were inundated with thousands of complaints from residents who were confused about their eligibility for the COVID-19 vaccine, how to access vaccination clinics, and where to sign up. Public servants were overwhelmed by the sheer volume of support tickets and calls from residents struggling to navigate the available resources. The lack of clear, accessible information not only created frustration among the public but also highlighted significant digital equity gaps that needed to be addressed for more effective communication and service delivery.\nTo help solve these challenges, U.S. Digital Response(USDR) partnered with governments, nonprofits, and public entities to respond to critical public needs by rapidly activating highly-skilled talent. As the Research and Design Lead/Technologist-in-Residence for the Health Program at the height of the pandemic, I led efforts to build accessible vaccination portals and websites for local and state governments. Many existing websites failed to meet accessibility standards and conveyed complex health information that hindered communities, especially those harder to reach, from easily booking vaccination appointments. My role focused on creating user-friendly, equitable digital experiences that enabled governments to communicate effectively with all residents and close the digital equity gaps."
+  },
+  {
+    "objectID": "featured-work/pima-county-health-department/index.html#challenge",
+    "href": "featured-work/pima-county-health-department/index.html#challenge",
+    "title": "Pima County Health Department",
+    "section": "",
+    "text": "City, county, and state governments were inundated with thousands of complaints from residents who were confused about their eligibility for the COVID-19 vaccine, how to access vaccination clinics, and where to sign up. Public servants were overwhelmed by the sheer volume of support tickets and calls from residents struggling to navigate the available resources. The lack of clear, accessible information not only created frustration among the public but also highlighted significant digital equity gaps that needed to be addressed for more effective communication and service delivery.\nTo help solve these challenges, U.S. Digital Response(USDR) partnered with governments, nonprofits, and public entities to respond to critical public needs by rapidly activating highly-skilled talent. As the Research and Design Lead/Technologist-in-Residence for the Health Program at the height of the pandemic, I led efforts to build accessible vaccination portals and websites for local and state governments. Many existing websites failed to meet accessibility standards and conveyed complex health information that hindered communities, especially those harder to reach, from easily booking vaccination appointments. My role focused on creating user-friendly, equitable digital experiences that enabled governments to communicate effectively with all residents and close the digital equity gaps."
+  },
+  {
+    "objectID": "featured-work/pima-county-health-department/index.html#approach",
+    "href": "featured-work/pima-county-health-department/index.html#approach",
+    "title": "Pima County Health Department",
+    "section": "Approach",
+    "text": "Approach\nI led over 19 projects in seven months with cities, counties, state governments, health departments, agencies, and community-based organizations to create equitable and accessible website designs and content using health literacy, plain language guidelines, and crisis communication. I managed more than 30 volunteers to deliver evidence-based research, including comparative analysis, contextual inquiry, usability testing, interviewing, and survey analysis, increasing governments’ confidence and connection with their communities. I implemented cognitive biases in writing and communication to influence health and care-seeking behaviors in social media posts and patient education brochures. I developed, edited, and gathered information to create clear, concise, and compelling materials for key stakeholders and audiences, including press releases, speeches, blogs, op-eds, backgrounders, talking points, scripts, reports, stories, and website copy. I built governments’ capacity to integrate literacy and equity into digital media through website templates and a toolkit."
+  },
+  {
+    "objectID": "featured-work/pima-county-health-department/index.html#results",
+    "href": "featured-work/pima-county-health-department/index.html#results",
+    "title": "Pima County Health Department",
+    "section": "Results",
+    "text": "Results\nRead about USDR’s Health Program accomplishments here. My contributions are highlighted in the “Website Usability, Communication, and Equity” section, which includes:\n\nVarious speaking engagements at events like the American Public Health Association during National Public Health Week and the DotGov Conference.\nCOVID-19 Vaccine Website Template: A Medium article announcing the launch of a vaccination website template, ready for government partners to deploy within days.\nImproving Vaccine Info Webpages with Updated Content and Design for Pueblo County, CO: A case study on redesigning Pueblo County’s COVID vaccine and testing webpages using user experience and equity design principles.\nCOVID-19 Communication Toolkit: A Health Equity Lens: A step-by-step guide to help health communicators, content developers, educators, and designers implement health equity in COVID-19 communication.\nHow to incorporate equity into your health communications efforts: Key takeaways from applying equity-focused design in COVID communications with government partners.\n\n\n\n\n\n\n\n\n\n\nRedesigning Mesa County’s vaccine phases and communication\n\n\n\n\n\n\n\nRedesigning Pueblo County’s COVID-19 vaccines resources\n\n\n\n\n\n\n\n\n\nCOVID-19 Communication Toolkit: A Health Equity Lens\n\n\n\n\n\n\n\nWebinar to support governments tackle COVID vaccine delivery\n\n\n\n\n\n\n\n\n\nVaccinate the States vaccine finder multilingual translation\n\n\n\n\n\n\n\nHealth communication during National Public Health Week\n\n\n\n\n\n\n\n\n\nOngoing landscape analysis of COVID equity challenges\n\n\n\n\n\n\n\nHealth program delivery team"
+  },
+  {
+    "objectID": "featured-work/pima-county-health-department/index.html#testimonial",
+    "href": "featured-work/pima-county-health-department/index.html#testimonial",
+    "title": "Pima County Health Department",
+    "section": "Testimonial",
+    "text": "Testimonial\n“Elham was a Technologist-in-Residence for USDR’s Health Program. Elham brought a combination of expertise, energy, kindness and joy to the role. Her domain expertise in healthcare equity allowed her to support many of our government partners improve their vaccine outreach efforts. Her energy and her skill at project management allowed her to scale up her efforts to leading a large team of volunteers while simultaneously creating reusable artifacts and speaking at a number of events to evangelize her work. Her kindness and joy made it a pleasure to work with her as a team member, pitching in wherever she could and ensuring a smooth transition as she ramped down from the six month technologist-in-residence role.”\n- Alex Allain, Co-Founder and CTO at U.S. Digital Response\n\n\n←  → \n\n\n\n\nRedesigning Mesa County’s vaccine phases and communication\nRedesigning Pueblo County’s COVID-19 vaccines resources\nCOVID-19 Communication Toolkit: A Health Equity Lens\nWebinar to support governments tackle COVID vaccine delivery\nVaccinate the States vaccine finder multilingual translation\nHealth communication during National Public Health Week\nOngoing landscape analysis of COVID equity challenges\nHealth program delivery team"
+  },
+  {
+    "objectID": "featured-work/johns-hopkins-center-for-livable-future/index.html",
+    "href": "featured-work/johns-hopkins-center-for-livable-future/index.html",
+    "title": "Johns Hopkins Center for a Livable Future",
+    "section": "",
+    "text": "Climate change is a critical public health threat that requires urgent action. The global food system, from production to waste, accounts for about one-third of all greenhouse gas emissions (GHGE). Meat from cattle (33%), dairy (19%), and other animal meats (9%) contribute over 60% of the projected global temperature rise from food systems by 2030. Reducing red meat and dairy consumption in high-income countries like the U.S., where intake far exceeds dietary guidelines, is essential. Universities offer an influential hub to drive this change by influencing student behavior through their dining services. Johns Hopkins Center for a Livable Future implemented climate labels in dining hall menue to encourage students to choose lower-GHGE foods, but their effectiveness, particularly in university settings. Targeting Generation Z students, who are more inclined towards plant-based diets, the center’s study aimed to assess the impact of climate change menu labels on promoting sustainable food choices and reducing climate anxiety. My role was to collect recipes and all ingredients for the study, and develop a model for calculating greenhouse gas (GHG) emissions of recipes over a four-week period in two dining halls at a private university in Maryland."
+  },
+  {
+    "objectID": "featured-work/johns-hopkins-center-for-livable-future/index.html#challenge",
+    "href": "featured-work/johns-hopkins-center-for-livable-future/index.html#challenge",
+    "title": "Johns Hopkins Center for a Livable Future",
+    "section": "",
+    "text": "Climate change is a critical public health threat that requires urgent action. The global food system, from production to waste, accounts for about one-third of all greenhouse gas emissions (GHGE). Meat from cattle (33%), dairy (19%), and other animal meats (9%) contribute over 60% of the projected global temperature rise from food systems by 2030. Reducing red meat and dairy consumption in high-income countries like the U.S., where intake far exceeds dietary guidelines, is essential. Universities offer an influential hub to drive this change by influencing student behavior through their dining services. Johns Hopkins Center for a Livable Future implemented climate labels in dining hall menue to encourage students to choose lower-GHGE foods, but their effectiveness, particularly in university settings. Targeting Generation Z students, who are more inclined towards plant-based diets, the center’s study aimed to assess the impact of climate change menu labels on promoting sustainable food choices and reducing climate anxiety. My role was to collect recipes and all ingredients for the study, and develop a model for calculating greenhouse gas (GHG) emissions of recipes over a four-week period in two dining halls at a private university in Maryland."
+  },
+  {
+    "objectID": "featured-work/johns-hopkins-center-for-livable-future/index.html#approach",
+    "href": "featured-work/johns-hopkins-center-for-livable-future/index.html#approach",
+    "title": "Johns Hopkins Center for a Livable Future",
+    "section": "Approach",
+    "text": "Approach\n     \n\n\n\n\n\n\nNote\n\n\n\nView the code on GitHub (private repository—please email me for access).\n\n\nWorking with a colleague, I extracted over 650 menu items containing 26,277 ingredients from all recipes using Python libraries. I classified these ingredients according to the Cool Food Calculator categories for accurate greenhouse gas emissions (GHGE) calculations. Emissions for each ingredient were calculated based on its category and then aggregated at the recipe level. Together, we visualized the GHGE data using a strip plot to identify natural breaks in the emission distribution, which provided more precise thresholds than traditional methods like tertiles or k-means clustering. I then helped define the thresholds for climate impact labels (green, yellow, red), categorizing foods based on their relative climate impact.\n         \n\n\n\n\n\n\nNote\n\n\n\nView the code on GitHub (private repository—please email me for access).\n\n\nI designed the data collection analysis, collected, cleaned, transformed, and analyzed dining ingredient purchasing and student survey data before and after the study. This included preparing tables for publication on demographics and descriptive statistics relevant to food insecurity, diet quality, and types of food consumption. I managed data collection and validation processes, working closely with dining team members to make sure the accuracy of variables and data collection methods. I conducted preliminary exploratory analyses to understand survey respondent characteristics and outcome variables, and wrote methods draft for publication."
+  },
+  {
+    "objectID": "featured-work/johns-hopkins-center-for-livable-future/index.html#results",
+    "href": "featured-work/johns-hopkins-center-for-livable-future/index.html#results",
+    "title": "Johns Hopkins Center for a Livable Future",
+    "section": "Results",
+    "text": "Results\nBy quickly gathering over 600 recipes, I saved the Center hundreds of hours in staff time and resources, resulting in a more efficient and effective research process. Key study findings included:\n\nMinimal differences between baseline and intervention periods, except for a notable increase in purchases due to a special event.\nPlant protein intake increased slightly post-intervention, while vegetable intake decreased. Overall diet quality scores showed no significant change.\nOne-third of students noticed the climate labels, but the majority felt neutral about them. Many students reported that the labels did not influence their food choices or concerns about climate impact.\n\n\n\n\n\n\n\n\n\n\nDistribution of greenhouse gas emissions across diets\n\n\n\n\n\n\n\nComparison of greenhouse gas emissions by food subgroups\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n←  → \n\n\n\n\nDistribution of greenhouse gas emissions across diets\nComparison of greenhouse gas emissions by food subgroups"
   }
 ]
