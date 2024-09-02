@@ -1,17 +1,6 @@
 project:
   type: website
-  output-dir: _site
-  preview:
-    port: 5896
-    browser: true
-  render:
-    - "index.qmd"
-    - "fun.qmd"
-    - "publications.qmd"
-    - "blog.qmd"
-    - "about.qmd"
-  resources:
-    - "styles.css"
+  # output-dir: "."
     
 website:
   title: "Elham Ali"
