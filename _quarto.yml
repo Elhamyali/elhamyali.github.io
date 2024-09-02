@@ -39,7 +39,9 @@ website:
       - icon: envelope
         href: "mailto:elham.yusufali@gmail.com"
         aria-label: Email
-      
+        
+    pretty-urls: true
+   
 format:
   html:
       theme: cosmo
