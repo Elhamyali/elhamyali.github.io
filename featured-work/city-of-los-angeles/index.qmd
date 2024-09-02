@@ -33,7 +33,7 @@ The [City of Los Angeles](https://lacity.gov/), the second-largest municipality 
 
 As the project lead, I managed and coaches a team of researchers, UX designers, and content strategists. I established inclusive partnerships with various city departments, community organizations, and stakeholders to maintain a broad perspective on user needs.
 
-I conducted user research, including card sorting exercises and moderated usability assessments, to understand how residents interact with the hub\'s content. Working closely with the UX designer, I helped shape the site\'s information architecture to be intuitive and accessible. I developed content guidelines to ensure the site communicated with an intersectional and anti-racist voice. This included providing clear historical context, sharing community stories, explaining how various efforts advance racial equity, analyzing race-based data, and connecting users to relevant resources, programs, and services.
+I conducted user research, including card sorting exercises and moderated usability assessments, to understand how residents interact with the hub's content. Working closely with the UX designer, I helped shape the site's information architecture to be intuitive and accessible. I developed content guidelines to ensure the site communicated with an intersectional and anti-racist voice. This included providing clear historical context, sharing community stories, explaining how various efforts advance racial equity, analyzing race-based data, and connecting users to relevant resources, programs, and services.
 
 ## Results
 
