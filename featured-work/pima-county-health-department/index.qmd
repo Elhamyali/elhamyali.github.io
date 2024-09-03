@@ -4,16 +4,16 @@ author: Elham Ali
 citation:
   url: https://www.elhamyali.com/
 date: 2023-05-30
-subtitle: "Designing holistic experiences for health-seeking clients to improve health literacy and vaccine access and health communication for clinicians."
+subtitle: "Improving health literacy experiences and vaccine access for clients and health communication for clinicians."
 toc: true
 categories: 
   - qualitative research
   - quantitative research
+  - health communication
+  - health literacy
+  - UX/UI design
   - instructional design 
   - learning development
-  - health communication
-  - content design
-  - UX/UI design
 execute: 
   echo: false
 format: html
@@ -26,15 +26,25 @@ lightbox:
 
 ## Challenge
 
-Coming soon!
+The COVID-19 pandemic has disproportionately impacted people of color, particularly Hispanic/Latine communities, who face higher rates of cases and deaths. In Arizona, Hispanic/Latine populations accounted for 29.9% of COVID-19 deaths, and in Pima County, 35%. Vaccination rates among Hispanic individuals in Pima County remain the lowest among all racial and ethnic groups, driven by barriers in health access and literacy. Research shows that health literacy interventions can reduce health disparities and foster health equity, especially in COVID-19 vaccination efforts among racial and ethnic minority populations.
+
+To address these disparities, the Pima County Health Department and its partners formed a Community of Practice to improve health literacy and adherence to COVID-19 public health practices among Hispanic/Latine individuals of childbearing age. This initiative used human-centered design and behavioral science tools to develop evidence-based, community-driven interventions centered on human experiences. Pima County received funding from the Office of Minority Health (OMH) to improve health literacy and vaccine uptake among clients and enhance communication for clinicians in partner clinics, the largest of which is in Tucson. I served as the Lead Human-Centered Design Advisor for the \$4M federal OMH grant over two years, integrating human-centered design and research methodologies to increase COVID-19 vaccination uptake among Latina/o/e pregnant individuals in Pima County.
 
 ## Approach
 
-Coming soon!
+I designed the human-centered design framework, managed research budgets, and advised on research and statistical methods, including sample size determination and handling missing data. I assessed behavioral science vendors, created participant incentive budgets, and developed a custom cost forecast calculator. I also created a virtual human-centered design training program for over 650 staff, incorporating adult learning theory and instructional design best practices.
+
+I reviewed and helped deliver prototypes of key deliverables from two pilots with clinics, including communication toolkits, policies, practices, and materials designed to increase vaccine uptake, enhance patient-practitioner communication, and create shared clinical decision-making using culturally appropriate methods.
 
 ## Results
 
-Coming soon!
+I helped successfully in the launch of two pilot interventions from July 2023 to November 2023: one in a clinical setting with 92 participants and another in a community setting with 207 participants. A mixed-methods approach, including pre-post evaluations and structured interviews, assessed the pilots' impact.Both pilots reduced perceived barriers to health-seeking behaviors and increased participants' confidence (p\<0.01). The clinical pilot improved health literacy and increased the number of participants needing boosters while reducing the number of unvaccinated individuals.
+
+I launched the first Human-Centered Design experiential learning program in the department, which is in use today. I also supported in securing a \$50,000 federal grant to establish the first health equity certification, identifying key drivers for organizational equity and justice. I co-authored two peer-reviewed articles on the project, scheduled for publication in 2024 and 2025. I also co-presented at national and regional conferences, including NACCHO 360 and the Arizona Public Health Conference.
+
+-   **Health Literacy Interventions to Impact COVID-19 Vaccination Rates using Human-Centered Design:** Presented at the NACCHO 360 Conference in July 2022. [Read more here](https://www.eventscribe.net/2022/NA360/searchGlobal.asp?mode=Speakers&SearchQuery=).
+
+-   **Innovative Health Equity Capability Maturity Model to Impact Organizational and Community Justice:** Presented at the NACCHO 360 Conference in July 2022. [Read more here](https://www.eventscribe.net/2022/NA360/searchGlobal.asp?mode=Speakers&SearchQuery=).
 
 ::: {layout-ncol="2"}
 ![HCD double diamond](1-pchd.png){group="gallery"}
@@ -52,13 +62,29 @@ Coming soon!
 ![Prototype testing materials](7-pchd.png){group="gallery"}
 
 ![Clinical pilot supporting tools](8-pchd.png){group="gallery"}
+
+![NACCHO360 conference on health literacy interventions](9-pchd.png){group="gallery"}
+
+![Abstract of health literacy interventions session](10-pchd.png){group="gallery"}
+
+![Group panelist in NACCHO360 session](11-pchd.png){group="gallery"}
+
+![Presentation on HCD and health literacy](12-pchd.png){group="gallery"}
+
+![NACCHO360 conference on innovative health equity model](13-pchd.png){group="gallery"}
+
+![Abstract of health equity session](14-pchd.png){group="gallery"}
 :::
 
 ## Testimonial
 
-*"Elham, I had to take my HCD training. Your training is amazing! Elham was a game-changer in our approach to human-centered design in our county. Her creativity and expertise in organizational equity were pivotal when we developed and implemented four major health literacy projects to improve COVID-19 vaccination health literacy among Latina/o/e pregnant people under a $4M federal grant. Elham's remarkable ability to strategize and pivot when needed, combined with her rigorous research and human-centered design approach, has not only improved our department's capabilities but also established a sustainable model for health equity. Her leadership in forming partnerships and her visionary approach to integrating design thinking into our work processes have left a lasting impact on Pima County Health Department."*
+> "Elham, I had to take my HCD training. Your training is amazing!
 
-\- Theresa Cullen, MD, MS, Public Health Director at Pima County Health Department
+\--Theresa Cullen, MD, MS, Public Health Director at Pima County Health Department
+
+> "Elham was a game-changer in our approach to human-centered design in our county. Her creativity and expertise in organizational equity were pivotal when we developed and implemented four major health literacy projects to improve COVID-19 vaccination health literacy among Latina/o/e pregnant people under a \$4M federal grant. Elham's remarkable ability to strategize and pivot when needed, combined with her rigorous research and human-centered design approach, has not only improved our department's capabilities but also established a sustainable model for health equity. Her leadership in forming partnerships and her visionary approach to integrating design thinking into our work processes have left a lasting impact on Pima County Health Department."
+
+\--Theresa Cullen, MD, MS, Public Health Director at Pima County Health Department
 
 <!-- Navigation Arrows -->
 

@@ -67,9 +67,14 @@ Read about USDR's [Health Program accomplishments here](https://medium.com/u-s-d
 
 ## Testimonial
 
-*"Elham was a Technologist-in-Residence for USDR's Health Program. Elham brought a combination of expertise, energy, kindness and joy to the role. Her domain expertise in healthcare equity allowed her to support many of our government partners improve their vaccine outreach efforts. Her energy and her skill at project management allowed her to scale up her efforts to leading a large team of volunteers while simultaneously creating reusable artifacts and speaking at a number of events to evangelize her work. Her kindness and joy made it a pleasure to work with her as a team member, pitching in wherever she could and ensuring a smooth transition as she ramped down from the six month technologist-in-residence role."*
+> "Elham was a Technologist-in-Residence for USDR's Health Program. Elham brought a combination of expertise, energy, kindness and joy to the role. Her domain expertise in healthcare equity allowed her to support many of our government partners improve their vaccine outreach efforts. Her energy and her skill at project management allowed her to scale up her efforts to leading a large team of volunteers while simultaneously creating reusable artifacts and speaking at a number of events to evangelize her work. Her kindness and joy made it a pleasure to work with her as a team member, pitching in wherever she could and ensuring a smooth transition as she ramped down from the six month technologist-in-residence role."
 
 \- Alex Allain, Co-Founder and CTO at U.S. Digital Response
+
+> "Working with Elham is the single best thing we could have done to yield better outcomes and increase the impact of our project. Elham served in an advisory capacity, bringing a wealth of experience and knowledge as an experienced HCD practitioner to help assist in drafting effective research plans. She was also instrumental in the development of impactful HCD Design Sprint facilitation tools, and she provided effective insights and guidance around data synthesis and analysis. I was particularly impressed by her ability to produce quality work, despite time constraints and managing other projects. This was a high-visibility project that will certainly influence the operational culture of our agency, and we can attribute these successes to our partnership with this amazing UX Researcher. Elham would be an asset to any project team."
+
+\- Andrea Ownbey at Oklahoma Department of Human Services
+
 
 <!-- Navigation Arrows -->
 
