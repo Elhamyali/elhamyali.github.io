@@ -57,3 +57,15 @@ Currently, I'm a researcher at the [Beeck Center for Social Impact and Innovatio
 I founded Jumana Design (DBA Elham Ali Consultancy), a studio dedicated to advancing research equity in public service delivery. I served as the Lead Human-centered Design Advisor at Pima County Health Department and supported over 13 government partners at U.S. Digital Response during the COVID-19 crisis. I'm an active member of communities such as Statisticians without Borders, Technologists for Public Good, and Climate Action Tech. 🌿 I also advocate for environmental justice with my local [Citizen's Climate Lobby](#0).
 
 On a personal note, I live in sunny California ☀️ with my husband and two kitties. I co-founded [Spudnuts Comics](https://www.instagram.com/spudnutscomics/?hl=en) and the [Unmuted Podcast](#0). 💌 I love connecting---reach out on LinkedIn or email me!
+
+<!-- Accessibility widget script -->
+<script>
+(function(d){
+  var s = d.createElement("script");
+  s.setAttribute("data-position", "3");
+  s.setAttribute("data-account", "M4YO8zAZCv");
+  s.setAttribute("src", "https://cdn.userway.org/widget.js");
+  (d.body || d.head).appendChild(s);
+})(document)
+</script>
+

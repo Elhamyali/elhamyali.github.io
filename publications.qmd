@@ -4,6 +4,16 @@ format:
   html:
     page-layout: full
     toc: true
+link-citations: false  # Disable in-text citation linking
+bibliography: references.bib
 ---
 
-**Copyright notice:** Some documents below can be downloaded to share research and technical work quickly and for free. However, the authors or copyright holders still own the rights to these documents. If you download or use these documents, you must follow the copyright rules set by the authors. You cannot repost these works elsewhere without the copyright holder's permission.
+**Copyright notice:** Some research and technical work links below can be shared quickly and for free. However, the authors or copyright holders still own the rights to these documents. If you use these links, you must follow the copyright rules set by the authors. You cannot repost these works elsewhere without the copyright holder's permission.
+
+## Hackathons
+
+<!-- Hide in-text citations -->
+<span style="display: none">[@ali2021; @columbiauniversitylife2017]</span>
+
+::: {#refs}
+:::
