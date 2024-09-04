@@ -19,7 +19,7 @@ website:
     right:
       - href: index.qmd
         text: Featured Work
-      # - href: publications.qmd
+      # - href: publications/index.qmd
       #   text: Publications
       - href: blog/index.qmd
         text: Blog
