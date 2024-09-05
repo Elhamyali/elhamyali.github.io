@@ -26,6 +26,7 @@
   text-decoration: none;
 }
 
+
 .work-item img {
   width: 100%;
   height: auto;
@@ -55,7 +56,7 @@
   margin: 0;
 }
 
-/* CSS for the three-column layout with equal-height images */
+/* Three-column layout with equal-height images */
 [class*="layout-ncol"] img {
   width: 100%;
   height: auto;
@@ -64,7 +65,7 @@
   transition: transform 0.3s; /* Adds a smooth hover effect */
 }
 
-/* CSS for the article navigation arrows */
+/* Article navigation arrows */
 .left-arrow {
   position: fixed; /* Fix the button relative to the viewport */
   left: 20px; /* Align to the far left */
@@ -93,4 +94,32 @@
 
 .nav-arrow:hover {
   transform: scale(1.1); /* Zoom effect on hover */
+}
+
+/* Sticky menu banner */
+.navbar {
+  background-color: #EDF3F9; /* Custom background color for the sticky menu banner */
+  color: #000; /* Set a custom text color for the sticky menu banner */
+  position: sticky;
+  top: 0;
+  z-index: 1000; /* Ensure the navbar is above other content */
+}
+
+.navbar a {
+  color: inherit; /* Ensure all links in the navbar inherit the text color */
+  text-decoration: none; /* Remove underline from links */
+}
+
+.navbar a:hover {
+  color: #333; /* Change color on hover */
+}
+
+/* Hide the in-text citations */
+.citation {
+  display: none;
+}
+
+/* Hide the default "References" heading */
+div#refs > h2 {
+  display: none;
 }
