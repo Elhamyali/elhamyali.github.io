@@ -1,5 +1,6 @@
 ---
 title: Blog
+subtitle: "My writing blends data, art, and research to tell visual stories that reveal the impact of our decisions and actions on our climate and planet."
 author: ""
 listing:
   contents: "index.qmd"

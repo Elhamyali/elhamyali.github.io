@@ -1,5 +1,6 @@
 ---
 title: "About"
+subtitle: "“History is a narrative; it’s a collection of stories sanctioned by the ruling power, and reinforced through words and images that suit them. That was the whole point of taking on history painting: to authorize these moments that have been swept under the rug for generations.” – Kent Monkman, Canadian First Nations artist and Fish River Band member"
 about:
   template: marquee
   links:
@@ -9,9 +10,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com/Elhamyali
-    # - icon: google
-    #   text: Google Scholar
-    #   href: https://scholar.google.com/citations?user=hyoNrBwAAAAJ&hl=en
     - icon: youtube
       href: https://www.youtube.com/@elhamali6073
       text: Youtube
@@ -44,7 +42,7 @@ format:
 
 My career is a blend of [*halo-halo*](https://en.wikipedia.org/wiki/Halo-halo) (Tagalog for a mixed dessert) experiences! 🌍 I started in microfinance and international relations in East Africa, transitioned into health policy and management, and have spent the past 10 years supporting local and state governments. I've collaborated with diverse clients like the Pima County Health Department, New York State Department of Health AIDS Institute, City of Los Angeles, and US Digital Response.
 
-Currently, I'm a researcher at the [Beeck Center for Social Impact and Innovation](https://beeckcenter.georgetown.edu/person/elham-ali/), where I advise and train local governments on human-centered design for climate resilience, green jobs, housing insecurity, and more.
+Currently, I'm a researcher at the [Beeck Center for Social Impact and Innovation](https://beeckcenter.georgetown.edu/person/elham-ali/), where I advise and train local governments on human-centered design to advance tree equity, access to green climate jobs, and more. I focus on integrating and evaluating nature-based climate solutions (NbS) in cities to foster climate resilience, health equity, and peace.
 
 🏛️ I help governments, nonprofits, and startups design and launch health products, services, and policies using equity-centered research insights and data-driven storytelling. My work includes:
 
@@ -59,6 +57,8 @@ I founded Jumana Design (DBA Elham Ali Consultancy), a studio dedicated to advan
 On a personal note, I live in sunny California ☀️ with my husband and two kitties. I co-founded [Spudnuts Comics](https://www.instagram.com/spudnutscomics/?hl=en) and the [Unmuted Podcast](#0). 💌 I love connecting---reach out on LinkedIn or email me!
 
 <!-- Accessibility widget script -->
+
+```{=html}
 <script>
 (function(d){
   var s = d.createElement("script");
@@ -68,4 +68,4 @@ On a personal note, I live in sunny California ☀️ with my husband and two ki
   (d.body || d.head).appendChild(s);
 })(document)
 </script>
-
+```
