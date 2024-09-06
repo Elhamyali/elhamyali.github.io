@@ -1,0 +1,143 @@
+---
+title: "Johns Hopkins Center for a Livable Future"
+author: Elham Ali
+citation:
+  url: https://www.elhamyali.com/
+date: 2024-03-17
+subtitle: "Collecting hundreds of recipe ingredients to create climate food labels for improved climate-friendly eating decisions."
+toc: true
+categories: 
+  - data modeling
+  - data analysis
+  - pdf scraping
+  - data wrangling
+  - greenhouse gas calculations
+  - climate change
+  - sustainable diet
+execute: 
+  echo: false
+format: html
+lightbox: 
+  match: auto
+  desc-position: right
+  loop: true
+  effect: zoom
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Challenge
+
+Climate change is a critical public health threat that requires urgent
+action. The global food system, from production to waste, accounts for
+about one-third of all greenhouse gas emissions (GHGE). Meat from cattle
+(33%), dairy (19%), and other animal meats (9%) contribute over 60% of
+the projected global temperature rise from food systems by 2030.
+Reducing red meat and dairy consumption in high-income countries like
+the U.S., where intake far exceeds dietary guidelines, is essential.
+Universities offer an influential hub to drive this change by
+influencing student behavior through their dining services. Johns
+Hopkins Center for a Livable Future implemented climate labels in dining
+hall menue to encourage students to choose lower-GHGE foods, but their
+effectiveness, particularly in university settings. Targeting Generation
+Z students, who are more inclined towards plant-based diets, the
+center's study aimed to assess the impact of climate change menu labels
+on promoting sustainable food choices and reducing climate anxiety. My
+role was to collect recipes and all ingredients for the study, and
+develop a model for calculating greenhouse gas (GHG) emissions of
+recipes over a four-week period in two dining halls at a private
+university in Maryland.
+
+## Approach
+
+[![](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)](#)
+[![](https://img.shields.io/badge/pdfplumber-808080)](#)
+[![](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](#)
+[![](https://img.shields.io/badge/re-006400)](#)
+[![](https://img.shields.io/badge/glob-006400)](#)
+[![](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)](#)
+
+::: callout-note
+[View the code on
+GitHub](https://github.com/Elhamyali/clf-climate-label-study) (private
+repository---please email me for access).
+:::
+
+Working with a colleague, I extracted over 650 menu items containing
+26,277 ingredients from all recipes using Python libraries. I classified
+these ingredients according to the Cool Food Calculator categories for
+accurate greenhouse gas emissions (GHGE) calculations. Emissions for
+each ingredient were calculated based on its category and then
+aggregated at the recipe level. Together, we visualized the GHGE data
+using a strip plot to identify natural breaks in the emission
+distribution, which provided more precise thresholds than traditional
+methods like tertiles or k-means clustering. I then helped define the
+thresholds for climate impact labels (green, yellow, red), categorizing
+foods based on their relative climate impact.
+
+[![](https://img.shields.io/badge/R-276DC2?logo=R&logoColor=white)](#)
+[![](https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white)](#)
+[![](https://img.shields.io/badge/Quarto-005F9E?logo=quarto&logoColor=white)](#)
+[![](https://img.shields.io/badge/Tidyverse-1A162D?logo=R&logoColor=white)](#)
+[![](https://img.shields.io/badge/dplyr-1A162D?logo=R&logoColor=white)](#)
+[![](https://img.shields.io/badge/survey-1A162D?logo=R&logoColor=white)](#)
+[![](https://img.shields.io/badge/ggplot2-1A162D?logo=R&logoColor=white)](#)
+[![](https://img.shields.io/badge/tidyr-1A162D?logo=R&logoColor=white)](#)
+[![](https://img.shields.io/badge/knitr-1A162D?logo=R&logoColor=white)](#)
+[![](https://img.shields.io/badge/readxl-1A162D?logo=R&logoColor=white)](#)
+
+::: callout-note
+[View the code on
+GitHub](https://github.com/Elhamyali/clf-climate-label-study-data-analysis)
+(private repository---please email me for access).
+:::
+
+I designed the data collection analysis, collected, cleaned,
+transformed, and analyzed dining ingredient purchasing and student
+survey data before and after the study. This included preparing tables
+for publication on demographics and descriptive statistics relevant to
+food insecurity, diet quality, and types of food consumption. I managed
+data collection and validation processes, working closely with dining
+team members to make sure the accuracy of variables and data collection
+methods. I conducted preliminary exploratory analyses to understand
+survey respondent characteristics and outcome variables, and wrote
+methods draft for publication.
+
+## Results
+
+By quickly gathering over 600 recipes, I saved the Center hundreds of
+hours in staff time and resources, resulting in a more efficient and
+effective research process. Key study findings included:
+
+-   Minimal differences between baseline and intervention periods,
+    except for a notable increase in purchases due to a special event.
+
+-   Plant protein intake increased slightly post-intervention, while
+    vegetable intake decreased. Overall diet quality scores showed no
+    significant change.
+
+-   One-third of students noticed the climate labels, but the majority
+    felt neutral about them. Many students reported that the labels did
+    not influence their food choices or concerns about climate impact.
+
+::: {layout-ncol="2"}
+![Distribution of greenhouse gas emissions across
+diets](1-clf.png){group="gallery"}
+
+![Comparison of greenhouse gas emissions by food
+subgroups](2-clf.png){group="gallery"}
+
+![](3-clf.png){group="gallery"}
+
+![](4-clf.png){group="gallery"}
+:::
+
+<!-- Navigation Arrows -->
+
+::: article-navigation
+<a href="/featured-work/us-digital-response/index.qmd" class="nav-arrow left-arrow">←</a>
+<!-- Left arrow for previous -->
+<a href="/featured-work/arizona-department-of-health-services/index.qmd" class="nav-arrow right-arrow">→</a>
+<!-- Right arrow for next -->
+:::

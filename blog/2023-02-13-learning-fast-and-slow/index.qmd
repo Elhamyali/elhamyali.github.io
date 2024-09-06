@@ -1,0 +1,33 @@
+---
+title: "Learning fast and slow"
+description: |
+  Is it better to learn intensively or slowly over time? Research suggests a mix might be best: start strong, then shift to continuous review. Could this approach apply to everything from language learning to design bootcamps? How do you prefer to learn? 
+date: '2023-02-13'
+image: "images/learning_fast_slow.png"
+categories:
+  - Learning Design
+format: html
+citation: true
+toc: true
+toc-depth: 3
+lightbox: true
+execute:
+  eval: false
+bibliography: references.bib
+comments:
+  hypothesis: true
+---
+
+<center>![](images/learning_fast_slow.png)</center>
+
+<br>
+
+Adult students performed better in an intensive course (110 hrs in 5 weeks) than in an extensive course (110 hrs in 7 months) in language education programs. [@hinger2006]
+
+🤔 But, there's also evidence that learning a complex skill like a new language slowly and steadily improves our memory due to repeated exposure to materials over time (Spacing Effect). [@serrano2007]
+
+💡 One consensus is that people learning a new skill like a language will benefit from first intensively studying until they are conversational, then transitioning to continuous/period review instead of just studying 30 minutes per day from the start. I personally prefer to learn this way. [@Zerr2018]
+
+I wonder about the impact of intensive versus extensive learning experiences. Do students in UX design bootcamps forget more than their college counterparts who spread design classes over four years? Is a 21-day racial equity challenge worse for anti-racist thinking than training taken over a year?
+
+How do you prefer to learn?

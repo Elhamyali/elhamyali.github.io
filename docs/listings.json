@@ -1,0 +1,17 @@
+[
+  {
+    "listing": "/fun.html",
+    "items": []
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2023-03-28-six-ways-organizations-can-build-antifragile-teams/index.html",
+      "/blog/2023-02-13-learning-fast-and-slow/index.html",
+      "/blog/2022-09-01-how-racism-shapes-farming-and-land-access-in-the-us/index.html",
+      "/blog/2022-08-05-taking-risks-without-being-at-risk/index.html",
+      "/blog/2022-07-22-what-the-environment-can-teach-us-about-self-actualization/index.html",
+      "/blog/2022-06-09-how-to-talk-about-race-with-white-peers/index.html"
+    ]
+  }
+]

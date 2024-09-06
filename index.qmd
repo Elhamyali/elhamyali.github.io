@@ -16,7 +16,7 @@ Pronounced <a href="https://www.name-coach.com/elham-ali">ill-huhm</a>
 
 I'm a mixed-methods design researcher with a decade of experience in human-centered design, impact evaluation, and data analysis with storytelling in civic tech and public health.
 
-I'm a scholar with the [Crown Prince International Scholarship Program](https://www.cpisp.bh/) in Bahrain 🇧🇭, and a doctoral student at Johns Hopkins University in Health Equity and Social Justice. My research helps cities equitably implement and evaluate [nature-based climate solutions](https://www.nature.org/en-us/what-we-do/our-insights/perspectives/natural-climate-solutions/) so they can make informed decisions that improve our climate. 🌿
+I'm a scholar with the [Crown Prince International Scholarship Program](https://www.cpisp.bh/) in Bahrain 🇧🇭, and a doctoral student at Johns Hopkins University in Health Equity and Social Justice. My research helps cities equitably implement and evaluate [nature-based climate solutions](https://www.american.edu/sis/centers/carbon-removal/fact-sheet-nature-based-solutions-to-climate-change.cfm) so they can make informed decisions that improve our climate. 🌿
 
 🔍 I specialize in uncovering user behavior insights through evidence-based research and developing equity-focused, actionable data products---from maps to data stories. My goal is to help people discover deeper truths about the world and human experience, and to reveal stories that shift norms and shape conversations. Here is some of my featured work.
 
@@ -25,7 +25,7 @@ I'm a scholar with the [Crown Prince International Scholarship Program](https://
 ```         
 ```
 
-[![Pima County Health Department](images/featured/pchd.png)](/featured-work/pchd/pchd.qmd)
+[![Pima County Health Department](images/featured/pchd.png)](/featured-work/pima-county-health-department/index.qmd)
 
 COVID-19 vaccine delivery for Latina/o/e pregnant people
 :::
@@ -34,7 +34,7 @@ COVID-19 vaccine delivery for Latina/o/e pregnant people
 ```         
 ```
 
-[![Washington State Board of Health](images/featured/wsboh.png)](/featured-work/wsbh/wsbh.qmd)
+[![Washington State Board of Health](images/featured/wsboh.png)](/featured-work/washington-state-board-health/index.qmd)
 
 Decisions to require COVID-19 vaccination for school entry
 :::
@@ -43,7 +43,7 @@ Decisions to require COVID-19 vaccination for school entry
 ```         
 ```
 
-[![U.S. Digital Response](images/featured/usdr.png){fig-alt="Image of a U.S. flag being held by a white hand with a blurred background"}](/featured-work/1-usdr/usdr.qmd)
+[![U.S. Digital Response](images/featured/usdr.png){fig-alt="Image of a U.S. flag being held by a white hand with a blurred background"}](/featured-work/us-digital-response/index.qmd)
 
 COVID-19 crisis delivery for 19+ local and state governments
 :::
@@ -52,7 +52,7 @@ COVID-19 crisis delivery for 19+ local and state governments
 ```         
 ```
 
-[![Johns Hopkins Center for a Livable Future](images/featured/clf.jpg)](/featured-work/clf/clf.qmd)
+[![Johns Hopkins Center for a Livable Future](images/featured/clf.jpg)](/featured-work/johns-hopkins-center-for-livable-future/index.qmd)
 
 Climate food labels to influence student eating behavior
 :::
@@ -61,7 +61,7 @@ Climate food labels to influence student eating behavior
 ```         
 ```
 
-[![Arizona Department of Health Services](images/featured/azdhs.png)](/featured-work/azdhs/azdhs.qmd)
+[![Arizona Department of Health Services](images/featured/azdhs.png)](/featured-work/arizona-department-of-health-services/index.qmd)
 
 Testing bilingual patient vaccine portal for faster bookings
 :::
@@ -70,7 +70,7 @@ Testing bilingual patient vaccine portal for faster bookings
 ```         
 ```
 
-[![New York State Department of Health](images/featured/2-nysdoh.jpg)](/featured-work/nysdoh/nysdoh.qmd)
+[![New York State Department of Health AIDS Institute](images/featured/2-nysdoh.jpg)](/featured-work/new-york-state-department-health-aids-institute/index.qmd)
 
 Digital tools for improved HIV prevention among young adults
 :::
@@ -79,7 +79,7 @@ Digital tools for improved HIV prevention among young adults
 ```         
 ```
 
-[![City of Los Angeles](images/featured/la.png)](/featured-work/la/la.qmd)
+[![City of Los Angeles](images/featured/la.png)](/featured-work/city-of-los-angeles/index.qmd)
 
 Racial equity hubsite with historical and actionable datasets
 :::
@@ -88,7 +88,7 @@ Racial equity hubsite with historical and actionable datasets
 ```         
 ```
 
-[![Rho Impact](images/featured/rho.png)](/featured-work/rho/rho.qmd)
+[![Rho Impact](images/featured/rho.png)](/featured-work/rho-impact/index.qmd)
 
 Projected greenhouse emissions cuts by new farming technology‬
 :::
@@ -97,7 +97,7 @@ Projected greenhouse emissions cuts by new farming technology‬
 ```         
 ```
 
-[![Bureau Veritas](images/featured/bva.png)](/featured-work/bva/bva.qmd)
+[![Bureau Veritas](images/featured/bva.png)](/featured-work/bureau-veritas/index.qmd)
 
 Rebrand of an \$11M merger and acquisition of six companies
 :::
@@ -106,7 +106,7 @@ Rebrand of an \$11M merger and acquisition of six companies
 ```         
 ```
 
-[![Food+Planet](images/featured/foodplanet.png)](/featured-work/foodplanet/foodplanet.qmd)
+[![Food+Planet](images/featured/foodplanet.png)](/featured-work/food-planet/index.qmd)
 
 Analysis of dietitian attitudes and actions towards sustainable diets
 :::
@@ -115,7 +115,7 @@ Analysis of dietitian attitudes and actions towards sustainable diets
 ```         
 ```
 
-[![Columbia University](images/featured/columbia.png)](/featured-work/columbia/columbia.qmd)
+[![Columbia University](images/featured/columbia.png)](/featured-work/columbia-university/index.qmd)
 
 Impact of lactation pods among pregnant and lactating staff
 :::
@@ -124,7 +124,7 @@ Impact of lactation pods among pregnant and lactating staff
 ```         
 ```
 
-[![Healthcare Ready](images/featured/healthcare.png)](/featured-work/healthcare/healthcare.qmd)
+[![Healthcare Ready](images/featured/healthcare.png)](/featured-work/healthcare-ready/index.qmd)
 
 Multilingual patient and clinician education on COVID-19 treatment
 :::
