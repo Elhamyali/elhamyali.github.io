@@ -7,5 +7,13 @@ $link-color: #75AADB;
 $navbar-color:white;
 $quarto-bgcolor:#181818;
 
+// theme-dark.scss
+$arrow-color: white; // Arrow color for dark theme
+
+.left-arrow,
+.right-arrow {
+  color: $arrow-color; // Use the variable for dark theme
+}
+
 // Code blocks
 $code-block-bg-alpha: -.8;

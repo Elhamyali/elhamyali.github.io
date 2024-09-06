@@ -77,7 +77,7 @@ ul.task-list li input[type="checkbox"] {
 <style>
 
       .quarto-title-block .quarto-title-banner {
-        background: #EDF3F9;
+        background: $quarto-bgcolor;
       }
 </style>
 
@@ -230,7 +230,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="3-columbia.webp" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="gallery" title="Picture of a lactation room on campus"><img src="3-columbia.webp" class="img-fluid figure-img" alt="Picture of a lactation room on campus"></a></p>
+<p><a href="3-columbia.webp" class="lightbox" data-gallery="gallery" data-glightbox="description: .lightbox-desc-1" title="Picture of a lactation room on campus"><img src="3-columbia.webp" class="img-fluid figure-img" alt="Picture of a lactation room on campus"></a></p>
 <figcaption>Picture of a lactation room on campus</figcaption>
 </figure>
 </div>
@@ -238,7 +238,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="4-columbia.webp" class="lightbox" data-glightbox="description: .lightbox-desc-2" data-gallery="gallery" title="Logic model of the breastfeeding support program"><img src="4-columbia.webp" class="img-fluid figure-img" alt="Logic model of the breastfeeding support program"></a></p>
+<p><a href="4-columbia.webp" class="lightbox" data-gallery="gallery" data-glightbox="description: .lightbox-desc-2" title="Logic model of the breastfeeding support program"><img src="4-columbia.webp" class="img-fluid figure-img" alt="Logic model of the breastfeeding support program"></a></p>
 <figcaption>Logic model of the breastfeeding support program</figcaption>
 </figure>
 </div>
@@ -248,7 +248,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="1-columbia.webp" class="lightbox" data-glightbox="description: .lightbox-desc-3" data-gallery="gallery" title="Example of lactation room scheduling solution"><img src="1-columbia.webp" class="img-fluid figure-img" alt="Example of lactation room scheduling solution"></a></p>
+<p><a href="1-columbia.webp" class="lightbox" data-gallery="gallery" data-glightbox="description: .lightbox-desc-3" title="Example of lactation room scheduling solution"><img src="1-columbia.webp" class="img-fluid figure-img" alt="Example of lactation room scheduling solution"></a></p>
 <figcaption>Example of lactation room scheduling solution</figcaption>
 </figure>
 </div>
@@ -256,7 +256,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="2-columbia.webp" class="lightbox" data-glightbox="description: .lightbox-desc-4" data-gallery="gallery" title="Example of lactation room booking appointment solution"><img src="2-columbia.webp" class="img-fluid figure-img" alt="Example of lactation room booking appointment solution"></a></p>
+<p><a href="2-columbia.webp" class="lightbox" data-gallery="gallery" data-glightbox="description: .lightbox-desc-4" title="Example of lactation room booking appointment solution"><img src="2-columbia.webp" class="img-fluid figure-img" alt="Example of lactation room booking appointment solution"></a></p>
 <figcaption>Example of lactation room booking appointment solution</figcaption>
 </figure>
 </div>
@@ -266,7 +266,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="5-columbia.webp" class="lightbox" data-glightbox="description: .lightbox-desc-5" data-gallery="gallery" title="Example of workflow for lactation room scheduling"><img src="5-columbia.webp" class="img-fluid figure-img" alt="Example of workflow for lactation room scheduling"></a></p>
+<p><a href="5-columbia.webp" class="lightbox" data-gallery="gallery" data-glightbox="description: .lightbox-desc-5" title="Example of workflow for lactation room scheduling"><img src="5-columbia.webp" class="img-fluid figure-img" alt="Example of workflow for lactation room scheduling"></a></p>
 <figcaption>Example of workflow for lactation room scheduling</figcaption>
 </figure>
 </div>
@@ -274,7 +274,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="6-columbia.webp" class="lightbox" data-glightbox="description: .lightbox-desc-6" data-gallery="gallery" title="Example of lactation room booking appointment solution"><img src="6-columbia.webp" class="img-fluid figure-img" alt="Example of lactation room booking appointment solution"></a></p>
+<p><a href="6-columbia.webp" class="lightbox" data-gallery="gallery" data-glightbox="description: .lightbox-desc-6" title="Example of lactation room booking appointment solution"><img src="6-columbia.webp" class="img-fluid figure-img" alt="Example of lactation room booking appointment solution"></a></p>
 <figcaption>Example of lactation room booking appointment solution</figcaption>
 </figure>
 </div>
@@ -905,7 +905,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"descPosition":"right","selector":".lightbox","openEffect":"zoom","closeEffect":"zoom","loop":true});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","descPosition":"right","loop":true,"closeEffect":"zoom","openEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

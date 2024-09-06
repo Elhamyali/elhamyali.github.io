@@ -5,4 +5,10 @@ $navbar-bg: #EDF3F9;
 $quarto-bgcolor: #EDF3F9;
 $navbar-color:inherit;
 
+// theme-light.scss
+$arrow-color: #181818; // Arrow color for light theme
 
+.left-arrow,
+.right-arrow {
+  color: $arrow-color; // Use the variable for light theme
+}
