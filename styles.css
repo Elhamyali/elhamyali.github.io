@@ -98,7 +98,8 @@
 
 /* Sticky menu banner */
 .navbar {
-  background-color: #EDF3F9; /* Custom background color for the sticky menu banner */
+  background-color: $navbar-bg;
+/*  background-color: #EDF3F9;*/ /* Custom background color for the sticky menu banner */
   color: #000; /* Set a custom text color for the sticky menu banner */
   position: sticky;
   top: 0;
@@ -106,7 +107,7 @@
 }
 
 .navbar a {
-  color: inherit; /* Ensure all links in the navbar inherit the text color */
+  color: $navbar-color; /* Ensure all links in the navbar inherit the text color */
   text-decoration: none; /* Remove underline from links */
 }
 
@@ -122,4 +123,8 @@
 /* Hide the default "References" heading */
 div#refs > h2 {
   display: none;
+}
+
+.quarto-title-block .quarto-title-banner {
+    background:$quarto-bgcolor;
 }

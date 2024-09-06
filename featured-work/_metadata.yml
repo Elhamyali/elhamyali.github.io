@@ -1,2 +1,2 @@
-    title-block-banner: "#EDF3F9"  
+    title-block-banner: $quarto-bgcolor
     title-block-banner-color: body

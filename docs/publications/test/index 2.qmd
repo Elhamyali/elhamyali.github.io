@@ -1,0 +1,16 @@
+---
+title: "Publications"
+format: 
+  html:
+    page-layout: full
+    toc: true
+bibliography: Crump.bib 
+filters:
+  - publications.lua
+---
+
+**Copyright notice:** Some research and technical work links below can be shared quickly and for free. However, the authors or copyright holders still own the rights to these documents. If you use these links, you must follow the copyright rules set by the authors. You cannot repost these works elsewhere without the copyright holder's permission.
+
+## Hackathons
+
+## Test

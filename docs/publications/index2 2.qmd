@@ -1,0 +1,21 @@
+---
+title: "Publications"
+format: 
+  html:
+    page-layout: full
+    toc: true
+    css: styles.css
+bibliography: hackathons/hackathons.bib
+bibliographystyle: apa.csl
+# filters: 
+#   - pandoc-citeproc 
+---
+
+**Copyright notice:** Some research and technical work links below can be shared quickly and for free. However, the authors or copyright holders still own the rights to these documents. If you use these links, you must follow the copyright rules set by the authors. You cannot repost these works elsewhere without the copyright holder's permission.
+
+## Hackathons
+
+[@ali2017; @ali2021]
+
+::: {#refs}
+:::

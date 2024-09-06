@@ -1,0 +1,75 @@
+---
+title: "Unmuted Episode Show Notes: How racism shapes farming and land access in the U.S."
+description: |
+ Explore the deep-rooted impact of racism on farming and land ownership in the U.S. with Dr. Larissa Estes-White as she shares her family’s farming legacy, stories of food sovereignty, and her vision for a just circular food economy. Listen now on Apple Podcasts, Spotify, or Amazon Music.
+date: '2022-09-01'
+image: "images/unmuted_ep4.png"
+categories:
+  - Unmuted Podcast
+  - farming equity
+  - racial equity
+  - racism
+  - land equity
+  - food sovereignty
+  - food justice
+  - circular food economy
+format: html
+citation: true
+toc: true
+toc-depth: 6
+lightbox: true
+execute:
+  eval: false
+---
+
+<center>![](images/unmuted_ep4.png)</center>
+
+<br>
+
+Behind every ingredient, bite, and meal we eat is a farmer's story. 500M smallholder farms are supporting 2B people globally. Yet, the majority of the world\'s hungry are farmers. U.S. agriculture today appears to be as segregated as it was a century ago, with farmers of color at a significant disadvantage. Today, they cultivate less than half of one percent of the country\'s farmland. [[Dr. Larissa Estes-White, DrPH]{.underline}](https://www.linkedin.com/in/larissaesteswhite-drph) shares her family legacy in farming across the U.S. and Philippines. She tells stories of racist land ownership, food sovereignty, and hopes to build a just circular food economy. Dr. Estes-White is the Executive Director of ALL IN Alameda County.
+
+Here are highlights from our conversation with Dr. Estes-White on the Unmuted Podcast. Listen to the full episode to hear Dr. Estes-White talk about her family\'s history and legacy in tenant farming, stories of racism towards food producers and land ownership in the US, and her important work to build a just and sustainable circular food economy.
+
+Listen to the episode on [[Apple Podcast]{.underline}](https://apple.co/3zGHLZ7), [[Spotify]{.underline}](https://spoti.fi/3xXa4RP), or [[Amazon Music]{.underline}](https://amzn.to/3yiDOZf).
+
+### Conversation highlights
+
+-   Dr. Estes-White\'s lived experience, **family heritage** across the U.S. and the Philippines in farming
+
+-   Drawing on the past toward a sovereign food future: Stories of **racism towards food workers and producers**
+
+-   **Food as power**, as a means of leverage to submit to colonizing power
+
+-   Food as political and stories in **tenant farming**
+
+-   Food as culture, power back to farmers of color, and **culturally-relevant recipes**
+
+-   The work of **ALL IN Alameda County** in the circular food economy, Recipes4Health, and Place-based Strategies
+
+-   **Lessons learned** in building a just and circular food economy
+
+-   **News and trends today**, including White House convening on food security and hunger, Universal free lunch, and food prices and inflation in today\'s economy
+
+-   What an individual can do today to participate and engage in a **just circular food economy**
+
+### Memorable moments
+
+{{< video "https://www.youtube.com/watch?v=_tOkm4qKkiQ" >}}
+
+> "My great grandmother, who was a cook at St. Joseph's Hospital in Houston, she owned a home within walking distance of the hospital, which was destroyed eventually when a freeway was put in. And she died from a heart attack in 1953, in route to Houston Negro hospital because her own employer wouldn't accept her as a patient. And, you know, for me, that's connection to food and that she was a food service worker, the impact of government and eminent domain, racism within the healthcare system. But then full circle, my grandfather was actually a patient and saw many physicians there in that same hospital system. And, you know, I never he was he wasn't a big talker. But I'm curious as to what his own perspective was of his own mother's death, as it relates to being a provider and, you know, in a worker and having to go to receive services at that same place, and I like what that does, and what that really means."
+
+\- Dr. Larissa Estes-White, DrPH
+
+### Episode transcript
+
+[Download the episode transcript (PDF)](images/unmuted_ep4_transcript.pdf).
+
+### About the speaker
+
+Larissa J. Estes-White, DrPH is the Executive Director of ALL IN Alameda County. She has over 15 years of experience in healthcare and public health, focusing on community, equity, policy, and systems change. She received her BS from Duquesne University, MPH from the University of Arizona, and DrPH from the University of Texas Health Science Center, Houston. Dr. Estes-White is contributing faculty member at Walden University, a board member of the College for Behavioral Health Leadership, and a member of Junior League of Oakland-East Bay and Alpha Kappa Alpha Sorority, Inc.
+
+Connect with Dr. Estes-White on [[Linkedin]{.underline}](https://www.linkedin.com/in/larissaesteswhite-drph) and read more about [[ALL IN Alameda County]{.underline}](https://allin.acgov.org/).
+
+### Let's connect
+
+Have questions on equity and justice or want to speak on Unmuted? Email [elham.yusufali\@gmail.com](mailto:elham.yusufali@gmail.com).
