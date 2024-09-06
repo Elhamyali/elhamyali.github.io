@@ -267,7 +267,7 @@ Note
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="1-clf.png" class="lightbox" data-gallery="gallery" data-glightbox="description: .lightbox-desc-1" title="Distribution of greenhouse gas emissions across diets"><img src="1-clf.png" class="img-fluid figure-img" alt="Distribution of greenhouse gas emissions across diets"></a></p>
+<p><a href="1-clf.png" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="gallery" title="Distribution of greenhouse gas emissions across diets"><img src="1-clf.png" class="img-fluid figure-img" alt="Distribution of greenhouse gas emissions across diets"></a></p>
 <figcaption>Distribution of greenhouse gas emissions across diets</figcaption>
 </figure>
 </div>
@@ -275,7 +275,7 @@ Note
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="2-clf.png" class="lightbox" data-gallery="gallery" data-glightbox="description: .lightbox-desc-2" title="Comparison of greenhouse gas emissions by food subgroups"><img src="2-clf.png" class="img-fluid figure-img" alt="Comparison of greenhouse gas emissions by food subgroups"></a></p>
+<p><a href="2-clf.png" class="lightbox" data-glightbox="description: .lightbox-desc-2" data-gallery="gallery" title="Comparison of greenhouse gas emissions by food subgroups"><img src="2-clf.png" class="img-fluid figure-img" alt="Comparison of greenhouse gas emissions by food subgroups"></a></p>
 <figcaption>Comparison of greenhouse gas emissions by food subgroups</figcaption>
 </figure>
 </div>
@@ -910,7 +910,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"loop":true,"selector":".lightbox","descPosition":"right","closeEffect":"zoom","openEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"right","selector":".lightbox","openEffect":"zoom","loop":true});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
