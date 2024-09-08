@@ -47,7 +47,7 @@ format:
 
 ![](/images/home/cover.webp)
 
-My career is like <a href="https://en.wikipedia.org/wiki/Halo-halo" target="_blank" rel="noopener noreferrer">*halo-halo*</a> — a mix of rich experiences 🌍 I started in microfinance and international relations in East Africa, transitioned into health policy and management, and have spent the past 10 years supporting local and state governments in civic tech and public health. I've collaborated with diverse clients like the Pima County Health Department, New York State Department of Health, City of Los Angeles, and US Digital Response.
+My career is like <a href="https://en.wikipedia.org/wiki/Halo-halo" target="_blank" rel="noopener noreferrer">*halo-halo*</a> --- a mix of rich experiences 🍨 I started in microfinance and international relations in East Africa, transitioned into health policy and management, and have spent the past 10 years supporting local and state governments in civic tech and public health. I've collaborated with diverse clients like the Pima County Health Department, New York State Department of Health, City of Los Angeles, and US Digital Response.
 
 Now, I'm a researcher at the <a href="https://beeckcenter.georgetown.edu/person/elham-ali/" target="_blank" rel="noopener noreferrer">Beeck Center for Social Impact and Innovation</a>, where I advise and train local governments on human-centered design to advance tree equity, access to green climate jobs, and more. My focus is on integrating and evaluating the impact of <a href="https://www.worldwildlife.org/stories/what-are-nature-based-solutions-and-how-can-they-help-us-address-the-climate-crisis" target="_blank" rel="noopener noreferrer">nature-based climate solutions</a> (NbS) in cities to strengthen climate resilience, health equity, and peace. 🌿
 
@@ -55,13 +55,13 @@ I'm also a scholar with the <a href="https://www.cpisp.bh/" target="_blank" rel=
 
 🏛️ I help governments, nonprofits, and startups design and launch health products, services, and policies using equity-centered research insights and data-driven storytelling. My work includes:
 
-- Integrating equity-focused research practices for a state health department, resulting in multistate hackathons that boosted employee engagement and collaboration.
-- Improving COVID-19 vaccination communication for a state board of health to foster trust and transparency with its residents.
-- Advising a \$4M federal grant to improve health literacy and vaccine uptake</a> among pregnant Latina/e/o communities.
+-   Integrating equity-focused research practices for a state health department, resulting in multistate hackathons that boosted employee engagement and collaboration.
+-   Improving COVID-19 vaccination communication for a state board of health to foster trust and transparency with its residents.
+-   Advising a \$4M federal grant to improve health literacy and vaccine uptake</a> among pregnant Latina/e/o communities.
 
-I founded Jumana Design (DBA Elham Ali Consultancy), a studio dedicated to advancing research equity in public service delivery. I served as the Lead Human-centered Design Advisor at Pima County Health Department and supported over 13 government partners at U.S. Digital Response during the COVID-19 crisis. I'm an active member of communities such as Statisticians without Borders, Technologists for Public Good, and Climate Action Tech. 🌿 I also advocate for environmental justice with my local <a href="https://citizensclimatelobby.org/" target="_blank" rel="noopener noreferrer">Citizen's Climate Lobby.</a>
+I founded Jumana Design (DBA Elham Ali Consultancy), a studio dedicated to advancing research equity in public service delivery. I served as the Lead Human-centered Design Advisor at Pima County Health Department and supported over 13 government partners at U.S. Digital Response during the COVID-19 crisis. I'm an active member of communities such as Statisticians without Borders, Technologists for Public Good, and Climate Action Tech. 🌍 I also advocate for environmental justice with my local <a href="https://citizensclimatelobby.org/" target="_blank" rel="noopener noreferrer">Citizen's Climate Lobby.</a>
 
-On a personal note, I live in sunny southern California ☀️ with my husband and two kitties. 💌 I love connecting—reach out on LinkedIn or email me!
+On a personal note, I live in sunny southern California ☀️ with my husband and two kitties. 💌 I love connecting---don't hesitate to reach to me!
 
 <!-- Accessibility widget script -->
 
