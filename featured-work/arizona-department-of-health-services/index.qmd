@@ -5,8 +5,7 @@ citation:
   url: https://www.elhamyali.com/
 date: 2021-12-11
 subtitle: "Testing a bilingual patient vaccine portal to shorten the time to register for a COVID-19 vaccination appointment with equitable messaging and information wayfinding."
-toc: true
-categories: 
+categories:
   - qualitative research
   - quantitative research
   - usability testing
