@@ -16,3 +16,4 @@ static/etc/*
 /.luarc.json
 .httr-oauth
 
+.DS_Store
