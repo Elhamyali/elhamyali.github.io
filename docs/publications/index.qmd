@@ -9,65 +9,29 @@ format:
 bibliographystyle: apa.csl
 ---
 
-## Working Peer-reviewed Journal Papers
+## Working Journal Papers
 
-*The following working papers are currently under journal review and are anticipated for publication in 2024 or 2025.*
+*The following working papers are currently under journal review and are anticipated for publication in 2025.*
 
 Wolfson, J., Altema-Johnson, D., Yett, A., **Ali, E.**, Kim, B., Santo, R., Cho, C., Browning, G., & Ramsing, B. (2024). Climate change menu labels in a university cafeteria: Effects on student's diets, perceptions, and attitudes. *Public Health Nutrition*.
 
-Wait, A., Ackerman, A., Nigon, B., **Ali, E.**, Wilkinson-Lee, A., Cohen, A., Jones, M., Cortez, I., Kelly, K., Fabricant, R., Serrano-Feliciano, J., Stanowski, J., & Cullen, T. (2024). Using human-centered design to advance health literacy in local health department programming: A case study. *BMC Public Health*.
-
 Ackerman, A., **Ali, E.**, Wait, A., Martinez, H., Fabricant, R., Gonzalez, A., Canetas Yerbes, M., & Cullen, T. (2024). Modeling equitable compensation for lived experience experts in local public health programming: Lessons learned. *BMJ Quality and Safety*.
 
-## Conference Presentations
+## Peer-reviewed Journal Papers
 
-**Ali, E.**, & Moore, H. (2023). Experience Mapping Session Presentation. National League of Cities Summit.
+Ackerman, A., Nigon, B., Wait, A., **Ali, E.**, Wilkinson-Lee, A. M., Cohen, A., Jones, M., Cortez, I. G., Kelly, K., Fabricant, R., Serrano-Feliciano, J., Stanowski, J., & Cullen, T. (2025). Using human-centered design to advance health literacy in local health department programming: a case study. *BMC Public Health*, *25*(1), 1--16. <https://doi.org/10.1186/s12889-025-22491-z>
 
-**Ali, E.** (2023). Lessons Learned in Human-centered Design in COVID-19 Crisis Response and Substance Use Disorder. 14th Annual Diverse Voices in Presentation Cultural Competency Conference.
+## News and Magazine Articles
 
-Ackerman, A., **Ali, E.** (2022). Health Literacy Interventions to Impact COVID-19 Vaccination Rates Using Human-centered Design and Behavioral Science. Arizona Health Equity Conference. <https://azhealthequity.org/>
+**Ali, E.** (2025, February 4). The Heart of TOPCities. *Beeck Center*. <https://beeckcenter.georgetown.edu/the-heart-of-topcities/>
 
-Ackerman, A., **Ali, E.**, Theresa, C. (2022). Health Equity Capability Maturity Model. NACCHO 360. <https://www.nacchoannual.org/home>
+**Ali, E.** (2025, January 14). *Climate resilience requires equitable access to quality green jobs. Saint Paul is making strides.* Beeck Center. <https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/>
 
-Ackerman, A., Theresa, C., **Ali, E.** (2022). Health Literacy Interventions to Impact COVID-19 Vaccination Rates Using Human-centered Design. NACCHO 360. <https://www.nacchoannual.org/home>
-
-**Ali, E.** (2021). COVID-19 Crisis Communication: Empowering the Public Health Community. American Public Health Association: Health Communication Group. <https://fccdl.in/rbKatCZUCw>
-
-**Ali, E.**, & Yi, J. (2021). Lightning Talks: Promoting Health Equity in COVID-19. DotGov Design. <http://www.dotgovdesign.org/about/>
-
-**Ali, E.** (2020). Street-based substance use treatment for unsheltered homeless individuals in California: A case for CA Bridge Programs. 16th annual International Street Medicine Symposium.<https://www.streetmedicine.org/>
-
-## Workshops and Webinars
-
-**Ali, E.** (2024). How to Apply Human-Centered Design to Government AI Projects. Innovate(US). <https://innovate-us.org/how-to-apply-human-centered-design-to-government-ai-projects->
-
-**Ali, E.** (2023). Practical Design Sprint Activities for Health Educators. National Public Health Week, PHEP Section American Public Health Association.
-
-**Ali, E.**, Liang, K., Ellis, E. (2021). Lessons Learned from Senior User Researchers. YouTube. <http://www.youtube.com/watch?v=KjmRNjVpbaM>
-
-**Ali, E.**, Tien, L., & Rohatsch, R. (2021). How to Tackle COVID Vaccine Challenges and Speed Up Delivery. Solv Health. <http://www.solvhealth.com/for-providers/webinars/webinar-how-to-speed-up-covid-vaccine-delivery-with-solv-and-us-digital-response>
-
-**Ali, E.** (2021). Introduction to Mixed Methods Research for UX Researchers. YouTube. <https://www.youtube.com/watch?v=6FqQol-JYkg>
-
-**Ali, E.** (2020). How to Craft a Meaningful Professional Development Plan. TechLadies. <https://www.eventbrite.com/e/webinar-how-to-craft-a-meaningful-professional-development-plan-tickets-108491278334>
-
-**Ali, E.** (2019). 5 Project Management Hacks. TechLadies. <https://www.eventbrite.com/e/webinar-5-project-management-hacks-tickets-65445231449>
-
-## Toolkits
-
-**Ali, E.**, & Nagao-Peck, H. (2021). COVID-19 Communication Toolkit: A Health Equity Lens. U.S. Digital Response. <https://www.usdigitalresponse.org/our-projects/covid-communications-toolkit/>
-
-## Theses
-
-**Ali, E.** (2018). Impact of Health Insurance Coverage on HIV Diagnosis Rate in New York City for Young Adults \[Master Thesis Poster Presentation\]. Columbia University Mailman School of Public Health. <https://drive.google.com/file/d/1gM6WHmajT2HafEcnl6l84r_A5-2TiJO3/view?usp=sharing>
-
-**Ali, E.** (2015). Malnutrition Through Constructivism: How International Organizations Succeed in Sustaining Nutrition Interventions in Kenya \[Bachelor Thesis\]. Claremont McKenna College. <https://scholarship.claremont.edu/cmc_theses/1201/>
-
-## Magazine Articles
+**Ali, E.** (2025, January 14). *Climate resilience requires equitable access to quality green jobs. Saint Paul is making strides. - Full Stack Saint Paul*. Full Stack Saint Paul - Amplifying Tech and Innovation in Saint Paul; Full Stack Saint Paul. <https://fullstacksaintpaul.com/climate-resilience-requires-equitable-access-to-quality-green-jobs-saint-paul-is-making-strides/>
 
 Food+Planet, **Ali, E.**, Harding, J., & Occhetta, A. (2023). Food + Planet and Today's Dietitian Release Results of 2023 Sustainability and Food Insights Survey. Food + Planet. <https://foodandplanet.org/experience/> \[[Insight](https://drive.google.com/file/d/1LGNZr36cZDxHjtyJsp3INg_TDsYyKaCY/view)\] \[[PR Release](https://drive.google.com/file/d/1MnoRevrB_DOMXEwI_GWAm2fGHn1CZPM_/view)\]
 
-**Ali, E.**, Naughten, E. (2023). How the City of Akron is tackling housing evictions. Beeck Center. <https://beeckcenter.georgetown.edu/how-the-city-of-akron-is-tackling-housing-evictions/>
+**Ali, E.,** & Naughton, E. (2023, November 28). *How the City of Akron is tackling housing evictions*. Beeck Center. [https://beeckcenter.georgetown.edu/how-the-city-of-akron-is-tackling-housing-evictions/](https://beeckcenter.georgetown.edu/how-the-city-of-akron-is-tackling-housing-evictions/https://beeckcenter.georgetown.edu/how-the-city-of-akron-is-tackling-housing-evictions/)
 
 **Ali, E.** (2021). How to Incorporate Equity into Your Health Communications Efforts. Medium. <https://medium.com/u-s-digital-response/how-to-incorporate-equity-into-your-health-communications-efforts-a9baa735037c>
 
@@ -108,6 +72,54 @@ Food+Planet, **Ali, E.**, Harding, J., & Occhetta, A. (2023). Food + Planet and 
 **Ali, E.** (2017). How Empathy Drives Better Health Outcomes. Medium. <https://medium.com/jumana-design/how-empathy-drives-better-health-outcomes-f5b0f076d24e>
 
 **Ali, E.** (2019). Three Solutions to Bridge the Health Technology Divide. Medium. <https://medium.com/jumana-design/three-solutions-to-bridge-the-health-technology-divide-6d130989632d>
+
+## Conference Presentations
+
+**Ali, E.**, & Moore, H. (2023). Experience Mapping Session Presentation. National League of Cities Summit.
+
+**Ali, E.** (2023). Lessons Learned in Human-centered Design in COVID-19 Crisis Response and Substance Use Disorder. 14th Annual Diverse Voices in Presentation Cultural Competency Conference.
+
+Ackerman, A., **Ali, E.** (2022). Health Literacy Interventions to Impact COVID-19 Vaccination Rates Using Human-centered Design and Behavioral Science. Arizona Health Equity Conference. <https://azhealthequity.org/>
+
+Ackerman, A., **Ali, E.**, Theresa, C. (2022). Health Equity Capability Maturity Model. NACCHO 360. <https://www.nacchoannual.org/home>
+
+Ackerman, A., Theresa, C., **Ali, E.** (2022). Health Literacy Interventions to Impact COVID-19 Vaccination Rates Using Human-centered Design. NACCHO 360. <https://www.nacchoannual.org/home>
+
+**Ali, E.** (2021). COVID-19 Crisis Communication: Empowering the Public Health Community. American Public Health Association: Health Communication Group. <https://fccdl.in/rbKatCZUCw>
+
+**Ali, E.**, & Yi, J. (2021). Lightning Talks: Promoting Health Equity in COVID-19. DotGov Design. <http://www.dotgovdesign.org/about/>
+
+**Ali, E.** (2020). Street-based substance use treatment for unsheltered homeless individuals in California: A case for CA Bridge Programs. 16th annual International Street Medicine Symposium.<https://www.streetmedicine.org/>
+
+## Workshops and Webinars
+
+Ackerman, A., **Ali, E.,** & Wait, A. (2024, December 13). *From Practice to Policy: A Roundtable on Equitable Community Compensation*. National Association for City and County Organizations (NACCHO); NACCHO. <https://virtualcommunities.naccho.org/discussion/from-practice-to-policy-a-roundtable-on-equitable-community-compensation-december-13>
+
+**Ali, E.**, Boyer, L., & Valens, J. (2025, March 12). *InnovateUS Workshop - Building Inclusive Climate Resilience with Human-Centered Design in Government*. InnovateUS; InnovateUS. <https://innovate-us.org/building-inclusive-climate-resilience-with-human-centered-design-in-government>
+
+**Ali, E.** (2024). How to Apply Human-Centered Design to Government AI Projects. Innovate(US). <https://innovate-us.org/how-to-apply-human-centered-design-to-government-ai-projects->
+
+**Ali, E.** (2023). Practical Design Sprint Activities for Health Educators. National Public Health Week, PHEP Section American Public Health Association.
+
+**Ali, E.**, Liang, K., Ellis, E. (2021). Lessons Learned from Senior User Researchers. YouTube. <http://www.youtube.com/watch?v=KjmRNjVpbaM>
+
+**Ali, E.**, Tien, L., & Rohatsch, R. (2021). How to Tackle COVID Vaccine Challenges and Speed Up Delivery. Solv Health. <http://www.solvhealth.com/for-providers/webinars/webinar-how-to-speed-up-covid-vaccine-delivery-with-solv-and-us-digital-response>
+
+**Ali, E.** (2021). Introduction to Mixed Methods Research for UX Researchers. YouTube. <https://www.youtube.com/watch?v=6FqQol-JYkg>
+
+**Ali, E.** (2020). How to Craft a Meaningful Professional Development Plan. TechLadies. <https://www.eventbrite.com/e/webinar-how-to-craft-a-meaningful-professional-development-plan-tickets-108491278334>
+
+**Ali, E.** (2019). 5 Project Management Hacks. TechLadies. <https://www.eventbrite.com/e/webinar-5-project-management-hacks-tickets-65445231449>
+
+## Toolkits
+
+**Ali, E.**, & Nagao-Peck, H. (2021). COVID-19 Communication Toolkit: A Health Equity Lens. U.S. Digital Response. <https://www.usdigitalresponse.org/our-projects/covid-communications-toolkit/>
+
+## Theses
+
+**Ali, E.** (2018). Impact of Health Insurance Coverage on HIV Diagnosis Rate in New York City for Young Adults \[Master Thesis Poster Presentation\]. Columbia University Mailman School of Public Health. <https://drive.google.com/file/d/1gM6WHmajT2HafEcnl6l84r_A5-2TiJO3/view?usp=sharing>
+
+**Ali, E.** (2015). Malnutrition Through Constructivism: How International Organizations Succeed in Sustaining Nutrition Interventions in Kenya \[Bachelor Thesis\]. Claremont McKenna College. <https://scholarship.claremont.edu/cmc_theses/1201/>
 
 ## Teaching and Mentorship
 
