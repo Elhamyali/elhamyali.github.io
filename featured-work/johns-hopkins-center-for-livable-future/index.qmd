@@ -3,7 +3,7 @@ title: "Johns Hopkins Center for a Livable Future"
 author: Elham Ali
 citation:
   url: https://www.elhamyali.com/
-date: 2024-03-17
+date: 2025-05-01
 subtitle: "Collecting hundreds of recipe ingredients to create climate food labels for improved climate-friendly eating decisions."
 toc: true
 categories: 
@@ -46,7 +46,7 @@ center's study aimed to assess the impact of climate change menu labels
 on promoting sustainable food choices and reducing climate anxiety."
 
 My role was to collect recipes and all ingredients for the study, and
-develop a model for calculating greenhouse gas (GHG) emissions of
+co-develop a model for calculating greenhouse gas (GHG) emissions of
 recipes over a four-week period in two dining halls at a private
 university in Maryland.
 
@@ -66,17 +66,16 @@ in a private repository and cannot be shared publicly due to proprietary
 data.
 :::
 
-Working with a colleague, I extracted over 650 menu items containing
-26,277 ingredients from all recipes using Python libraries. I classified
-these ingredients according to the Cool Food Calculator categories for
-accurate greenhouse gas emissions (GHGE) calculations. Emissions for
-each ingredient were calculated based on its category and then
-aggregated at the recipe level. Together, we visualized the GHGE data
-using a strip plot to identify natural breaks in the emission
-distribution, which provided more precise thresholds than traditional
-methods like tertiles or k-means clustering. I then helped define the
-thresholds for climate impact labels (green, yellow, red), categorizing
-foods based on their relative climate impact.
+I worked with a colleague to pull out all 650+ menu items and their
+26,277 ingredients using Python. We matched each ingredient to one of
+the Cool Food Calculator\'s categories and calculated its greenhouse gas
+emissions, then summed those emissions for each recipe. To set our
+climate-impact labels, we plotted every recipe\'s total emissions in a
+strip plot and looked for natural breaks in the distribution---these
+breaks gave us clearer cutoffs than standard methods like tertiles or
+k-means. Finally, I helped turn those cutoffs into green, yellow, and
+red labels so we could easily see which recipes had low, medium, or high
+climate impact.
 
 [![](https://img.shields.io/badge/R-276DC2?logo=R&logoColor=white)](#)
 [![](https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white)](#)
@@ -96,20 +95,54 @@ is stored in a private repository and cannot be shared publicly due to
 proprietary data.
 :::
 
-I designed the data collection analysis, collected, cleaned,
-transformed, and analyzed dining ingredient purchasing and student
-survey data before and after the study. This included preparing tables
-for publication on demographics and descriptive statistics relevant to
-food insecurity, diet quality, and types of food consumption. I managed
-data collection and validation processes, working closely with dining
-team members to make sure the accuracy of variables and data collection
-methods. I conducted preliminary exploratory analyses to understand
-survey respondent characteristics and outcome variables, and wrote
-methods draft for publication.
+I designed the plan for collecting and analyzing dining ingredient
+purchases and student survey responses, then gathered, cleaned, and
+transformed the data from before and after the study. I created tables
+for publication that summarize participant demographics and key measures
+of food insecurity, diet quality, and types of foods consumed. I managed
+the data collection and validation process, collaborating with dining
+staff to confirm that our variables and methods were accurate. Finally,
+I ran exploratory analyses to profile survey respondents and outcome
+measures, and drafted the study\'s methods section for publication.
 
 ## Results
 
-The findings will be shared once they are formally published.
+Gathering over 600 recipes saved the Center hundreds of staff hours and
+made our research much more efficient. Key findings:
+
+-   Purchases stayed about the same before and after the intervention,
+    except for a spike during a special event.
+
+-   Plant protein intake ticked up slightly, while vegetable intake
+    dipped; overall diet quality didn\'t change.
+
+-   About one in three students noticed the climate labels, but most
+    felt neutral and said the labels didn\'t affect their food choices
+    or concern for climate impact.
+
+<!-- ![Distribution of greenhouse gas emissions across -->
+
+<!-- diets](1-clf.png){group="gallery"} -->
+
+<!-- </div> -->
+
+<!-- ![Comparison of greenhouse gas emissions by food -->
+
+<!-- subgroups](2-clf.png){group="gallery"} -->
+
+::: columns
+::: column
+![](1-clf.png)
+:::
+
+::: column
+![](2-clf.png)
+:::
+:::
+
+![](4-clf.png){group="gallery"}
+
+![](3-clf.png){group="gallery"}
 
 <!-- Navigation Arrows -->
 
