@@ -29,27 +29,27 @@ Antifragility is about having more chaos and stress in our daily lives to test o
 
 To be antifragile, organizations need to do some prereqs:
 
-#### 1️⃣ Culture of experimentation to embrace uncertainty 
+#### 1️⃣ Culture of experimentation to embrace uncertainty
 
 Antifragility requires a willingness to experiment and learn. Employees need to feel safe to take calculated risks and experiment with new ideas without fear of losing their jobs or being reprimanded. Create a culture that celebrates continuous iterations of work-in-progress deliverables and recognizes that failure is necessary for learning.
 
-#### 2️⃣ Resilience and adaptability 
+#### 2️⃣ Resilience and adaptability
 
 Build cross-functional teams that can quickly adapt to changing circumstances with role charters. Encourage employees to be flexible and open-minded by applying principles from human-centered design, and provide coaching to support ongoing learning and development.
 
-#### 3️⃣ Redundancy and decentralization 
+#### 3️⃣ Redundancy and decentralization
 
 Develop and train leaders and managers to value decentralization and empowerment by encouraging their teams to take ownership of their work. Build redundancies into critical systems like objective key results to prevent single points of failure.
 
-#### 4️⃣ Continuous learning and improvement 
+#### 4️⃣ Continuous learning and improvement
 
 Provide ongoing training and professional development opportunities for employees. Create a culture that values feedback and encourages employees to seek new information and perspectives, whether in communities of practices, lunch and learns, etc.
 
-#### 5️⃣ Embracing small losses to prevent big ones 
+#### 5️⃣ Embracing small losses to prevent big ones
 
 Encourage employees to be transparent about mistakes and failures and use these experiences as opportunities for learning and growth in retrospectives and lessons learned workshops. Build regular checkpoints and milestones to prevent significant failures down the road.
 
-#### 6️⃣ Dynamic response to change 
+#### 6️⃣ Dynamic response to change
 
 Promote examples of agility and responsiveness, where employees are encouraged to think creatively and adapt quickly to changing circumstances. Use data and feedback to inform decision-making, and be open to pivoting or changing direction as needed.
 

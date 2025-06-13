@@ -3,7 +3,7 @@ project:
   output-dir: "docs"
   resources:
     - /publications
-    
+
 website:
   title: "Elham Ali"
   description: "Featured work and publications of Elham Ali, MPH, PMP."
@@ -11,15 +11,17 @@ website:
   site-url: https://www.elhamyali.com
   repo-url: https://github.com/Elhamyali/elhamyali.github.io
   back-to-top-navigation: true
+
   open-graph: 
     locale: es_ES
     site-name: https://elhamyali.com
-    
+
   page-footer:
     center:
-        - text: "Built with <i class='bi bi-heart-fill'></i> and <img src='https://quarto.org/favicon.png' width='12'> Quarto. Source available on <a href='https://github.com/Elhamyali/elhamyali.github.io' target='_blank'><i class='bi bi-git'></i> GitHub</a>."
+      - text: "Built with <i class='bi bi-heart-fill'></i> and <img src='https://quarto.org/favicon.png' width='12'> Quarto. Source available on <a href='https://github.com/Elhamyali/elhamyali.github.io' target='_blank'><i class='bi bi-git'></i> GitHub</a>."
     left:
       - text: "© Copyright 2024 Elham Ali. All rights reserved."
+
   navbar:
     right:
       - href: index.qmd

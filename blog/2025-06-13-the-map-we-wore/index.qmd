@@ -1,0 +1,40 @@
+---
+title: "The Map we Wore"
+description: |
+  I received an Honorable Mention in the first round of the 100-word Microfiction Challenge 2025! The challenge: write a historical fiction story in under 100 words that includes the word "sky" and features the action of ingesting. Here's my story: The Map We Wore.
+date: '2025-06-13'
+image: "images/tatreez.jpg"
+categories:
+  - Storytelling
+  - Microfiction
+format: html
+citation: true
+toc: true
+toc-depth: 6
+lightbox: true
+execute:
+  eval: false
+---
+
+<center>[![Tatreez embroidery, 2025. The Newark Museum of Art](images/tatreez.jpg)](https://newarkmuseumart.org/event/embroidery-workshop-palestinian-tatreez/)</center>
+
+<br>
+
+I'm thrilled to share that my story, ***The Map We Wore***, received an **Honorable Mention** in the NYC Midnight Challenge [1st Round of the 100-word Microfiction Challenge 2025](https://www.nycmidnight.com/mfc100/2025-1st-round-results)!\
+The genre I was assigned was *Historical Fiction*, with the required word *sky* and the required action *ingesting*. Here's the story:
+
+------------------------------------------------------------------------
+
+**The Map We Wore**
+
+We remember the first cut.
+
+She stitched us red for the road to Nablus. Black for checkpoints. Green for olive groves they burned. White for the sky she could see during curfew.
+
+We crossed borders in the First Intifada, on backs, in pockets, under watchful eyes. We hugged skin. We held meaning.
+
+Now, we wrap her niece like a second skin.
+
+Inside the camp, she holds her arm out. His eyes find us, tracing every line, soaking each stitch until it settles into his bones.
+
+We slide past soldiers who think the fabric is silent. We were never just thread.
