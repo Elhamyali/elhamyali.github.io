@@ -11,8 +11,15 @@ website:
   site-url: https://www.elhamyali.com
   repo-url: https://github.com/Elhamyali/elhamyali.github.io
   back-to-top-navigation: true
-
-  open-graph: 
+  
+  announcement:
+    icon: award
+    dismissable: true
+    content: "Read [*The Map We Wore*](https://www.elhamyali.com/blog/2025-06-13-the-map-we-wore/), my 100-word story that earned an Honorable Mention in the **2025 NYC Midnight Microfiction Challenge**."
+    type: warning
+    position: below-navbar
+    
+  open-graph:
     locale: es_ES
     site-name: https://elhamyali.com
 
@@ -51,7 +58,7 @@ website:
         aria-label: Email
         target: "_blank"
     pretty-urls: true
-
+    
 format:
   html:
     theme:
