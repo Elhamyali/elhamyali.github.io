@@ -33,7 +33,7 @@ Ackerman, A., Nigon, B., Wait, A., **Ali, E.**, Wilkinson-Lee, A. M., Cohen, A.,
 
 Food+Planet, **Ali, E.**, Harding, J., & Occhetta, A. (2023). Food + Planet and Today's Dietitian Release Results of 2023 Sustainability and Food Insights Survey. Food + Planet. <https://foodandplanet.org/experience/> \[[Insight](https://drive.google.com/file/d/1LGNZr36cZDxHjtyJsp3INg_TDsYyKaCY/view)\] \[[PR Release](https://drive.google.com/file/d/1MnoRevrB_DOMXEwI_GWAm2fGHn1CZPM_/view)\]
 
-**Ali, E.,** & Naughton, E. (2023, November 28). *How the City of Akron is tackling housing evictions*. Beeck Center. [https://beeckcenter.georgetown.edu/how-the-city-of-akron-is-tackling-housing-evictions/](https://beeckcenter.georgetown.edu/how-the-city-of-akron-is-tackling-housing-evictions/https://beeckcenter.georgetown.edu/how-the-city-of-akron-is-tackling-housing-evictions/)
+**Ali, E.,** & Naughton, E. (2023, November 28). *How the City of Akron is tackling housing evictions*. Beeck Center. <https://beeckcenter.georgetown.edu/how-the-city-of-akron-is-tackling-housing-evictions/>
 
 **Ali, E.** (2021). How to Incorporate Equity into Your Health Communications Efforts. Medium. <https://medium.com/u-s-digital-response/how-to-incorporate-equity-into-your-health-communications-efforts-a9baa735037c>
 

@@ -128,3 +128,14 @@ div#refs > h2 {
 .quarto-title-block .quarto-title-banner {
     background:$quarto-bgcolor;
 }
+
+.story-title {
+  font-weight: bold;
+  font-size: 1.2em;    /* tweak size as needed */
+  margin-bottom: 0.5rem;
+}
+.story-title a {
+  font-weight: bold;
+  text-decoration: none;
+  color: inherit;       /* keeps body text color */
+}
