@@ -10,7 +10,7 @@ css: styles.css
 
 <p class="description">
 
-Pronounced <a href="https://www.name-coach.com/elham-ali" target="_blank">ill-huhm</a>
+Pronounced <a href="https://www.name-coach.com/elham-ali" target="_blank">ill-huhm</a> (she/ella/هي)
 
 </p>
 
