@@ -1,6 +1,6 @@
 ---
 title: "About"
-subtitle: "“History is a narrative; it’s a collection of stories sanctioned by the ruling power, and reinforced through words and images that suit them. That was the whole point of taking on history painting: to authorize these moments that have been swept under the rug for generations.” – Kent Monkman, Canadian First Nations artist and Fish River Band member"
+subtitle: "“A walk in nature, walks the soul back home.” – Mary Davis"
 about:
   template: marquee
   links:
@@ -45,13 +45,13 @@ format:
   }
 ```
 
-![](/images/home/cover.webp)
+![](/images/home/scv2.jpg)
 
-My career is like <a href="https://en.wikipedia.org/wiki/Halo-halo" target="_blank" rel="noopener noreferrer">*halo-halo*</a> --- a colorful mix of rich experiences 🍨 I started in microfinance and international relations in East Africa, transitioned into health policy and management, and have spent the past 10 years supporting local and state governments in civic tech and public health. I've collaborated with teams at the Pima County Health Department, New York State Department of Health, City of Los Angeles, US Digital Response, and more.
+My career is like <a href="https://en.wikipedia.org/wiki/Halo-halo" target="_blank" rel="noopener noreferrer">*halo-halo*</a>, a colorful mix of rich experiences 🍨 I started in microfinance and international relations in East Africa, transitioned into health policy and management, and have spent the past 10 years supporting local and state governments in civic tech and public health. I've collaborated with teams at the Pima County Health Department, New York State Department of Health, City of Los Angeles, US Digital Response, and more.
 
-Today, I'm a researcher at the <a href="https://beeckcenter.georgetown.edu/person/elham-ali/" target="_blank" rel="noopener noreferrer">Beeck Center for Social Impact and Innovation</a>, where I advise and train local governments on using human-centered design to develop solutions that advance climate resilience. 🌿
+Today, I'm a researcher at the <a href="https://beeckcenter.georgetown.edu/person/elham-ali/" target="_blank" rel="noopener noreferrer">Beeck Center for Social Impact and Innovation</a>, where I advise and train local governments using human-centered design to develop solutions that advance climate action 🌿
 
-I'm also a proud <a href="https://www.cpisp.bh/" target="_blank" rel="noopener noreferrer">Crown Prince International Scholar</a> from Bahrain 🇧🇭 and a doctoral student (DrPH) in Health Equity and Social Justice at Johns Hopkins Bloomberg School of Public health. 🎓 My research explores what drives---or prevents---city and county governments in the U.S. from implementing equitable <a href="https://www.worldwildlife.org/stories/what-are-nature-based-solutions-and-how-can-they-help-us-address-the-climate-crisis" target="_blank" rel="noopener noreferrer">nature-based solutions</a> (NbS) like urban tree planting and wetland restoration to improve environmental and health outcomes.
+I'm also a proud <a href="https://www.cpisp.bh/" target="_blank" rel="noopener noreferrer">Crown Prince International Scholar</a> from Bahrain 🇧🇭 and a doctoral student (DrPH) in Health Equity and Social Justice at Johns Hopkins Bloomberg School of Public health. 🎓 My research explores what drives---or prevents---city and county governments in the U.S. from implementing equitable parks and green spaces like urban forests, green roofs, and even street trees to improve environmental and public health outcomes.
 
 🏛️ Through my previous consultancy, Jumana Design, I helped governments, nonprofits, and startups design and launch equitable health products, services, and policies. Highlights of my work include:
 
