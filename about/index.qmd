@@ -47,21 +47,23 @@ format:
 
 ![](/images/home/scv2.jpg)
 
-My career is like <a href="https://en.wikipedia.org/wiki/Halo-halo" target="_blank" rel="noopener noreferrer">*halo-halo*</a>, a colorful mix of rich experiences 🍨 I started in microfinance and international relations in East Africa, transitioned into health policy and management, and have spent the past 10 years supporting local and state governments in civic tech and public health. I've collaborated with teams at the Pima County Health Department, New York State Department of Health, City of Los Angeles, US Digital Response, and more.
+Hi! I'm Elham Ali, a researcher, storyteller, and climate justice advocate.
 
-Today, I'm a researcher at the <a href="https://beeckcenter.georgetown.edu/person/elham-ali/" target="_blank" rel="noopener noreferrer">Beeck Center for Social Impact and Innovation</a>, where I advise and train local governments using human-centered design to develop solutions that advance climate action 🌿
+My career is a bit like <a href="https://www.kollectivehustle.com/blog/the-origin-of-the-halo-halo-dessert" target="_blank" rel="noopener noreferrer">halo-halo</a> 🍨, a colorful mix of experiences. I started in microfinance and international relations in East Africa, moved into health policy and management, and have spent the past decade helping local and state governments improve civic tech and public health 🏛️. I've worked with teams at the Inland Empire Opioid Crisis Coalition, New York State Department of Health AIDS Institute, City of Los Angeles, and more.
 
-I'm also a proud <a href="https://www.cpisp.bh/" target="_blank" rel="noopener noreferrer">Crown Prince International Scholar</a> from Bahrain 🇧🇭 and a doctoral student (DrPH) in Health Equity and Social Justice at Johns Hopkins Bloomberg School of Public health. 🎓 My research explores what drives---or prevents---city and county governments in the U.S. from implementing equitable parks and green spaces like urban forests, green roofs, and even street trees to improve environmental and public health outcomes.
+Today, I'm a researcher at Georgetown's <a href="https://beeckcenter.georgetown.edu/person/elham-ali/" target="_blank" rel="noopener noreferrer">Beeck Center for Social Impact and Innovation</a>, where I help local governments design solutions to local challenges including for climate action that center people and equity. 🌿
 
-🏛️ Through my previous consultancy, Jumana Design, I helped governments, nonprofits, and startups design and launch equitable health products, services, and policies. Highlights of my work include:
+I'm also a <a href="https://www.cpisp.bh/" target="_blank" rel="noopener noreferrer">Crown Prince International Scholar</a> from Bahrain 🇧🇭 and a doctoral student (DrPH) in Health Equity and Social Justice at Johns Hopkins University 🎓, studying what helps or prevents local government from implementing equitable policies and systems changes for green spaces like parks, urban forests, and street trees.
 
--   Integrating equity-focused research practices for a state health department, resulting in multistate hackathons that boosted employee engagement and collaboration.
--   Improving COVID-19 vaccination communication for a state board of health to foster trust and transparency with its residents.
--   Advising a \$4M federal grant to improve health literacy and vaccine uptake</a> among pregnant Latina/e/o communities.
+Through my consultancy, Jumana Design, I helped governments, nonprofits, and startups build more equitable health programs and products. Highlights include improving vaccine communication with a state board of health to build trust with residents, and supporting a \$4M federal grant to boost health literacy and vaccine uptake among pregnant Latina/e/o communities. I also advised a state health department on embedding equity-focused research practices, which led to multistate hackathons that increased employee engagement and collaboration.
 
-Previously, I served as Lead Human-centered Design Advisor at Pima County Health Department and supported 13+ government partners at U.S. Digital Response during the COVID-19 pandemic. I'm also an active member of communities such as Statisticians without Borders, DataKind, and Climate Action Tech. 🌍 And I advocate locally with <a href="https://citizensclimatelobby.org/" target="_blank" rel="noopener noreferrer">Citizen's Climate Lobby.</a>
+Previously, I served as Lead Human-Centered Design Advisor at the Pima County Health Department and supported more than 13 government partners at US Digital Response during the COVID-19 pandemic.
 
-Outside of work, I live in sunny southern California ☀️ with my husband and two very loving cats. 💌 Always happy to connect---don't hesitate to reach out to me!
+I stay active with groups like Statisticians without Borders, DataKind, and Climate Action Tech, and I advocate locally in my city of <a href="https://signalscv.com/2025/06/volunteers-and-city-make-mulch-ado-about-beautification/" target="_blank" rel="noopener noreferrer">Santa Clarita</a> with <a href="https://citizensclimatelobby.org/" target="_blank" rel="noopener noreferrer">Citizens' Climate Lobby.</a>
+
+[![City of Santa Clarita's Community Beautification Day in Valencia at Valencia Glen Park on Saturday, June 28, 2025](scv_signal.png){fig-alt="Image of City of Santa Clarita's Community Beautification Day in Valencia at Valencia Glen Park on Saturday, June 28, 2025" width="544"}](https://signalscv.com/2025/06/volunteers-and-city-make-mulch-ado-about-beautification/)
+
+I live in southern California ☀️ with my husband and two sweet kitties. 💌 Always happy to connect so don't hesitate to reach out!
 
 <!-- Accessibility widget script -->
 
