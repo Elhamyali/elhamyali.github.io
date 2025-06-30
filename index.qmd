@@ -14,7 +14,7 @@ Pronounced <a href="https://www.name-coach.com/elham-ali" target="_blank">ill-hu
 
 </p>
 
-📊 I’m a researcher and writer who translates community voices and local insights into data products from interactive maps to visual stories that reveal deeper truths about our world, shift norms, and drive action.
+📊 I'm a researcher and writer who translates community voices and local insights into data products from interactive maps to visual stories that reveal deeper truths about our world, shift norms, and drive action.
 
 With a decade of experience in research and evaluation, data analysis, and human-centered design in civic tech and public health, I focus on <a href="https://www.worldwildlife.org/stories/what-are-nature-based-solutions-and-how-can-they-help-us-address-the-climate-crisis" target="_blank" rel="noopener noreferrer">nature-based climate solutions</a>, specifically parks and green spaces. I work with local governments to ensure climate action centers health equity, social justice, and community needs. From mapping tree canopy in Akron to increasing access to quality green jobs in Saint Paul, I help cities make informed, confident decisions that protect both people and our planet. 🌍🌿
 
@@ -25,49 +25,32 @@ Here's a sample of my work.
 ::: grid
 ::: {.g-col-12 .g-col-md-4}
 <a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/"
-   target="_blank" rel="noopener noreferrer">
-  <img
-    src="/images/featured/saint_paul_story.gif"
-    alt="Saint Paul green jobs story"
-    style="max-width:100%; height:auto;"
-  />
-</a>
+   target="_blank" rel="noopener noreferrer"> <img src="/images/featured/saint_paul_story.gif" alt="Saint Paul green jobs story" style="max-width:100%; height:auto;"/> </a>
 :::
 
 ::: {.g-col-12 .g-col-md-8}
-<div class="story-title">
-  <a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/"
-     target="_blank" rel="noopener noreferrer">
-    Climate resilience requires equitable access to quality green jobs. Saint Paul is making strides.
-  </a>
-</div>
+::: story-title
+<a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/"
+     target="_blank" rel="noopener noreferrer"> Climate resilience requires equitable access to quality green jobs. Saint Paul is making strides. </a>
+:::
 
 Using user research from City of Saint Paul and various national datasets, I analyzed and uncovered racial and income inequities in access to quality green jobs across three sectors. Featured on the Beeck Center for Social Impact and Innovation 10-year anniversary <a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/" target="_blank" rel="noopener noreferrer">impact report</a> and <a href="https://fullstacksaintpaul.com/climate-resilience-requires-equitable-access-to-quality-green-jobs-saint-paul-is-making-strides/" target="_blank" rel="noopener noreferrer">Full Stack Saint Paul</a>. Story originally posted <a href="https://www.elhamyali.com/saint-paul-data-story/" target="_blank" rel="noopener noreferrer">here</a>.
 
-Data story built with R, Quarto, Flourish, Javascript, HTML + CSS. 
-
+Data story built with R, Quarto, Flourish, Javascript, HTML + CSS.
 :::
 :::
 
 ::: grid
 ::: {.g-col-12 .g-col-md-4}
 <a href="https://beeckcenter.georgetown.edu/the-heart-of-topcities/"
-   target="_blank" rel="noopener noreferrer">
-  <img
-    src="/images/featured/heart_topcities_2.png"
-    alt="Heart of TOPCities story"
-    style="max-width:100%; height:auto;"
-  />
-</a>
+   target="_blank" rel="noopener noreferrer"> <img src="/images/featured/heart_topcities_2.png" alt="Heart of TOPCities story" style="max-width:100%; height:auto;"/> </a>
 :::
 
 ::: {.g-col-12 .g-col-md-8}
-<div class="story-title">
-  <a href="https://beeckcenter.georgetown.edu/the-heart-of-topcities/"
-     target="_blank" rel="noopener noreferrer">
-    The Heart of TOPCities
-  </a>
-</div>
+::: story-title
+<a href="https://beeckcenter.georgetown.edu/the-heart-of-topcities/"
+     target="_blank" rel="noopener noreferrer"> The Heart of TOPCities </a>
+:::
 
 I led a story that combines qualitative research, survey analysis, and community audio voices to show how residents and local governments co-designed digital tools to tackle blight, extreme heat, and household energy credits inequality in U.S. cities.
 
@@ -78,29 +61,20 @@ Multimedia story built with R, Highcharts, Flourish, and iMovie.
 ::: grid
 ::: {.g-col-12 .g-col-md-4}
 <a href="hhttps://beeckcenter.georgetown.edu/how-the-city-of-akron-is-tackling-housing-evictions/"
-   target="_blank" rel="noopener noreferrer">
-  <img
-    src="/images/featured/akron_housing_story.png"
-    alt="Akron Housing Evictions story"
-    style="max-width:100%; height:auto;"
-  />
-</a>
+   target="_blank" rel="noopener noreferrer"> <img src="/images/featured/akron_housing_story.png" alt="Akron Housing Evictions story" style="max-width:100%; height:auto;"/> </a>
 :::
 
 ::: {.g-col-12 .g-col-md-8}
-<div class="story-title">
-  <a href="https://beeckcenter.georgetown.edu/how-the-city-of-akron-is-tackling-housing-evictions/"
-     target="_blank" rel="noopener noreferrer">
-    How the City of Akron is tackling housing evictions
-  </a>
-</div>
+::: story-title
+<a href="https://beeckcenter.georgetown.edu/how-the-city-of-akron-is-tackling-housing-evictions/"
+     target="_blank" rel="noopener noreferrer"> How the City of Akron is tackling housing evictions </a>
+:::
 
 I co-authored and edited a feature on how the City of Akron used community-centered research to address housing eviction. Analyzed interviews and focus groups to uncover barriers to safe housing conditions and inform a new digital platform for tenants.
 
 Analysis used Atlas.ti, Miro, and thematic analysis.
 :::
 :::
-
 
 ## Projects
 
