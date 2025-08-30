@@ -25,7 +25,7 @@ Here's a sample of my work.
 ::: grid
 ::: {.g-col-12 .g-col-md-4}
 <a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/"
-   target="_blank" rel="noopener noreferrer"> <img src="/images/featured/saint_paul_story.gif" alt="Saint Paul green jobs story" style="max-width:100%; height:auto;"/> </a>
+   target="_blank" rel="noopener noreferrer"> <img src="/images/featured/saint_paul_story_2.gif" alt="Saint Paul green jobs story" style="max-width:100%; height:auto;"/> </a>
 :::
 
 ::: {.g-col-12 .g-col-md-8}
@@ -34,7 +34,7 @@ Here's a sample of my work.
      target="_blank" rel="noopener noreferrer"> Climate resilience requires equitable access to quality green jobs. Saint Paul is making strides. </a>
 :::
 
-Using user research from City of Saint Paul and various national datasets, I analyzed and uncovered racial and income inequities in access to quality green jobs across three sectors. Featured on the Beeck Center for Social Impact and Innovation 10-year anniversary <a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/" target="_blank" rel="noopener noreferrer">impact report</a> and <a href="https://fullstacksaintpaul.com/climate-resilience-requires-equitable-access-to-quality-green-jobs-saint-paul-is-making-strides/" target="_blank" rel="noopener noreferrer">Full Stack Saint Paul</a>. Story originally posted <a href="https://www.elhamyali.com/saint-paul-data-story/" target="_blank" rel="noopener noreferrer">here</a>.
+Using user research from City of Saint Paul and various national datasets, I analyzed and uncovered racial and income inequities in access to quality green jobs across three sectors. Featured on the Beeck Center for Social Impact and Innovation <a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/" target="_blank" rel="noopener noreferrer">website</a>, 10-year anniversary <a href="https://beeckcenter.georgetown.edu/report/2024-impact-report/present/" target="_blank" rel="noopener noreferrer">impact report</a> and <a href="https://fullstacksaintpaul.com/climate-resilience-requires-equitable-access-to-quality-green-jobs-saint-paul-is-making-strides/" target="_blank" rel="noopener noreferrer">Full Stack Saint Paul</a>. Story originally posted <a href="https://www.elhamyali.com/saint-paul-data-story/" target="_blank" rel="noopener noreferrer">here</a>.
 
 Data story built with R, Quarto, Flourish, Javascript, HTML + CSS.
 :::
@@ -60,7 +60,7 @@ Multimedia story built with R, Highcharts, Flourish, and iMovie.
 
 ::: grid
 ::: {.g-col-12 .g-col-md-4}
-<a href="hhttps://beeckcenter.georgetown.edu/how-the-city-of-akron-is-tackling-housing-evictions/"
+<a href="https://beeckcenter.georgetown.edu/how-the-city-of-akron-is-tackling-housing-evictions/"
    target="_blank" rel="noopener noreferrer"> <img src="/images/featured/akron_housing_story.png" alt="Akron Housing Evictions story" style="max-width:100%; height:auto;"/> </a>
 :::
 
