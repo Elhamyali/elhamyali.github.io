@@ -30,11 +30,11 @@ Here's a sample of my work.
 
 ::: {.g-col-12 .g-col-md-8}
 ::: story-title
-<a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/"
+<a href="https://www.elhamyali.com/saint-paul-data-story/"
      target="_blank" rel="noopener noreferrer"> Climate resilience requires equitable access to quality green jobs. Saint Paul is making strides. </a>
 :::
 
-Using user research from City of Saint Paul and various national datasets, I analyzed and uncovered racial and income inequities in access to quality green jobs across three sectors. Featured on the Beeck Center for Social Impact and Innovation <a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/" target="_blank" rel="noopener noreferrer">website</a>, 10-year anniversary <a href="https://beeckcenter.georgetown.edu/report/2024-impact-report/present/" target="_blank" rel="noopener noreferrer">impact report</a> and <a href="https://fullstacksaintpaul.com/climate-resilience-requires-equitable-access-to-quality-green-jobs-saint-paul-is-making-strides/" target="_blank" rel="noopener noreferrer">Full Stack Saint Paul</a>. Story originally posted <a href="https://www.elhamyali.com/saint-paul-data-story/" target="_blank" rel="noopener noreferrer">here</a>.
+Using user research from City of Saint Paul and national datasets, I analyzed and uncovered racial and income inequities in access to quality green jobs across three sectors. Featured on the Beeck Center's <a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/" target="_blank" rel="noopener noreferrer">website</a>, <a href="https://beeckcenter.georgetown.edu/report/2024-impact-report/present/" target="_blank" rel="noopener noreferrer">impact report</a> and <a href="https://fullstacksaintpaul.com/climate-resilience-requires-equitable-access-to-quality-green-jobs-saint-paul-is-making-strides/" target="_blank" rel="noopener noreferrer">Full Stack Saint Paul</a>.
 
 Data story built with R, Quarto, Flourish, Javascript, HTML + CSS.
 :::
