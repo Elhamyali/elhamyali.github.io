@@ -1,0 +1,128 @@
+---
+title: "Join a Johns Hopkins Study on Parks and Green Spaces"
+subtitle: "Help shape how U.S. cities build healthy, resilient, and equitable communities"
+format: 
+  html:
+    page-layout: full
+    toc: true
+    css: styles.css
+bibliographystyle: apa.csl
+---
+
+![](/images/johns-hopkins-study/parks2.jpg){fig-alt="Parks with a carved path that has trees surrounded around it"}
+
+## **Key points**
+
+-   Join a **national Johns Hopkins study** anytime from **January 5 – April 30, 2026** to share your professional insights and experiences on how your local government plans and delivers **equitable parks and green spaces**. You can take part by completing an online survey and/or joining a virtual interview.
+
+-   This study is open to anyone **18 or older** who works with U.S. local governments (city, county, or township) on parks, green spaces, climate, sustainability, or related community issues.
+
+-   When you participate, you’ll receive a **gift card** for completing the online survey, the virtual interview, or both (you can also choose to donate it). You’ll also get a summary of national findings you can use in your work, an optional customized report showing your organization’s readiness to advance equitable, upstream green space initiatives, and authorship credit in published results if you’d like.
+
+## What is this study about?
+
+Across the United States, cities, counties, and townships are investing in parks and green spaces to improve community health, equity, and climate resilience. But what helps local governments make that happen and what gets in the way?
+
+This study looks at both sides of the equation:
+
+-   **Internal readiness**: how prepared local governments are to deliver equitable parks and green space policies and practices\
+-   **External pressures**: the outside factors that influence that work, from funding to political priorities
+
+This research is part of a doctoral dissertation at the **Johns Hopkins Bloomberg School of Public Health**, led by student researcher **Elham Ali, MPH, PMP**, under the supervision of faculty advisor **Jill Marsteller, PhD, MPP** (IRB00034299).
+
+The [Johns Hopkins Institutional Review Board](https://www.hopkinsmedicine.org/institutional-review-board){target="_blank" rel="noopener"} has reviewed this study and determined it is **“not human subjects research.”** That means we’re asking about your professional insights and experiences of your organization, not private or personal information. Your responses will stay confidential.
+
+## When is this study happening?
+
+The study will run from **January 5 through April 30, 2026.**
+
+You can join at any time during this period and participate once or in both parts (survey and interview) depending on your availability.
+
+## Who can participate?
+
+We’re looking for people who:
+
+-   Work in **a U.S. city, county, or township government**
+
+-   Are **18 or older**
+
+-   Work on **parks, green spaces, climate, sustainability, or related community issues**
+
+We encourage **three or more people from each organization** to join so we can hear different perspectives but we also know that many environmental, climate, and sustainability offices are small. Even if you’re a *team of one*, your voice matters.
+
+## Why should I join?
+
+Your insights of your organization can help shape how local governments across the U.S. deliver parks and green spaces that are fair, effective, and community-centered.
+
+When you participate, you’ll:
+
+-   Share what **your local government needs** to make parks and green space equity possible
+
+-   Receive a **summary of the national findings** you can use in your work
+
+-   Get a **customized snapshot** of your organization’s readiness to advance equitable, upstream green space initiatives
+
+-   Receive **authorship credit** if you’d like
+
+-   Get a **\$10 gift card** for completing the online survey and **\$50** for a virtual interview
+
+We can send you gift cards digitally, by mail, or donate it to a charity of your choice.
+
+## How can I get involved?
+
+You can participate in one or more ways:
+
+-   📝 **Take the online survey** (15–20 minutes)
+
+```{=html}
+<!-- Take the Survey -->
+
+<div class="study-btn-wrapper">
+  <a href="#" class="study-btn disabled"
+     style="background-color:#cccccc; pointer-events:none; cursor:not-allowed; opacity:0.8;">
+    Take the Survey (opens 1/5/2026)
+  </a>
+</div>
+```
+
+-   💬 **Join a Zoom interview** (30–45 minutes)
+
+```{=html}
+<!-- Join a Zoom Interview -->
+
+<div class="study-btn-wrapper">
+  <a href="#" class="study-btn disabled"
+     style="background-color:#cccccc; pointer-events:none; cursor:not-allowed; opacity:0.8;">
+    Schedule an Interview (opens 1/5/2026)
+  </a>
+</div>
+```
+
+-   🤝 **Recommend colleagues** who might want to take part by emailing **Elham Ali** at [eali6\@jhu.edu](mailto:eali6@jhu.edu).
+
+```{=html}
+<!-- Recommend a Colleague -->
+<div class="study-btn-wrapper">
+  <a href="mailto:eali6@jhu.edu?subject=Recommendation%20for%20Johns%20Hopkins%20parks%20%26%20green%20spaces%20study" rel=_blank target= noopener
+     class="study-btn">
+    Recommend a Colleague
+  </a>
+</div>
+```
+
+-   📣 **Share this study webpage** with your networks.
+
+```{=html}
+<!-- Share This Study -->
+<div class="study-btn-wrapper">
+  <a href="mailto:?subject=Johns%20Hopkins%20Study%3A%20Parks%20%26%20Green%20Spaces%20%28Jan%205%E2%80%93Apr%2030%2C%202026%29&body=Hi%20team%2C%0A%0AI%20wanted%20to%20share%20this%20Johns%20Hopkins%20study%20on%20how%20local%20governments%20plan%20and%20deliver%20equitable%20parks%20and%20green%20spaces.%20It%20runs%20Jan%205%20%E2%80%93%20Apr%2030%2C%202026.%0A%0AParticipants%20can%20complete%20a%20short%20survey%20and/or%20join%20a%20brief%20Zoom%20interview.%20Here%E2%80%99s%20the%20info%20page%3A%0Ahttps%3A%2F%2Felhamyali.com%2Fjohns-hopkins-study%0A%0AThanks%21" rel=_blank target= noopener
+     class="study-btn">
+    Share This Study
+  </a>
+</div>
+```
+
+
+## Have questions?
+
+Contact **Elham Ali** at [eali6\@jhu.edu](mailto:eali6@jhu.edu). Questions about participant rights? Contact the **Johns Hopkins BSPH IRB** at [bsph.irboffice\@jhu.edu](mailto:bsph.irboffice@jhu.edu) or 410-955-3193.

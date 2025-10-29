@@ -24,19 +24,37 @@ Here's a sample of my work.
 
 :::::: grid
 ::: {.g-col-12 .g-col-md-4}
-<a href="https://www.elhamyali.com/saint-paul-data-story/"
+<a href="https://screening-tools.com/blog/pedp-environmental-justice-data-tools-story"
+   target="_blank" rel="noopener noreferrer"> <img src="/images/featured/pedp.jpg" alt="Public Environmental Data Partners story" style="max-width:100%; height:auto;"/> </a>
+:::
+
+:::: {.g-col-12 .g-col-md-8}
+::: story-title
+<a href="https://screening-tools.com/blog/pedp-environmental-justice-data-tools-story"
+     target="_blank" rel="noopener noreferrer"> 2,212 studies used disappearing federal climate justice tools. We analyzed them all.</a>
+:::
+
+I interviewed researchers, analyzed data, illustrated visuals, and wrote the social media kit for <a href="https://screening-tools.com/blog/made-possible-series" target="_blank" rel="noopener noreferrer">Made Possible</a>, a Public Environmental Data Partners (PEDP) series spotlighting how scientists, educators, and advocates rely on federal environmental justice tools to serve their communities.
+
+Tools: R, Quarto, Highcharter, Flourish, JavaScript, HTML, CSS
+::::
+::::::
+
+:::::: grid
+::: {.g-col-12 .g-col-md-4}
+<a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/"
    target="_blank" rel="noopener noreferrer"> <img src="/images/featured/saint_paul_story_2.gif" alt="Saint Paul green jobs story" style="max-width:100%; height:auto;"/> </a>
 :::
 
 :::: {.g-col-12 .g-col-md-8}
 ::: story-title
-<a href="https://www.elhamyali.com/saint-paul-data-story/"
+<a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/"
      target="_blank" rel="noopener noreferrer"> Climate resilience requires equitable access to quality green jobs. Saint Paul is making strides. </a>
 :::
 
-Using user research from City of Saint Paul and national datasets, I analyzed and uncovered racial and income inequities in access to quality green jobs across three sectors. Featured on the Beeck Center's <a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/" target="_blank" rel="noopener noreferrer">website</a>, <a href="https://beeckcenter.georgetown.edu/report/2024-impact-report/present/" target="_blank" rel="noopener noreferrer">impact report</a> and <a href="https://fullstacksaintpaul.com/climate-resilience-requires-equitable-access-to-quality-green-jobs-saint-paul-is-making-strides/" target="_blank" rel="noopener noreferrer">Full Stack Saint Paul</a>.
+Using user research from the City of Saint Paul and national datasets, I analyzed racial and income inequities in access to quality green jobs across three sectors. The findings were featured on the Beeck Center's <a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/" target="_blank" rel="noopener noreferrer">website</a>, <a href="https://beeckcenter.georgetown.edu/report/2024-impact-report/present/" target="_blank" rel="noopener noreferrer">annual impact report</a> and <a href="https://fullstacksaintpaul.com/climate-resilience-requires-equitable-access-to-quality-green-jobs-saint-paul-is-making-strides/" target="_blank" rel="noopener noreferrer">Full Stack Saint Paul</a>.
 
-Data story built with R, Quarto, Flourish, Javascript, HTML + CSS.
+Tools: R, Quarto, Highcharter, Flourish, JavaScript, HTML, CSS
 ::::
 ::::::
 
@@ -52,9 +70,9 @@ Data story built with R, Quarto, Flourish, Javascript, HTML + CSS.
      target="_blank" rel="noopener noreferrer"> The Heart of TOPCities </a>
 :::
 
-I led a story that combines qualitative research, survey analysis, and community audio voices to show how residents and local governments co-designed digital tools to tackle blight, extreme heat, and household energy credits inequality in U.S. cities.
+I led a multimedia story blending qualitative research, survey analysis, and community audio to show how residents and local governments co-designed digital tools to tackle blight, extreme heat, and access to household energy credits in U.S. cities.
 
-Multimedia story built with R, Highcharts, Flourish, and iMovie.
+Tools: R, Highcharts, Flourish, iMovie, GarageBand
 ::::
 ::::::
 
@@ -70,9 +88,9 @@ Multimedia story built with R, Highcharts, Flourish, and iMovie.
      target="_blank" rel="noopener noreferrer"> How the City of Akron is tackling housing evictions </a>
 :::
 
-I co-authored and edited a feature on how the City of Akron used community-centered research to address housing eviction. Analyzed interviews and focus groups to uncover barriers to safe housing conditions and inform a new digital platform for tenants.
+I co-authored and edited this feature about how Akron used community-centered research to address housing evictions. Through interviews and focus groups, we identified key barriers to safe housing and helped inform a new digital platform for tenants.
 
-Analysis used Atlas.ti, Miro, and thematic analysis.
+Tools: Atlas.ti, Miro, Thematic Analysis
 ::::
 ::::::
 

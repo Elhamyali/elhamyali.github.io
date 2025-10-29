@@ -26,6 +26,8 @@ website:
     right:
       - href: index.qmd
         text: Featured Work
+      - href: johns-hopkins-study/index.qmd
+        text: Johns Hopkins Study       
       - href: publications/index.qmd
         text: Publications
       - href: blog/index.qmd
