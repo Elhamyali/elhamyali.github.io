@@ -1,6 +1,6 @@
 ---
 title: "Join a Johns Hopkins Study on Parks and Green Spaces"
-subtitle: "Help shape how U.S. cities build healthy, resilient, and equitable communities"
+subtitle: "Join a national effort to learn what helps U.S. local governments make parks and green spaces more equitable, resilient, and responsive to community needs"
 format: 
   html:
     page-layout: full
@@ -9,7 +9,7 @@ format:
 bibliographystyle: apa.csl
 ---
 
-![](/images/johns-hopkins-study/parks2.jpg){fig-alt="Parks with a carved path that has trees surrounded around it"}
+![](/images/johns-hopkins-study/parks3.png){fig-alt="Parks with a carved path that has trees surrounded around it"}
 
 ## **Key points**
 
@@ -17,16 +17,19 @@ bibliographystyle: apa.csl
 
 -   This study is open to anyone **18 or older** who works with U.S. local governments (city, county, or township) on parks, green spaces, climate, sustainability, or related community issues.
 
--   When you participate, you’ll receive a **gift card** for completing the online survey, the virtual interview, or both (you can also choose to donate it). You’ll also get a summary of national findings you can use in your work, an optional customized report showing your organization’s readiness to advance equitable, upstream green space initiatives, and authorship credit in published results if you’d like.
+-   When you participate, you’ll receive a **gift card ($$$)** for completing the online survey, the virtual interview, or both (you can also choose to donate it). You’ll also get a summary of national findings you can use in your work, an optional customized report showing your organization’s readiness to advance equitable, upstream green space initiatives, and authorship credit in published results if you’d like.
 
 ## What is this study about?
 
-Across the United States, cities, counties, and townships are investing in parks and green spaces to improve community health, equity, and climate resilience. But what helps local governments make that happen and what gets in the way?
+Across the United States, cities, counties, and townships are investing in parks and green spaces as essential infrastructure to improve community health, equity, and climate resilience. But what helps local governments make that happen and what gets in the way?
 
 This study looks at both sides of the equation:
 
 -   **Internal readiness**: how prepared local governments are to deliver equitable parks and green space policies and practices\
+
 -   **External pressures**: the outside factors that influence that work, from funding to political priorities
+
+In addition to hearing from government practitioners, we’re also reviewing park and green space policies from cities across the country to learn how equity shows up in practice. 
 
 This research is part of a doctoral dissertation at the **Johns Hopkins Bloomberg School of Public Health**, led by student researcher **Elham Ali, MPH, PMP**, under the supervision of faculty advisor **Jill Marsteller, PhD, MPP** (IRB00034299).
 
@@ -64,9 +67,7 @@ When you participate, you’ll:
 
 -   Receive **authorship credit** if you’d like
 
--   Get a **\$10 gift card** for completing the online survey and **\$50** for a virtual interview
-
-We can send you gift cards digitally, by mail, or donate it to a charity of your choice.
+-   Get a **gift card ($$$)** for completing the online survey, the virtual interview, or both. We can send gift cards digitally, by mail, or donate it to a charity of your choice
 
 ## How can I get involved?
 
@@ -98,7 +99,7 @@ You can participate in one or more ways:
 </div>
 ```
 
--   🤝 **Recommend colleagues** who might want to take part by emailing **Elham Ali** at [eali6\@jhu.edu](mailto:eali6@jhu.edu).
+-   🤝 **Recommend colleagues** who might want to take part by emailing Elham Ali at [eali6\@jhu.edu](mailto:eali6@jhu.edu).
 
 ```{=html}
 <!-- Recommend a Colleague -->
@@ -110,7 +111,7 @@ You can participate in one or more ways:
 </div>
 ```
 
--   📣 **Share this study webpage** with your networks.
+-   📣 **Share this study webpage** with your networks
 
 ```{=html}
 <!-- Share This Study -->
@@ -125,4 +126,6 @@ You can participate in one or more ways:
 
 ## Have questions?
 
-Contact **Elham Ali** at [eali6\@jhu.edu](mailto:eali6@jhu.edu). Questions about participant rights? Contact the **Johns Hopkins BSPH IRB** at [bsph.irboffice\@jhu.edu](mailto:bsph.irboffice@jhu.edu) or 410-955-3193.
+Contact **Elham Ali** at [eali6\@jhu.edu](mailto:eali6@jhu.edu). 
+
+Questions about participant rights? Contact the **Johns Hopkins BSPH IRB** at [bsph.irboffice\@jhu.edu](mailto:bsph.irboffice@jhu.edu) or 410-955-3193.
