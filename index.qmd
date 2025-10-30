@@ -24,6 +24,23 @@ Here's a sample of my work.
 
 :::::: grid
 ::: {.g-col-12 .g-col-md-4}
+<a href="https://screening-tools.com/blog/pedp-environmental-justice-data-tools-story"
+   target="_blank" rel="noopener noreferrer"> <img src="/images/featured/pedp.jpg" alt="Public Environmental Data Partners story" style="max-width:100%; height:auto;"/> </a>
+:::
+
+:::: {.g-col-12 .g-col-md-8}
+::: story-title
+<a href="https://screening-tools.com/blog/pedp-environmental-justice-data-tools-story"
+     target="_blank" rel="noopener noreferrer"> 2,212 studies used disappearing federal climate justice tools. We analyzed them all.</a>
+:::
+I interviewed sources, analyzed data, created visuals, and wrote the social media kit for <a href="https://screening-tools.com/blog/made-possible-series" target="_blank" rel="noopener noreferrer">*Made Possible*</a>, a Public Environmental Data Partners’ inaugural story spotlighting those who use now-defunct federal environmental justice tools to serve their communities.
+
+Tools: R, Quarto, Highcharter, Flourish, JavaScript, HTML, CSS
+::::
+::::::
+
+:::::: grid
+::: {.g-col-12 .g-col-md-4}
 <a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/"
    target="_blank" rel="noopener noreferrer"> <img src="/images/featured/saint_paul_story_2.gif" alt="Saint Paul green jobs story" style="max-width:100%; height:auto;"/> </a>
 :::
