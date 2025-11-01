@@ -11,33 +11,35 @@ bibliographystyle: apa.csl
 
 ![](/images/johns-hopkins-study/parks3.png){fig-alt="Parks with a carved path that has trees surrounded around it"}
 
-## **Key points**
+## Key points
 
--   Join a **national Johns Hopkins study** anytime from **January 5 – April 30, 2026** to share your professional insights and experiences on how your local government plans and delivers **equitable parks and green spaces**. You can take part by completing an online survey and/or joining a virtual interview.
+-   Join a **national Johns Hopkins study** anytime from **December 1, 2025 – March 30, 2026** to share your professional insights and experiences on how your local government plans and delivers **equitable parks and green spaces**. You can take part by completing an online survey and/or joining a virtual interview.
 
--   This study is open to anyone **18 or older** who works with U.S. local governments (city, county, or township) on parks, green spaces, climate, sustainability, or related community issues.
+-   This study is open to anyone 18 or older who works with **U.S. local governments (city, county, or township)** on parks, green spaces, climate, sustainability, or related community issues.
 
--   When you participate, you’ll receive a **gift card ($$$)** for completing the online survey, the virtual interview, or both (you can also choose to donate it). You’ll also get a summary of national findings you can use in your work, an optional customized report showing your organization’s readiness to advance equitable, upstream green space initiatives, and authorship credit in published results if you’d like.
+-   When you participate, you’ll receive a **gift card (\$\$\$)** for completing the online survey, the virtual interview, or both (you can also choose to donate it). You’ll also get a summary of national findings you can use in your work, an optional customized report showing your organization’s readiness to advance equitable, upstream green space initiatives, and authorship credit in published results if you’d like.
 
 ## What is this study about?
 
-Across the United States, cities, counties, and townships are investing in parks and green spaces as essential infrastructure to improve community health, equity, and climate resilience. But what helps local governments make that happen and what gets in the way?
+Across the United States, cities, counties, and townships are investing in **parks and green spaces** as essential infrastructure to improve community health, equity, and climate resilience. But what helps local governments make that happen and what gets in the way?
 
-This study looks at both sides of the equation:
+In this study, we're looking at both sides of that question:
 
--   **Internal readiness**: how prepared local governments are to deliver equitable parks and green space policies and practices\
+-   **Internal readiness**: how prepared local governments are to deliver equitable parks and green space policies and practices
 
 -   **External pressures**: the outside factors that influence that work, from funding to political priorities
 
-In addition to hearing from government practitioners, we’re also reviewing park and green space policies from cities across the country to learn how equity shows up in practice. 
+**Local governments are at the center of this story.** With control over zoning, land use, and infrastructure investments, they shape how communities adapt to climate risks and who benefits from those decisions. By sharing your experience, you can help identify what internal conditions, partnerships, and resources make equitable action possible.
 
-This research is part of a doctoral dissertation at the **Johns Hopkins Bloomberg School of Public Health**, led by student researcher **Elham Ali, MPH, PMP**, under the supervision of faculty advisor **Jill Marsteller, PhD, MPP** (IRB00034299).
+We’re also reviewing **park and green space policies from cities nationwide** to understand how equity shows up in practice and where gaps remain. These insights will guide practical recommendations for how local governments can design and sustain climate-ready, community-centered green space strategies.
 
-The [Johns Hopkins Institutional Review Board](https://www.hopkinsmedicine.org/institutional-review-board){target="_blank" rel="noopener"} has reviewed this study and determined it is **“not human subjects research.”** That means we’re asking about your professional insights and experiences of your organization, not private or personal information. Your responses will stay confidential.
+This research is part of a **doctoral dissertation at the Johns Hopkins Bloomberg School of Public Health**, led by student researcher **Elham Ali, MPH, PMP**, under the supervision of **Jill Marsteller, PhD, MPP** (IRB00034299).
+
+The [Johns Hopkins Institutional Review Board](https://www.hopkinsmedicine.org/institutional-review-board){target="_blank" rel="noopener"} has reviewed this study and determined it is **“not human subjects research”** under DHHS regulations 45 CFR 46.102. That means we’re asking about your professional perspectives of your organization, not private or personal information. Your responses will stay confidential.
 
 ## When is this study happening?
 
-The study will run from **January 5 through April 30, 2026.**
+The study will run from **December 1, 2025 through March 30, 2026.**
 
 You can join at any time during this period and participate once or in both parts (survey and interview) depending on your availability.
 
@@ -55,19 +57,19 @@ We encourage **three or more people from each organization** to join so we can h
 
 ## Why should I join?
 
-Your insights of your organization can help shape how local governments across the U.S. deliver parks and green spaces that are fair, effective, and community-centered.
+Your insights can help shape how local governments across the U.S. design and deliver parks and green spaces that are fair, effective, and community-centered.
 
 When you participate, you’ll:
 
 -   Share what **your local government needs** to make parks and green space equity possible
 
--   Receive a **summary of the national findings** you can use in your work
+-   Receive a **summary of the national findings** you can use in your work to benchmark readiness and progress
 
 -   Get a **customized snapshot** of your organization’s readiness to advance equitable, upstream green space initiatives
 
 -   Receive **authorship credit** if you’d like
 
--   Get a **gift card ($$$)** for completing the online survey, the virtual interview, or both. We can send gift cards digitally, by mail, or donate it to a charity of your choice
+-   Get a **gift card (\$\$\$)** for completing the online survey, the virtual interview, or both. We can send gift cards digitally, by mail, or donate it to a charity of your choice
 
 ## How can I get involved?
 
@@ -81,7 +83,7 @@ You can participate in one or more ways:
 <div class="study-btn-wrapper">
   <a href="#" class="study-btn disabled"
      style="background-color:#cccccc; pointer-events:none; cursor:not-allowed; opacity:0.8;">
-    Take the Survey (opens 1/5/2026)
+    Take the Survey (opens Dec 2025)
   </a>
 </div>
 ```
@@ -94,7 +96,7 @@ You can participate in one or more ways:
 <div class="study-btn-wrapper">
   <a href="#" class="study-btn disabled"
      style="background-color:#cccccc; pointer-events:none; cursor:not-allowed; opacity:0.8;">
-    Schedule an Interview (opens 1/5/2026)
+    Schedule an Interview (opens Dec 2025)
   </a>
 </div>
 ```
@@ -123,9 +125,8 @@ You can participate in one or more ways:
 </div>
 ```
 
-
 ## Have questions?
 
-Contact **Elham Ali** at [eali6\@jhu.edu](mailto:eali6@jhu.edu). 
+Contact **Elham Ali** at [eali6\@jhu.edu](mailto:eali6@jhu.edu).
 
 Questions about participant rights? Contact the **Johns Hopkins BSPH IRB** at [bsph.irboffice\@jhu.edu](mailto:bsph.irboffice@jhu.edu) or 410-955-3193.
