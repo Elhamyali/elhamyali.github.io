@@ -1,6 +1,6 @@
 ---
 title: "Join a Johns Hopkins Study on Parks and Green Spaces"
-subtitle: "Join a national effort to learn what helps U.S. local governments make parks and green spaces more equitable, resilient, and responsive to community needs"
+subtitle: "Join a national study to learn what helps U.S. local governments make parks and green spaces more equitable, resilient, and responsive to community needs"
 format: 
   html:
     page-layout: full
