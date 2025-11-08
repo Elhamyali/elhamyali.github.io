@@ -6,6 +6,7 @@ format:
     page-layout: full
     toc: true
     css: styles.css
+    allow-html: true
 bibliographystyle: apa.csl
 ---
 
@@ -13,11 +14,11 @@ bibliographystyle: apa.csl
 
 ## Key points
 
--   Join a **national Johns Hopkins study** anytime from **December 1, 2025 – March 31, 2026** to share your professional insights and experiences on how your local government plans and delivers **equitable parks and green spaces**. You can take part by completing an online survey and/or joining a virtual interview.
+-   Join a **national Johns Hopkins study** anytime from **November 14, 2025 – March 31, 2026** to share your professional insights and experiences on how your local government plans and delivers **equitable parks and green spaces**. You can take part by completing an online survey and/or joining a virtual interview.
 
 -   This study is open to anyone 18 or older who works with **U.S. local governments (city, county, or township)** on parks, green spaces, climate, sustainability, or related community issues.
 
--   When you participate, you’ll receive a **gift card (\$\$\$)** for completing the online survey, the virtual interview, or both (you can also choose to donate it). You’ll also get a summary of national findings you can use in your work, an optional customized report showing your organization’s readiness to advance equitable, upstream green space initiatives, and authorship credit in published results if you’d like.
+-   When you participate, you’ll receive a **gift card (\$\$\$)** for completing the online survey, the virtual interview, or both (you can also choose to donate it). You’ll also get a summary of national findings you can use in your work and authorship credit in published results if you’d like.
 
 ## What is this study about?
 
@@ -39,7 +40,7 @@ The [Johns Hopkins Institutional Review Board](https://www.hopkinsmedicine.org/i
 
 ## When is this study happening?
 
-The study will run from **December 1, 2025 through March 31, 2026.**
+The study will run from **November 14, 2025 through March 31, 2026.**
 
 You can join at any time during this period and participate once or in both parts (survey and interview) depending on your availability.
 
@@ -47,25 +48,21 @@ You can join at any time during this period and participate once or in both part
 
 We’re looking for people who:
 
--   Work in **a U.S. city, county, or township government**
-
 -   Are **18 or older**
+
+-   Work in **a U.S. city, county, or township government**
 
 -   Work on **parks, green spaces, climate, sustainability, or related community issues**
 
-We encourage **three or more people from each organization** to join so we can hear different perspectives but we also know that many environmental, climate, and sustainability offices are small. Even if you’re a *team of one*, your voice matters.
+We encourage **three or more people from each organization** to join so we can hear different perspectives but we also know that many environmental and sustainability offices are small. Even if you’re a *team of one*, your voice matters.
 
 ## Why should I join?
 
-Your insights can help shape how local governments across the U.S. design and deliver parks and green spaces that are fair, effective, and community-centered.
-
 When you participate, you’ll:
 
--   Share what **your local government needs** to make parks and green space equity possible
+-   Share what **your local government needs** to make parks and green space equity possible. Your insights will shape the supports to better design and deliver parks and green spaces that are fair, effective, and community-centered.
 
 -   Receive a **summary of the national findings** you can use in your work to benchmark readiness and progress
-
--   Get a **customized snapshot** of your organization’s readiness to advance equitable, upstream green space initiatives
 
 -   Receive **authorship credit** if you’d like
 
@@ -79,11 +76,10 @@ You can participate in one or more ways:
 
 ```{=html}
 <!-- Take the Survey -->
-
 <div class="study-btn-wrapper">
-  <a href="#" class="study-btn disabled"
-     style="background-color:#cccccc; pointer-events:none; cursor:not-allowed; opacity:0.8;">
-    Take the Survey (opens Dec 2025)
+  <a href="https://jh.qualtrics.com/jfe/form/SV_3klJKLVJYAxV35c" rel=_blank target= noopener
+     class="study-btn">
+    Take the Survey
   </a>
 </div>
 ```
@@ -92,11 +88,10 @@ You can participate in one or more ways:
 
 ```{=html}
 <!-- Join a Zoom Interview -->
-
 <div class="study-btn-wrapper">
-  <a href="#" class="study-btn disabled"
-     style="background-color:#cccccc; pointer-events:none; cursor:not-allowed; opacity:0.8;">
-    Schedule an Interview (opens Dec 2025)
+  <a href="https://jh.qualtrics.com/jfe/form/SV_3Dm0Zt7GZCBaMCy" rel=_blank target= noopener
+     class="study-btn">
+    Schedule an Interview
   </a>
 </div>
 ```
@@ -124,6 +119,51 @@ You can participate in one or more ways:
   </a>
 </div>
 ```
+
+:::::: grid
+::: {.g-col-12 .g-col-md-6}
+<iframe src="https://flo.uri.sh/visualisation/26112354/embed"
+  title="Survey progress"
+  class="flourish-embed-iframe"
+  frameborder="0"
+  scrolling="no"
+  style="width:100%;height:600px;"
+  sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+</iframe>
+
+<div style="width:100%;margin-top:4px;text-align:right;">
+  <a class="flourish-credit"
+     href="https://public.flourish.studio/visualisation/26112354/?utm_source=embed&utm_campaign=visualisation/26112354"
+     target="_top" style="text-decoration:none;">
+    <img src="https://public.flourish.studio/resources/made_with_flourish.svg"
+         alt="Made with Flourish"
+         style="width:105px;height:16px;border:none;margin:0;">
+  </a>
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-6}
+<iframe src="https://flo.uri.sh/visualisation/26112488/embed"
+  title="Interview progress"
+  class="flourish-embed-iframe"
+  frameborder="0"
+  scrolling="no"
+  style="width:100%;height:600px;"
+  sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+</iframe>
+
+<div style="width:100%;margin-top:4px;text-align:right;">
+  <a class="flourish-credit"
+     href="https://public.flourish.studio/visualisation/26112488/?utm_source=embed&utm_campaign=visualisation/26112488"
+     target="_top" style="text-decoration:none;">
+    <img src="https://public.flourish.studio/resources/made_with_flourish.svg"
+         alt="Made with Flourish"
+         style="width:105px;height:16px;border:none;margin:0;">
+  </a>
+</div>
+:::
+::::::
+
 
 ## Have questions?
 
