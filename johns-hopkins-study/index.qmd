@@ -1,6 +1,6 @@
 ---
 title: "Join a Johns Hopkins Study on Parks and Green Spaces"
-subtitle: "Join a national study to learn what helps U.S. local governments make parks and green spaces more equitable, resilient, and responsive to community needs"
+subtitle: "Join a national research study to learn what helps U.S. local governments make parks and green spaces more equitable, resilient, and responsive to community needs"
 format: 
   html:
     page-layout: full
@@ -14,11 +14,11 @@ bibliographystyle: apa.csl
 
 ## Key points
 
--   Join a **national Johns Hopkins study** anytime from **November 14, 2025 – March 31, 2026** to share your professional insights and experiences on how your local government plans and delivers **equitable parks and green spaces**. You can take part by completing an online survey and/or joining a virtual interview.
+-   Join a **national Johns Hopkins study** anytime by **March 31, 2026** to share your professional insights on how your local government plans and delivers **equitable parks and green spaces**. You can take part by completing an online survey and/or joining a virtual interview.
 
--   This study is open to anyone 18 or older who works with **U.S. local governments (city, county, or township)** on parks, green spaces, climate, sustainability, or related community issues.
+-   This study is open to anyone 18 or older who works with **U.S. local governments (city, county, or township)** on parks, green spaces, climate, sustainability, or related topics.
 
--   When you participate, you’ll receive a **gift card (\$\$\$)** for completing the online survey, the virtual interview, or both (you can also choose to donate it). You’ll also get a summary of national findings you can use in your work and authorship credit in published results if you’d like.
+-   When you participate, you’ll receive a **gift card (\$)** for completing the online survey, the virtual interview, or both (you can also choose to donate it). You’ll also get a summary of national findings you can use in your work and authorship credit in published results if you’d like.
 
 ## What is this study about?
 
@@ -36,15 +36,13 @@ We’re exploring both sides of the story:\
 
 We’re also analyzing park and green space policies nationwide to see how equity shows up in practice and where gaps remain. By sharing your experience, you’ll help identify the conditions, partnerships, and resources that make equitable green space possible.
 
-This research is part of a **doctoral dissertation at the [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/){target="_blank" rel="noopener noreferrer"}**, led by student researcher Elham Ali, MPH, PMP, under the supervision of Jill Marsteller, PhD, MPP (IRB00034299).
+This research is part of a **doctoral dissertation** at the [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/){target="_blank" rel="noopener noreferrer"}, led by student researcher Elham Ali, MPH, PMP, under the supervision of Jill Marsteller, PhD, MPP (IRB00034299).
 
 The [Johns Hopkins Institutional Review Board](https://www.hopkinsmedicine.org/institutional-review-board){target="_blank" rel="noopener"} has reviewed this study and determined it is **“not human subjects research”** under DHHS regulations 45 CFR 46.102. That means we’re asking about your professional perspectives of your organization, not private or personal information. Your responses will stay confidential.
 
 ## When is this study happening?
 
-The study will run from **November 14, 2025 through March 31, 2026.**
-
-You can join at any time during this period and participate once or in both parts (survey and interview) depending on your availability.
+You can join the study at any time by **March 31, 2026** and participate once or in both parts (survey and interview) depending on your interest.
 
 ## Who can participate?
 
@@ -54,21 +52,21 @@ We’re looking for people who:
 
 -   Work in **a U.S. city, county, or township government**
 
--   Work on **parks, green spaces, climate, sustainability, or related community issues**
+-   Work on **parks, green spaces, climate, sustainability, or related topics**
 
-We encourage **three or more people from each organization** to join so we can hear different perspectives but we also know that many environmental and sustainability offices are small. Even if you’re a *team of one*, your voice matters.
+We encourage **three or more people from each organization** to join so we can hear different perspectives but we also know that many environmental and sustainability offices are small. Even if you’re a *team of one*, we need your voice.
 
 ## Why should I join?
 
 When you participate, you’ll:
 
--   Share what **your local government needs** to make parks and green space equity possible. Your insights will shape the supports to better design and deliver parks and green spaces that are fair, effective, and community-centered.
+-   Share what **your local government needs** to make parks and green space equity possible
 
 -   Receive a **summary of the national findings** you can use in your work to benchmark readiness and progress
 
 -   Receive **authorship credit** if you’d like
 
--   Get a **gift card (\$\$\$)** for completing the online survey, the virtual interview, or both. We can send gift cards digitally, by mail, or donate it to a charity of your choice
+-   Get a **gift card (\$)** for completing the online survey, the virtual interview, or both. We can send gift cards digitally, by mail, or donate it to a charity of your choice
 
 ## How can I get involved?
 
@@ -117,7 +115,7 @@ You can participate in one or more ways:
 <div class="study-btn-wrapper">
   <a href="mailto:?subject=Johns%20Hopkins%20Study%3A%20Parks%20%26%20Green%20Spaces%20%28Jan%205%E2%80%93Apr%2030%2C%202026%29&body=Hi%20team%2C%0A%0AI%20wanted%20to%20share%20this%20Johns%20Hopkins%20study%20on%20how%20local%20governments%20plan%20and%20deliver%20equitable%20parks%20and%20green%20spaces.%20It%20runs%20Jan%205%20%E2%80%93%20Apr%2030%2C%202026.%0A%0AParticipants%20can%20complete%20a%20short%20survey%20and/or%20join%20a%20brief%20Zoom%20interview.%20Here%E2%80%99s%20the%20info%20page%3A%0Ahttps%3A%2F%2Felhamyali.com%2Fjohns-hopkins-study%0A%0AThanks%21" rel=_blank target= noopener
      class="study-btn">
-    Share This Study
+    Share this Study
   </a>
 </div>
 ```
@@ -150,6 +148,6 @@ You can participate in one or more ways:
 
 ## Have questions?
 
-Contact **Elham Ali** at [eali6\@jhu.edu](mailto:eali6@jhu.edu).
+Contact **Elham Ali** (Student Researcher) at [eali6\@jhu.edu](mailto:eali6@jhu.edu).
 
-Questions about participant rights? Contact the **Johns Hopkins BSPH IRB** at [bsph.irboffice\@jhu.edu](mailto:bsph.irboffice@jhu.edu) or 410-955-3193.
+If you have questions about your rights as a participant, contact the Johns Hopkins IRB at 410-955-3193 or [bsph.irboffice\@jhu.edu](mailto:bsph.irboffice@jhu.edu). 
