@@ -22,17 +22,19 @@ bibliographystyle: apa.csl
 
 ## What is this study about?
 
-Across the United States, cities, counties, and townships are investing in **parks and green spaces** as essential infrastructure to improve community health, equity, and climate resilience. But what helps local governments make that happen and what gets in the way?
+Cities, counties, and townships across the United States are investing in **parks and green spaces** to improve health, advance equity, and strengthen climate resilience. But what helps local governments make that happen—and what gets in the way?
 
-In this study, we're looking at both sides of that question:
+This study looks upstream, beyond how parks are built, to the policies, land use decisions, and organizational practices that shape equity.
 
--   **Internal readiness**: how prepared local governments are to deliver equitable parks and green space policies and practices
+**Local governments are central to this work.** With control over zoning, funding, and infrastructure, they shape how communities adapt to climate risks and who benefits from those decisions.
 
--   **External pressures**: the outside factors that influence that work, from funding to political priorities
+We’re exploring both sides of the story:\
 
-**Local governments are at the center of this story.** With control over zoning, land use, and infrastructure investments, they shape how communities adapt to climate risks and who benefits from those decisions. By sharing your experience, you can help identify what internal conditions, partnerships, and resources make equitable action possible.
+• **Internal readiness** — how prepared local governments are to act on parks and green space equity\
 
-We’re also reviewing park and green space policies from cities nationwide to understand how equity shows up in practice and where gaps remain. These insights will guide practical recommendations for how local governments can design and sustain climate-ready, community-centered green space strategies.
+• **External pressures** — outside forces like funding, mandates, and politics that influence action
+
+We’re also analyzing park and green space policies nationwide to see how equity shows up in practice and where gaps remain. By sharing your experience, you’ll help identify the conditions, partnerships, and resources that make equitable green space possible.
 
 This research is part of a **doctoral dissertation at the [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/){target="_blank" rel="noopener noreferrer"}**, led by student researcher Elham Ali, MPH, PMP, under the supervision of Jill Marsteller, PhD, MPP (IRB00034299).
 
@@ -120,50 +122,31 @@ You can participate in one or more ways:
 </div>
 ```
 
-:::::: grid
-::: {.g-col-12 .g-col-md-6}
-<iframe src="https://flo.uri.sh/visualisation/26112354/embed"
-  title="Survey progress"
-  class="flourish-embed-iframe"
-  frameborder="0"
-  scrolling="no"
-  style="width:100%;height:600px;"
-  sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+::::::: grid
+:::: {.g-col-12 .g-col-md-6}
+<iframe src="https://flo.uri.sh/visualisation/26112354/embed" title="Survey progress" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
 </iframe>
 
-<div style="width:100%;margin-top:4px;text-align:right;">
-  <a class="flourish-credit"
+::: {style="width:100%;margin-top:4px;text-align:right;"}
+<a class="flourish-credit"
      href="https://public.flourish.studio/visualisation/26112354/?utm_source=embed&utm_campaign=visualisation/26112354"
-     target="_top" style="text-decoration:none;">
-    <img src="https://public.flourish.studio/resources/made_with_flourish.svg"
-         alt="Made with Flourish"
-         style="width:105px;height:16px;border:none;margin:0;">
-  </a>
-</div>
+     target="_top" style="text-decoration:none;"> <img src="https://public.flourish.studio/resources/made_with_flourish.svg" alt="Made with Flourish" style="width:105px;height:16px;border:none;margin:0;"/> </a>
 :::
+::::
 
-::: {.g-col-12 .g-col-md-6}
-<iframe src="https://flo.uri.sh/visualisation/26112488/embed"
-  title="Interview progress"
-  class="flourish-embed-iframe"
-  frameborder="0"
-  scrolling="no"
-  style="width:100%;height:600px;"
-  sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+:::: {.g-col-12 .g-col-md-6}
+<iframe src="https://flo.uri.sh/visualisation/26112488/embed" title="Interview progress" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
 </iframe>
 
-<div style="width:100%;margin-top:4px;text-align:right;">
-  <a class="flourish-credit"
+::: {style="width:100%;margin-top:4px;text-align:right;"}
+<a class="flourish-credit"
      href="https://public.flourish.studio/visualisation/26112488/?utm_source=embed&utm_campaign=visualisation/26112488"
-     target="_top" style="text-decoration:none;">
-    <img src="https://public.flourish.studio/resources/made_with_flourish.svg"
-         alt="Made with Flourish"
-         style="width:105px;height:16px;border:none;margin:0;">
-  </a>
-</div>
+     target="_top" style="text-decoration:none;"> <img src="https://public.flourish.studio/resources/made_with_flourish.svg" alt="Made with Flourish" style="width:105px;height:16px;border:none;margin:0;"/> </a>
 :::
-::::::
-
+::::
+:::::::
 
 ## Have questions?
 
