@@ -1,0 +1,59 @@
+---
+title: "Data Visualization"
+subtitle: "I bring data to life with bespoke static, interactive, and scrollytelling visuals that invite people to step inside your story, help them see a piece of their own world in your data, and make complex information feel immersive and human.<br>
+<br>
+I work primarily in R and its visualization libraries, along with Highcharter, Flourish, QGIS, HTML/CSS, and JavaScript libraries like Scrollama. Lately, I’ve been exploring the creative possibilities of D3.js."
+toc: false
+css: styles.css
+lightbox: true
+---
+
+```{r}
+#| echo: FALSE
+```
+
+Here's a sample of my visuals.
+
+## Static Visualizations
+
+::: {layout-ncol="3"}
+![](/images/data-viz/static_1){group="viz-gallery"}
+
+![](/images/data-viz/static_4){group="viz-gallery"}
+
+![](/images/data-viz/static_3){group="viz-gallery"}
+
+![](/images/data-viz/static_2){group="viz-gallery"}
+
+![](/images/data-viz/static_5){group="viz-gallery"}
+
+![](/images/data-viz/static_6.jpg){group="viz-gallery"}
+:::
+
+## Interactive web-based
+
+::: {layout-ncol="3"}
+![](/images/data-viz/interactive_1){group="viz-gallery"}
+
+![](/images/data-viz/interactive_2){group="viz-gallery"}
+
+![](/images/data-viz/interactive_3){group="viz-gallery"}
+
+![](/images/data-viz/interactive_4){group="viz-gallery"}
+
+![](/images/data-viz/interactive_5){group="viz-gallery"}
+
+![](/images/data-viz/interactive_6){group="viz-gallery"}
+
+![](/images/data-viz/interactive_7){group="viz-gallery"}
+
+![](/images/data-viz/interactive_8){group="viz-gallery"}
+:::
+
+## Animated/scrollytelling
+
+::: {layout-ncol="2"}
+![](/images/data-viz/scrollytelling_1.gif){group="viz-gallery"}
+
+![](/images/data-viz/scrollytelling_2.gif){group="viz-gallery"}
+:::
