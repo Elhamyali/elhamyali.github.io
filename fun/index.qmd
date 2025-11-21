@@ -7,7 +7,7 @@ toc: false
 
 ## Unmuted with Elham Ali Podcast
 
-::: grid
+::::: grid
 ::: {.g-col-12 .g-col-md-4}
 ![](/images/fun/unmuted-podcast.jpg)
 :::
@@ -17,11 +17,11 @@ toc: false
 
 I talk to inspiring people about their lives and stories of equity and belonging. Each episode dives into deeper stories about what it means to create inclusive spaces and build a sense of community, featuring guests who are making a difference in their fields from food justice to communications. Whether you're looking for inspiration or just a thoughtful discussion, tune in and join the conversation.
 :::
-:::
+:::::
 
 ## Spudnuts Comics
 
-::: grid
+::::: grid
 ::: {.g-col-12 .g-col-md-4}
 ![](/images/fun/spudnuts-comics.jpg)
 :::
@@ -31,4 +31,4 @@ I talk to inspiring people about their lives and stories of equity and belonging
 
 When I find time, I draw comics about the life of a wholesome potato named Spud. Follow Spud's adventures as they navigates everyday life with humor, heart, and a little bit of quirkiness. These comics are a lighthearted escape, celebrating kindness, resilience, and the simple joys of being a potato. Perfect for anyone who needs a smile or a reminder that even the smallest things can have a big impact.
 :::
-:::
+:::::

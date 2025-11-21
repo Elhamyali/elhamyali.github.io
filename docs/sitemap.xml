@@ -1,128 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.elhamyali.com/blog.html</loc>
-    <lastmod>2024-07-31T20:11:31.523Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/wsbh/wsbh.html</loc>
-    <lastmod>2024-09-01T15:10:09.206Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/template.html</loc>
-    <lastmod>2024-09-01T13:30:29.308Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/bva/bva.html</loc>
-    <lastmod>2024-09-01T13:23:09.727Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/1-usdr/usdr.html</loc>
-    <lastmod>2024-09-01T13:23:21.006Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/healthcare/healthcare.html</loc>
-    <lastmod>2024-09-01T14:08:17.075Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/bridgehome/bridgehome.html</loc>
-    <lastmod>2024-09-01T14:09:25.237Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/pchd/pchd.html</loc>
-    <lastmod>2024-09-01T15:03:15.292Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/publications.html</loc>
-    <lastmod>2024-09-04T03:42:30.429Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/fun.html</loc>
-    <lastmod>2024-09-05T09:42:21.315Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/publications/published/UntitledQMD.html</loc>
-    <lastmod>2024-07-31T22:24:43.600Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/work.html</loc>
-    <lastmod>2024-07-31T17:44:53.935Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/index.html</loc>
-    <lastmod>2025-11-08T23:24:52.524Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/about.html</loc>
-    <lastmod>2024-09-01T07:03:48.121Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/azdhs/azdhs.html</loc>
-    <lastmod>2024-09-01T13:41:55.816Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/nysdoh/nysdoh.html</loc>
-    <lastmod>2024-09-01T17:08:36.364Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/clf/clf.html</loc>
-    <lastmod>2024-09-01T17:12:22.298Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/columbia/columbia.html</loc>
-    <lastmod>2024-09-01T14:20:07.506Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/rho/rho.html</loc>
-    <lastmod>2024-09-01T18:00:21.259Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/foodplanet/foodplanet.html</loc>
-    <lastmod>2024-09-01T15:45:02.465Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/la/la.html</loc>
-    <lastmod>2024-09-01T13:27:18.172Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/LICENSE.html</loc>
-    <lastmod>2024-09-02T08:43:31.812Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/blog/2023-02-13-learning-fast-and-slow/index.html</loc>
-    <lastmod>2024-09-06T04:54:38.594Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/blog/index.html</loc>
-    <lastmod>2024-09-06T04:54:38.595Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/blog/2023-03-28-six-ways-organizations-can-build-antifragile-teams/index.html</loc>
-    <lastmod>2025-06-13T21:48:47.214Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/blog/2022-06-09-how-to-talk-about-race-with-white-peers/index.html</loc>
-    <lastmod>2024-09-02T10:58:12.067Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/blog/2022-07-22-what-the-environment-can-teach-us-about-self-actualization/index.html</loc>
-    <lastmod>2024-09-02T10:51:43.711Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/blog/2022-08-05-taking-risks-without-being-at-risk/index.html</loc>
-    <lastmod>2024-09-02T10:58:45.485Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/blog/2022-09-01-how-racism-shapes-farming-and-land-access-in-the-us/index.html</loc>
-    <lastmod>2024-09-02T11:03:55.673Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/city-of-los-angeles/index.html</loc>
-    <lastmod>2024-09-06T07:28:43.244Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/washington-state-board-health/index.html</loc>
-    <lastmod>2024-09-06T04:54:39.304Z</lastmod>
+    <loc>https://www.elhamyali.com/test.html</loc>
+    <lastmod>2024-09-09T10:49:15.694Z</lastmod>
   </url>
   <url>
     <loc>https://www.elhamyali.com/featured-work/food-planet/index.html</loc>
@@ -137,8 +17,12 @@
     <lastmod>2024-09-06T04:54:39.069Z</lastmod>
   </url>
   <url>
-    <loc>https://www.elhamyali.com/featured-work/us-digital-response/index.html</loc>
-    <lastmod>2024-09-06T04:54:39.297Z</lastmod>
+    <loc>https://www.elhamyali.com/featured-work/bureau-veritas/index.html</loc>
+    <lastmod>2024-09-06T04:54:39.046Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/featured-work/city-of-los-angeles/index.html</loc>
+    <lastmod>2024-09-06T07:28:43.244Z</lastmod>
   </url>
   <url>
     <loc>https://www.elhamyali.com/featured-work/bridge-to-home/index.html</loc>
@@ -149,6 +33,102 @@
     <lastmod>2024-09-09T03:04:11.392Z</lastmod>
   </url>
   <url>
+    <loc>https://www.elhamyali.com/blog/2025-06-13-the-map-we-wore/index.html</loc>
+    <lastmod>2025-06-13T22:13:16.303Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/blog/2023-03-28-six-ways-organizations-can-build-antifragile-teams/index.html</loc>
+    <lastmod>2025-06-13T21:48:47.214Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/blog/2022-06-09-how-to-talk-about-race-with-white-peers/index.html</loc>
+    <lastmod>2024-09-06T04:54:38.556Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/blog/2022-09-01-how-racism-shapes-farming-and-land-access-in-the-us/index.html</loc>
+    <lastmod>2024-09-06T04:54:38.592Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/blog/2023-02-13-learning-fast-and-slow/index.html</loc>
+    <lastmod>2024-09-06T04:54:38.594Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/blog/2022-08-05-taking-risks-without-being-at-risk/index 2.html</loc>
+    <lastmod>2024-09-02T10:58:45.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/blog/2022-07-22-what-the-environment-can-teach-us-about-self-actualization/index 2.html</loc>
+    <lastmod>2024-09-02T10:51:43.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/index.html</loc>
+    <lastmod>2025-11-08T23:24:52.524Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/fun/index.html</loc>
+    <lastmod>2025-11-21T23:37:51.966Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/LICENSE.html</loc>
+    <lastmod>2024-09-06T04:54:38.542Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/research/research 2.html</loc>
+    <lastmod>2024-09-05T08:51:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/research/research.html</loc>
+    <lastmod>2024-09-06T04:54:39.309Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/research/research.html 2.html</loc>
+    <lastmod>2024-09-05T09:44:27.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/johns-hopkins-study/index.html</loc>
+    <lastmod>2025-11-13T21:51:34.608Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/publications/index.html</loc>
+    <lastmod>2025-11-19T23:52:31.160Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/about/index.html</loc>
+    <lastmod>2025-11-20T19:43:01.051Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/blog/2022-07-22-what-the-environment-can-teach-us-about-self-actualization/index.html</loc>
+    <lastmod>2024-09-06T04:54:38.568Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/blog/2022-08-05-taking-risks-without-being-at-risk/index.html</loc>
+    <lastmod>2024-09-06T04:54:38.581Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/blog/index.html</loc>
+    <lastmod>2024-09-06T04:54:38.595Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/blog/2023-02-13-learning-fast-and-slow/index 2.html</loc>
+    <lastmod>2024-09-02T09:58:27.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/blog/2022-09-01-how-racism-shapes-farming-and-land-access-in-the-us/index 2.html</loc>
+    <lastmod>2024-09-02T11:03:55.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/blog/2022-06-09-how-to-talk-about-race-with-white-peers/index 2.html</loc>
+    <lastmod>2024-09-02T10:58:12.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/blog/2023-03-28-six-ways-organizations-can-build-antifragile-teams/index 2.html</loc>
+    <lastmod>2024-09-02T10:16:10.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/data-viz/index.html</loc>
+    <lastmod>2025-11-21T22:03:04.642Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.elhamyali.com/featured-work/columbia-university/index.html</loc>
     <lastmod>2024-09-06T04:54:39.054Z</lastmod>
   </url>
@@ -157,8 +137,12 @@
     <lastmod>2024-09-06T04:54:39.294Z</lastmod>
   </url>
   <url>
-    <loc>https://www.elhamyali.com/featured-work/bureau-veritas/index.html</loc>
-    <lastmod>2024-09-06T04:54:39.046Z</lastmod>
+    <loc>https://www.elhamyali.com/featured-work/us-digital-response/index.html</loc>
+    <lastmod>2024-09-06T04:54:39.297Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.elhamyali.com/featured-work/template.html</loc>
+    <lastmod>2024-09-01T13:30:29.308Z</lastmod>
   </url>
   <url>
     <loc>https://www.elhamyali.com/featured-work/pima-county-health-department/index.html</loc>
@@ -169,87 +153,7 @@
     <lastmod>2025-05-02T01:47:26.127Z</lastmod>
   </url>
   <url>
-    <loc>https://www.elhamyali.com/about/index.html</loc>
-    <lastmod>2025-11-20T19:43:01.051Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/publications/research.html</loc>
-    <lastmod>2024-09-05T08:51:16.695Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/UntitledQMD.html</loc>
-    <lastmod>2024-09-04T03:35:27.546Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/publications/index.html</loc>
-    <lastmod>2025-11-19T23:52:31.160Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/publications/test/index.html</loc>
-    <lastmod>2024-09-05T06:57:49.275Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/research/research.html</loc>
-    <lastmod>2024-09-06T04:54:39.309Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/fun/fun2.html</loc>
-    <lastmod>2024-09-06T04:23:21.450Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/fun/index.html</loc>
-    <lastmod>2025-06-26T22:14:58.518Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/arizona-department-of-health-services/index 2.html</loc>
-    <lastmod>2024-09-05T05:31:20.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/blog/2023-03-28-six-ways-organizations-can-build-antifragile-teams/index 2.html</loc>
-    <lastmod>2024-09-02T10:16:10.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/blog/2022-09-01-how-racism-shapes-farming-and-land-access-in-the-us/index 2.html</loc>
-    <lastmod>2024-09-02T11:03:55.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/blog/2022-08-05-taking-risks-without-being-at-risk/index 2.html</loc>
-    <lastmod>2024-09-02T10:58:45.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/research/research.html 2.html</loc>
-    <lastmod>2024-09-05T09:44:27.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/blog/2022-07-22-what-the-environment-can-teach-us-about-self-actualization/index 2.html</loc>
-    <lastmod>2024-09-02T10:51:43.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/blog/2023-02-13-learning-fast-and-slow/index 2.html</loc>
-    <lastmod>2024-09-02T09:58:27.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/blog/2022-06-09-how-to-talk-about-race-with-white-peers/index 2.html</loc>
-    <lastmod>2024-09-02T10:58:12.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/featured-work/test.html</loc>
-    <lastmod>2024-09-09T03:06:55.678Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/test.html</loc>
-    <lastmod>2024-09-09T10:49:15.694Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/blog/2025-06-13-the-map-we-wore/index.html</loc>
-    <lastmod>2025-06-13T22:13:16.303Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/johns-hopkins-study/index.html</loc>
-    <lastmod>2025-11-13T21:51:34.608Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/data-viz/index.html</loc>
-    <lastmod>2025-11-21T22:03:04.642Z</lastmod>
+    <loc>https://www.elhamyali.com/featured-work/washington-state-board-health/index.html</loc>
+    <lastmod>2024-09-06T04:54:39.304Z</lastmod>
   </url>
 </urlset>
