@@ -39,7 +39,7 @@ Here's a sample of my visuals.
 
 ![](/images/data-viz/interactive_3){group="viz-gallery"}
 
-![](/images/data-viz/interactive_4){group="viz-gallery"}
+![](/images/data-viz/interactive_8){group="viz-gallery"}
 
 ![](/images/data-viz/interactive_5){group="viz-gallery"}
 
@@ -47,7 +47,9 @@ Here's a sample of my visuals.
 
 ![](/images/data-viz/interactive_7){group="viz-gallery"}
 
-![](/images/data-viz/interactive_8){group="viz-gallery"}
+![](/images/data-viz/interactive_9){group="viz-gallery"}
+
+![](/images/data-viz/interactive_4){group="viz-gallery"}
 :::
 
 ## Animated/scrollytelling
