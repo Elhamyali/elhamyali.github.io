@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.elhamyali.com/johns-hopkins-study/index.html</loc>
+    <lastmod>2025-11-26T16:54:47.613Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.elhamyali.com/test.html</loc>
     <lastmod>2024-09-09T10:49:15.694Z</lastmod>
   </url>
@@ -61,12 +65,12 @@
     <lastmod>2024-09-02T10:51:43.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.elhamyali.com/index.html</loc>
-    <lastmod>2025-11-08T23:24:52.524Z</lastmod>
+    <loc>https://www.elhamyali.com/about/index.html</loc>
+    <lastmod>2025-11-20T19:43:01.051Z</lastmod>
   </url>
   <url>
-    <loc>https://www.elhamyali.com/fun/index.html</loc>
-    <lastmod>2025-11-21T23:37:51.966Z</lastmod>
+    <loc>https://www.elhamyali.com/publications/index.html</loc>
+    <lastmod>2025-11-19T23:52:31.160Z</lastmod>
   </url>
   <url>
     <loc>https://www.elhamyali.com/LICENSE.html</loc>
@@ -85,16 +89,8 @@
     <lastmod>2024-09-05T09:44:27.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.elhamyali.com/johns-hopkins-study/index.html</loc>
-    <lastmod>2025-11-13T21:51:34.608Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/publications/index.html</loc>
-    <lastmod>2025-11-19T23:52:31.160Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elhamyali.com/about/index.html</loc>
-    <lastmod>2025-11-20T19:43:01.051Z</lastmod>
+    <loc>https://www.elhamyali.com/fun/index.html</loc>
+    <lastmod>2025-11-21T23:37:51.966Z</lastmod>
   </url>
   <url>
     <loc>https://www.elhamyali.com/blog/2022-07-22-what-the-environment-can-teach-us-about-self-actualization/index.html</loc>
