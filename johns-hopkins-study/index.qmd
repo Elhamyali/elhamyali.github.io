@@ -14,7 +14,7 @@ bibliographystyle: apa.csl
 
 ## Key points
 
--   Join a **national Johns Hopkins study** anytime by **March 31, 2026** to share your professional insights on how your local government plans and delivers **equitable parks and green spaces**. You can take part by completing an online survey and/or joining a virtual interview.
+-   Join a **national Johns Hopkins study** anytime by **May 8, 2026** to share your professional insights on how your local government plans and delivers **equitable parks and green spaces**. You can take part by completing an online survey and/or joining a virtual interview.
 
 -   This study is open to anyone 18 or older who works with **U.S. local governments (city, county, or township)** on parks, green spaces, climate, sustainability, or related topics.
 
@@ -42,7 +42,7 @@ The [Johns Hopkins Institutional Review Board](https://www.hopkinsmedicine.org/i
 
 ## When is this study happening?
 
-You can join the study at any time by **March 31, 2026** and participate once or in both parts (survey and interview) depending on your interest.
+You can join the study at any time by **May 8, 2026** and participate once or in both parts (survey and interview) depending on your interest.
 
 ## Who can participate?
 
@@ -115,7 +115,7 @@ To keep the study secure, the survey and interview links need a password. Enter 
 ```{=html}
 <!-- Share This Study -->
 <div class="study-btn-wrapper">
-  <a href="mailto:?subject=Johns%20Hopkins%20Study%3A%20Parks%20%26%20Green%20Spaces&body=Hi%20team%2C%0A%0AI%20wanted%20to%20share%20this%20Johns%20Hopkins%20study%20on%20how%20local%20governments%20plan%20and%20deliver%20equitable%20parks%20and%20green%20spaces.%20The%20study%20is%20open%20between%20now%20and%20March%2031%2C%202026.%0A%0AParticipants%20can%20complete%20a%20short%20survey%20and%2For%20join%20a%20brief%20Zoom%20interview.%20Here%E2%80%99s%20the%20info%20page%3A%0Ahttps%3A%2F%2Felhamyali.com%2Fjohns-hopkins-study%0A%0AThanks%21" 
+  <a href="mailto:?subject=Johns%20Hopkins%20Study%3A%20Parks%20%26%20Green%20Spaces&body=Hi%20team%2C%0A%0AI%20wanted%20to%20share%20this%20Johns%20Hopkins%20study%20on%20how%20local%20governments%20plan%20and%20deliver%20equitable%20parks%20and%20green%20spaces.%20The%20study%20is%20open%20between%20now%20and%20May%2031%2C%202026.%0A%0AParticipants%20can%20complete%20a%20short%20survey%20and%2For%20join%20a%20brief%20Zoom%20interview.%20Here%E2%80%99s%20the%20info%20page%3A%0Ahttps%3A%2F%2Felhamyali.com%2Fjohns-hopkins-study%0A%0AThanks%21" 
 rel=_blank target= noopener
      class="study-btn">
     Share this Study
