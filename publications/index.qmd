@@ -11,7 +11,7 @@ bibliographystyle: apa.csl
 
 ## Peer-reviewed Journal Papers
 
-Ackerman, A., **Ali, E.**, Wait, A., Martinez, H., Fabricant, R., Gonzalez, A., Yerbes, M. C., & Cullen, T. (2025). "Appropriate and fair": Modeling equitable compensation for lived experience experts in local public health programming. Progress in Community Health Partnerships. [https://preprint.press.jhu.edu/pchp/sites/default/files/2025-08/00-ED_Wait.pdf](https://preprint.press.jhu.edu/pchp/sites/default/files/2025-08/00-ED_Wait.pdf){.uri target="_blank" rel="noopener noreferrer"}
+Ackerman, A., **Ali, E.**, Wait, A., Martinez, H., Fabricant, R., Gonzalez, A., Canetas Yerbes, M., & Cullen, T. (2025). Project MUSE - “Appropriate and Fair”: Modeling Equitable Compensation for Lived Experience Experts in Local Public Health Programming. *Progress in Community Health Partnerships: Research, Education, and Action*, *19*(4), 483–492. [https://doi.org/10.1353/cpr.2025.a979206](https://doi.org/10.1353/cpr.2025.a979206){target="_blank" rel="noopener noreferrer"}
 
 Wolfson, J. A., Altema-Johnson, D., Yett, A., **Ali, E.**, Kim, B., Carr, N., Santo, R., Cho, C., Browning, G., & Ramsing, R. (2025). Climate change menu labels in a university cafeteria: effects on student's diets, perceptions, and attitudes. *Appetite*, *211*, 108001. [https://doi.org/10.1016/j.appet.2025.108001](https://doi.org/10.1016/j.appet.2025.108001){.uri target="_blank" rel="noopener noreferrer"}
 
