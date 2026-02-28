@@ -2,7 +2,7 @@
 title: "Data Visualization"
 subtitle: "I bring data to life with bespoke static, interactive, and scrollytelling visuals that invite people to step inside your story, help them see a piece of their own world in your data, and make complex information feel immersive and human.<br>
 <br>
-I work primarily in R and its visualization libraries, along with Highcharter, Flourish, QGIS, HTML/CSS, and JavaScript libraries like Scrollama. Lately, I’ve been exploring the creative possibilities of D3.js."
+I work primarily in R and its visualization libraries, along with Highcharter, Flourish, QGIS, HTML/CSS, and JavaScript libraries like Scrollama. Lately, I’ve been exploring the creative possibilities of D3.js and React."
 toc: false
 css: styles.css
 lightbox: true
