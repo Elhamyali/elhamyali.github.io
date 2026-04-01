@@ -14,13 +14,79 @@ Pronounced <a href="https://www.name-coach.com/elhamyali" target="_blank">ill-hu
 
 </p>
 
-📊 I'm a research leader, writer, and data journalist who translates community voices and local insights into data experiences from interactive maps to visual stories that reveal deeper truths about our world, shift norms, and drive action.
+📊 I'm a mixed-methods research leader, writer, and data journalist based in Southern California who translates community voices and local insights into data experiences from interactive maps to visual stories that reveal deeper truths about our world, shift norms, and drive action.
 
-With a decade of experience in research and evaluation, data analysis, and human-centered design in civic tech and public health, I focus on <a href="https://www.worldwildlife.org/stories/what-are-nature-based-solutions-and-how-can-they-help-us-address-the-climate-crisis" target="_blank" rel="noopener noreferrer">nature-based climate solutions</a>, specifically parks and green spaces. I work with local governments to ensure climate action centers health equity, social justice, and community needs. From mapping tree canopy in Akron to increasing access to quality green jobs in Saint Paul, I help cities make informed, confident decisions that protect both people and our planet. 🌍🌿
+My work sits at the intersection of climate justice, health equity, and civic tech. Fore more than a decade, I’ve partnered with local and state governments to translate data into tools that reflect the lived realities of communities — from mapping tree canopy in the City of Akron to expanding pathways into high-quality green jobs in the City of Saint Paul — so cities can make confident decisions that protect both people and planet. 🌍🌿
 
 Here's a sample of my work.
 
 ## Select Stories
+
+I lead end-to-end data storytelling — from sourcing and reporting to data collection, analysis, visualization, and building interactive stories — then partner with communications and PR teams to bring them to wider audiences.
+
+:::::: grid
+::: {.g-col-12 .g-col-md-4}
+`<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-3/#it-takes-a-village"
+   target="_blank" rel="noopener noreferrer">`{=html} <img src="/images/featured/data-labs.jpeg" alt="Data Labs feature story" style="max-width:100%; height:auto;"/> </a>
+:::
+
+:::: {.g-col-12 .g-col-md-8}
+::: story-title
+`<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-3/#it-takes-a-village"
+     target="_blank" rel="noopener noreferrer">`{=html} “It Takes a Village”: Counted, Connected, and Cared For</a>
+:::
+
+Inside Arizona’s effort to link health and homelessness data through the Beeck Center’s award-winning Data Labs program.
+::::
+::::::
+
+:::::: grid
+::: {.g-col-12 .g-col-md-4}
+`<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-2/#family-health-by-design"
+   target="_blank" rel="noopener noreferrer">`{=html} <img src="/images/featured/fbl.jpg" alt="Family Benefits Labs feature story" style="max-width:100%; height:auto;"/> </a>
+:::
+
+:::: {.g-col-12 .g-col-md-8}
+::: story-title
+`<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-2/#family-health-by-design"
+     target="_blank" rel="noopener noreferrer">`{=html} Family Health, by Design</a>
+:::
+
+How fragmented public systems shape the well-being of young families in California and what it would take to design them to actually work together.
+::::
+::::::
+
+:::::: grid
+::: {.g-col-12 .g-col-md-4}
+`<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-1/#a-place-to-land"
+   target="_blank" rel="noopener noreferrer">`{=html} <img src="/images/featured/dbn1.jpg" alt="Digital Benefits Network feature story" style="max-width:100%; height:auto;"/> </a>
+:::
+
+:::: {.g-col-12 .g-col-md-8}
+::: story-title
+`<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-1/#a-place-to-land"
+     target="_blank" rel="noopener noreferrer">`{=html}A Place to Land</a>
+:::
+
+How connecting the right people turns research into action, advancing more accessible public benefits through the Beeck Center’s Digital Benefits Network.
+::::
+::::::
+
+:::::: grid
+::: {.g-col-12 .g-col-md-4}
+`<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-1/#building-government-services"
+   target="_blank" rel="noopener noreferrer">`{=html} <img src="/images/featured/dsn.jpg" alt="Digital Service Network feature story" style="max-width:100%; height:auto;"/> </a>
+:::
+
+:::: {.g-col-12 .g-col-md-8}
+::: story-title
+`<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-1/#building-government-services"
+     target="_blank" rel="noopener noreferrer">`{=html}Building Government Services is a Team Sport</a>
+:::
+
+A window into the people behind digital government — following one practitioner’s experience navigating collaboration, constraints, and impact through the Digital Government Network.
+::::
+::::::
 
 :::::: grid
 ::: {.g-col-12 .g-col-md-4}
@@ -34,9 +100,7 @@ Here's a sample of my work.
      target="_blank" rel="noopener noreferrer"> 2,212 studies used disappearing federal climate justice tools. We analyzed them all.</a>
 :::
 
-I interviewed sources, analyzed data, created visuals, and wrote the social media kit for <a href="https://screening-tools.com/blog/made-possible-series" target="_blank" rel="noopener noreferrer">*Made Possible*</a>, a Public Environmental Data Partners’ inaugural story spotlighting those who use now-defunct federal environmental justice tools to serve their communities.
-
-Tools: R, Quarto, Highcharter, Flourish, JavaScript, HTML, CSS
+The inaugural story <a href="https://screening-tools.com/blog/made-possible-series" target="_blank" rel="noopener noreferrer">Made Possible</a>, a Public Environmental Data Partners series spotlighting those who use now-defunct federal environmental justice tools to serve their communities.
 ::::
 ::::::
 
@@ -53,8 +117,6 @@ Tools: R, Quarto, Highcharter, Flourish, JavaScript, HTML, CSS
 :::
 
 Using user research from the City of Saint Paul and national datasets, I analyzed racial and income inequities in access to quality green jobs across three sectors. The findings were featured on the Beeck Center's <a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/" target="_blank" rel="noopener noreferrer">website</a>, <a href="https://beeckcenter.georgetown.edu/report/2024-impact-report/present/" target="_blank" rel="noopener noreferrer">annual impact report</a> and <a href="https://fullstacksaintpaul.com/climate-resilience-requires-equitable-access-to-quality-green-jobs-saint-paul-is-making-strides/" target="_blank" rel="noopener noreferrer">Full Stack Saint Paul</a>.
-
-Tools: R, Quarto, Highcharter, Flourish, JavaScript, HTML, CSS
 ::::
 ::::::
 
@@ -70,9 +132,7 @@ Tools: R, Quarto, Highcharter, Flourish, JavaScript, HTML, CSS
      target="_blank" rel="noopener noreferrer"> The Heart of TOPCities </a>
 :::
 
-I led a multimedia story blending qualitative research, survey analysis, and community audio to show how residents and local governments co-designed digital tools to tackle blight, extreme heat, and access to household energy credits in U.S. cities.
-
-Tools: R, Highcharts, Flourish, iMovie, GarageBand
+A multimedia story that blends qualitative research, survey analysis, and community audio to show how residents and local governments co-designed digital tools to tackle blight, extreme heat, and access to household energy credits in U.S. cities.
 ::::
 ::::::
 

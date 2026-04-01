@@ -20,7 +20,7 @@ website:
     center:
       - text: "Built with <i class='bi bi-heart-fill'></i> and <img src='https://quarto.org/favicon.png' width='12'> Quarto. Source available on <a href='https://github.com/Elhamyali/elhamyali.github.io' target='_blank'><i class='bi bi-git'></i> GitHub</a>."
     left:
-      - text: "© Copyright 2024 Elham Y. Ali. All rights reserved."
+      - text: "© Copyright 2026 Elham Y. Ali. All rights reserved."
 
   navbar:
     right:

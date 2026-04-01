@@ -18,7 +18,7 @@ bibliographystyle: apa.csl
 
 -   This study is open to anyone 18 or older who works with **U.S. local governments (city, county, or township)** on parks, green spaces, climate, sustainability, or related topics.
 
--   When you participate, you’ll receive a **gift card (\$)** for completing the online survey, the virtual interview, or both (you can also choose to donate it). You’ll also get a summary of national findings you can use in your work and authorship credit in published results if you’d like.
+-   When you participate, you’ll receive a gift card (\$) for completing the online survey, the virtual interview, or both (you can also choose to donate it). You’ll also get a **summary of national findings** you can use in your work and authorship credit in published results if you’d like.
 
 ## What is this study about?
 
@@ -28,9 +28,9 @@ This study looks upstream, beyond how parks are built, to the policies, land use
 
 **Local governments are central to this work.** With control over zoning, funding, and infrastructure, they shape how communities adapt to climate risks and who benefits from those decisions.
 
-We’re exploring both sides of the story:\
+We’re exploring both sides of the story:
 
-• **Internal readiness** — how prepared local governments are to act on parks and green space equity\
+• **Internal readiness** — how prepared local governments are to act on parks and green space equity
 
 • **External pressures** — outside forces like funding, mandates, and politics that influence action
 
@@ -38,7 +38,7 @@ We’re also analyzing park and green space policies nationwide to see how equit
 
 This research is part of a **doctoral dissertation** at the [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/){target="_blank" rel="noopener noreferrer"}, led by student researcher Elham Ali, MPH, PMP, under the supervision of Jill Marsteller, PhD, MPP (IRB00034299).
 
-The [Johns Hopkins Institutional Review Board](https://www.hopkinsmedicine.org/institutional-review-board){target="_blank" rel="noopener"} has reviewed this study and determined it is **“not human subjects research”** under DHHS regulations 45 CFR 46.102. That means we’re asking about your professional perspectives of your organization, not private or personal information. Your responses will stay confidential.
+The [Johns Hopkins Institutional Review Board](https://www.hopkinsmedicine.org/institutional-review-board){target="_blank" rel="noopener"} has reviewed this study and determined it is **“not human subjects research”** under DHHS regulations 45 CFR 46.102. That means we’re asking about your professional perspectives of your organization, not private or personal information. Your responses will be **confidential and anonymous**. They will not be linked to your name, job title, or department/division.
 
 ## When is this study happening?
 
@@ -52,9 +52,9 @@ We’re looking for people who:
 
 -   Work in **a U.S. city, county, township, or consolidated government,** regardless of whether you serve urban, suburban, rural, or unincorporated communities
 
--   Work on **parks, green spaces, climate, environment, sustainability, or related topics**
+-   Work on **parks, recreation, green and open spaces, climate, environment, sustainability, or related topics**
 
-We’d love to hear from **three or more people from each organization** so we can learn from different roles and perspectives. That said, many environmental and sustainability offices doing this work are small. If you’re a **team of one**, your experience is still incredibly valuable. We want to hear from you too.
+We’d love to hear from **three or more** people per department or division to capture a range of perspectives. If your team is small, your input is still just as valuable — we encourage you to participate.
 
 ## Why should I join?
 
@@ -66,13 +66,13 @@ When you participate, you’ll:
 
 -   Receive **authorship credit** if you’d like
 
--   Get a **gift card (\$)** for completing the online survey, the virtual interview, or both. We can send gift cards digitally, by mail, or donate it to a charity of your choice
+-   Get a **gift card** for completing the online survey, the virtual interview, or both as a token of appreciation for your participation. We can send gift cards digitally, by mail, or donate it to a charity of your choice
 
 ## How can I get involved?
 
 You can participate in one or more ways:
 
-To keep the study secure, the survey and interview links need a password. Enter it if you have one, or <a href="mailto:eali6@jhu.edu?subject=Password%20Request%20for%20Johns%20Hopkins%20Study&body=Hi%20Elham%2C%0A%0AI%E2%80%99d%20like%20the%20password%20for%20the%20survey%20and%20interview%20forms.%20Here%E2%80%99s%20my%20information%20for%20verification%3A%0A-%20Government%20email%3A%20%0A-%20Department%20or%20agency%3A%20%0A%0AThank%20you%21" target="_blank" rel="noopener">**request one here**</a> using your government email and your department or agency name.
+To keep the study secure, the survey link needs a password. Enter it if you have one, or <a href="mailto:eali6@jhu.edu?subject=Password%20Request%20for%20Johns%20Hopkins%20Study%20Survey&body=Hi%20Elham%2C%0A%0AI%E2%80%99d%20like%20the%20password%20for%20the%20survey%20form.%20Here%E2%80%99s%20my%20information%20for%20verification%3A%0A-%20Government%20email%3A%20%0A-%20Department%20or%20division%3A%20%0A%0AThank%20you%21" target="_blank" rel="noopener">**request one here**</a> using your government email and your department or agency name.
 
 -   📝 **Take the online survey** (15–20 minutes)
 
@@ -91,9 +91,8 @@ To keep the study secure, the survey and interview links need a password. Enter 
 ```{=html}
 <!-- Join a Zoom Interview -->
 <div class="study-btn-wrapper">
-  <a href="https://jh.qualtrics.com/jfe/form/SV_3Dm0Zt7GZCBaMCy" rel=_blank target= noopener
-     class="study-btn">
-    Schedule an Interview
+  <a href="#" class="study-btn disabled">
+    Capacity reached for interviews
   </a>
 </div>
 ```
