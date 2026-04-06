@@ -45,23 +45,31 @@ format:
   }
 ```
 
-![](/images/home/scv2.jpg)
+![Photo by Gabby Vera for the City of Santa Clarita, taken during Community Beautification Day at Valencia Glen Park. [Read the full story](https://signalscv.com/2025/06/volunteers-and-city-make-mulch-ado-about-beautification/){target="_blank\" rel=\"noopener noreferrer"}.](/images/home/scv2.jpg)
 
-Hi! I'm Elham Ali, a researcher, storyteller, and climate justice advocate. I help local governments design solutions to community challenges, including climate action, that center people and equity. 🌿
+**10 things to know about me:**
 
-Currently, I work as a researcher at Georgetown's <a href="https://beeckcenter.georgetown.edu/person/elham-ali/" target="_blank" rel="noopener noreferrer">Beeck Center for Social Impact and Innovation</a> and am pursuing my doctorate (DrPH) in Health Equity and Social Justice at Johns Hopkins. My research focuses on what helps or prevents local governments from implementing equitable policies and systems change for nature-based solutions, specifically green spaces like parks, urban forests, and street trees. I'm also a proud <a href="https://www.cpisp.bh/" target="_blank" rel="noopener noreferrer">Crown Prince International Scholar</a> from Bahrain 🇧🇭.
+1.  I’m a third culture kid from Bahrain and the Philippines. I'm also a proud <a href="https://www.cpisp.bh/" target="_blank" rel="noopener noreferrer">Crown Prince International Scholar</a>.
 
-My career is a bit like <a href="https://www.kollectivehustle.com/blog/the-origin-of-the-halo-halo-dessert" target="_blank" rel="noopener noreferrer">halo-halo</a> 🍨, a colorful mix of experiences rooted in service. I started in microfinance and international relations in East Africa, moved into health policy and management, and have spent the past decade helping local and state governments on civic tech and public health initiatives 🏛️. I've collaborated with partners at the Inland Empire Opioid Crisis Coalition, New York State Department of Health AIDS Institute, City of Los Angeles, and more.
+2.  Writing and visualizing stories has always been part of my life. My first “book” was a picture story I made in MS Paint at 15 to teach kids Kumon math through animals.
 
-Through my previous consultancy, Jumana Design, I helped governments, nonprofits, and startups build more equitable health products and programs. Highlights include improving vaccine communication with a state board of health to build trust with residents, and supporting a \$4M federal grant to boost health literacy and vaccine uptake among pregnant Latina/e/o communities. I also advised a state health department on embedding equity-focused research practices, which led to multistate hackathons that increased employee collaboration.
+3.  I tell stories through music, too. I was a classical violinist for 14+ years and performed with Mariachi Serrano of the Claremont Colleges and Chippewa Valley Symphony Orchestra.
 
-Previously, I served as Lead Human-Centered Design Advisor at the Pima County Health Department and supported more than 13 government partners at US Digital Response during the COVID-19 pandemic.
+4.  I’m a researcher and data storyteller focused on climate justice, public health, and health equity.
 
-Outside of work, I give back to groups like Statisticians without Borders, DataKind, and Climate Action Tech, and I advocate locally in the <a href="https://www.ncsa.la/" target="_blank" rel="noopener noreferrer">Los Angeles Neighborhood Council Sustainability Alliance (LANCSA)</a> and <a href="https://signalscv.com/2025/06/volunteers-and-city-make-mulch-ado-about-beautification/" target="_blank" rel="noopener noreferrer">Santa Clarita</a> with <a href="https://citizensclimatelobby.org/" target="_blank" rel="noopener noreferrer">Citizens' Climate Lobby</a>. I love volunteering in my community, including helping out at Santa Clarita's Community Beautification Day at Valencia Glen Park, where I was honored to be quoted in a <a href="https://signalscv.com/2025/06/volunteers-and-city-make-mulch-ado-about-beautification/" target="_blank" rel="noopener noreferrer">local news story</a>.
+5.  My work has appeared in *Appetite*, *BMC Public Health*, Public Environmental Data Partners, Beeck Center for Social Impact + Innovation, and more.
 
-[![](scv_signal.png){fig-alt="Image of City of Santa Clarita's Community Beautification Day in Valencia at Valencia Glen Park on Saturday, June 28, 2025, where I volunteered alongside neighbors and was quoted in this article shown here." fig-align="center" width="544"}](https://signalscv.com/2025/06/volunteers-and-city-make-mulch-ado-about-beautification/)
+6.  I’ve spent 12+ years working with governments, startups, nonprofits, and communities to uncover insights that shape policy, shift norms, and even save lives — from COVID-19 crisis response to health literacy.
 
-I live in sunny southern California ☀️ with my partner and our two sweet kitties. 💌 I'm always happy to connect so don't hesitate to reach out!
+7.  One of those stories helped a local health department secure a \$50K grant.
+
+8.  Another helped rebuild trust across a local government's departments through human-centered design for equity practices, including a series of hackathons.
+
+9.  I’m currently writing my doctoral dissertation on parks and green space equity at Johns Hopkins University.
+
+10. My partner and I live in Southern California with our two kitties, Selena and Lilly.
+
+💌 I’m always happy to connect so don’t hesitate to reach out.
 
 <!-- Accessibility widget script -->
 

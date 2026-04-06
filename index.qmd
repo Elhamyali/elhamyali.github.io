@@ -26,14 +26,12 @@ I lead end-to-end data storytelling — from sourcing and reporting to data coll
 
 :::::: grid
 ::: {.g-col-12 .g-col-md-4}
-`<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-3/#it-takes-a-village"
-   target="_blank" rel="noopener noreferrer">`{=html} <img src="/images/featured/data-labs.jpeg" alt="Data Labs feature story" style="max-width:100%; height:auto;"/> </a>
+<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-3/#it-takes-a-village"    target="_blank" rel="noopener noreferrer"> <img src="/images/featured/data-labs.jpeg" alt="Data Labs feature story" style="max-width:100%; height:auto;"/> </a>
 :::
 
 :::: {.g-col-12 .g-col-md-8}
 ::: story-title
-`<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-3/#it-takes-a-village"
-     target="_blank" rel="noopener noreferrer">`{=html} “It Takes a Village”: Counted, Connected, and Cared For</a>
+<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-3/#it-takes-a-village"      target="_blank" rel="noopener noreferrer"> “It Takes a Village”: Counted, Connected, and Cared For</a>
 :::
 
 Inside Arizona’s effort to link health and homelessness data through the Beeck Center’s award-winning Data Labs program.
@@ -42,14 +40,12 @@ Inside Arizona’s effort to link health and homelessness data through the Beeck
 
 :::::: grid
 ::: {.g-col-12 .g-col-md-4}
-`<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-2/#family-health-by-design"
-   target="_blank" rel="noopener noreferrer">`{=html} <img src="/images/featured/fbl.jpg" alt="Family Benefits Labs feature story" style="max-width:100%; height:auto;"/> </a>
+<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-2/#family-health-by-design"    target="_blank" rel="noopener noreferrer"> <img src="/images/featured/fbl.jpg" alt="Family Benefits Labs feature story" style="max-width:100%; height:auto;"/> </a>
 :::
 
 :::: {.g-col-12 .g-col-md-8}
 ::: story-title
-`<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-2/#family-health-by-design"
-     target="_blank" rel="noopener noreferrer">`{=html} Family Health, by Design</a>
+<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-2/#family-health-by-design"      target="_blank" rel="noopener noreferrer"> Family Health, by Design</a>
 :::
 
 How fragmented public systems shape the well-being of young families in California and what it would take to design them to actually work together.
@@ -58,14 +54,12 @@ How fragmented public systems shape the well-being of young families in Californ
 
 :::::: grid
 ::: {.g-col-12 .g-col-md-4}
-`<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-1/#a-place-to-land"
-   target="_blank" rel="noopener noreferrer">`{=html} <img src="/images/featured/dbn1.jpg" alt="Digital Benefits Network feature story" style="max-width:100%; height:auto;"/> </a>
+<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-1/#a-place-to-land"    target="_blank" rel="noopener noreferrer"> <img src="/images/featured/dbn1.jpg" alt="Digital Benefits Network feature story" style="max-width:100%; height:auto;"/> </a>
 :::
 
 :::: {.g-col-12 .g-col-md-8}
 ::: story-title
-`<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-1/#a-place-to-land"
-     target="_blank" rel="noopener noreferrer">`{=html}A Place to Land</a>
+<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-1/#a-place-to-land"      target="_blank" rel="noopener noreferrer">A Place to Land</a>
 :::
 
 How connecting the right people turns research into action, advancing more accessible public benefits through the Beeck Center’s Digital Benefits Network.
@@ -74,14 +68,12 @@ How connecting the right people turns research into action, advancing more acces
 
 :::::: grid
 ::: {.g-col-12 .g-col-md-4}
-`<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-1/#building-government-services"
-   target="_blank" rel="noopener noreferrer">`{=html} <img src="/images/featured/dsn.jpg" alt="Digital Service Network feature story" style="max-width:100%; height:auto;"/> </a>
+<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-1/#building-government-services"    target="_blank" rel="noopener noreferrer"> <img src="/images/featured/dsn.jpg" alt="Digital Service Network feature story" style="max-width:100%; height:auto;"/> </a>
 :::
 
 :::: {.g-col-12 .g-col-md-8}
 ::: story-title
-`<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-1/#building-government-services"
-     target="_blank" rel="noopener noreferrer">`{=html}Building Government Services is a Team Sport</a>
+<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-1/#building-government-services"      target="_blank" rel="noopener noreferrer">Building Government Services is a Team Sport</a>
 :::
 
 A window into the people behind digital government — following one practitioner’s experience navigating collaboration, constraints, and impact through the Digital Government Network.
