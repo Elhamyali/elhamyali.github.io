@@ -1,6 +1,6 @@
 ---
 title: "About"
-subtitle: "“A walk in nature, walks the soul back home.” – Mary Davis"
+subtitle: "Mixed-methods researcher and data storyteller in climate resilience, public health, health equity, and civic tech."
 about:
   template: marquee
   links:
@@ -51,19 +51,19 @@ format:
 
 1.  I’m a [third culture kid](#0){target="_blank\" rel=\"noopener noreferrer"} from Bahrain and the Philippines. I'm also a Crown Prince International scholar.
 
-2.  Writing and visualizing stories has always been part of my life. My first “book” was a picture story I created in MS Paint at 15, teaching kids math through animals on a journey.
+2.  Writing and visualizing stories has always been part of my life. At 15, I made my first picture “book” in MS Paint — animals on a journey teaching kids math.
 
 3.  I tell stories through music, too. I was a classical violinist for 14+ years and performed with Mariachi Serrano of the Claremont Colleges and the Chippewa Valley Symphony Orchestra.
 
-4.  I’m a researcher and data storyteller focused on climate justice, public health, and health equity.
+4.  I worked as an EMT and a project manager before stepping into research and data storytelling,
 
-5.  My work has appeared in *Appetite*, *BMC Public Health*, Public Environmental Data Partners, Beeck Center for Social Impact + Innovation, and more.
+5.  My work has appeared in *Appetite*, *BMC Public Health*, Public Environmental Data Partners, the Beeck Center for Social Impact + Innovation, and more.
 
-6.  I’ve spent 12+ years working with governments, startups, nonprofits, and communities to uncover insights — from COVID-19 crisis response to health literacy—that shape policy, shift norms, and even save lives.
+6.  I’ve spent 12+ years working with governments, startups, nonprofits, and communities on everything — from COVID-19 response and vaccinations to substance use, caregiving, housing insecurity, climate resilience, and even deep brain stimulation — uncovering insights that shape policy, shift norms, and save lives.
 
 7.  One of those stories helped a local health department secure a \$50K grant.
 
-8.  Another helped rebuild trust across a local government's departments through human-centered design for equity practices, including a series of hackathons.
+8.  Another helped rebuild trust across local government departments through human-centered design for equity practices, including a series of hackathons.
 
 9.  I’m currently writing my doctoral dissertation on parks and green space equity at Johns Hopkins University.
 
