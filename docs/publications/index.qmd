@@ -19,9 +19,11 @@ Ackerman, A., Nigon, B., Wait, A., **Ali, E.**, Wilkinson-Lee, A. M., Cohen, A.,
 
 ## News and Magazine Articles
 
-**Ali, E.** (2026, April 1). *“It Takes a Village”: Counted, Connected, and Cared For*. 2025 Impact Report; Beeck Center. <https://beeckcenter.georgetown.edu/report/2025-impact-report/section-3/#it-takes-a-village>
+Opalsky, A., & **Ali, E.** (2026, April 21). *Beeck’s Accessibility Jam Draws 700+ Government Leaders*. Digital Government Hub. [https://digitalgovernmenthub.org/publications/beecks-accessibility-jam-draws-700-government-leaders/](https://digitalgovernmenthub.org/publications/beecks-accessibility-jam-draws-700-government-leaders/){target="_blank" rel="noopener noreferrer"}
 
-**Ali, E.** (2026, April 1). *Family Health, by Design*. 2025 Impact Report; Beeck Center. <https://beeckcenter.georgetown.edu/report/2025-impact-report/section-2/#family-health-by-design>
+**Ali, E.** (2026, April 1). *“It Takes a Village”: Counted, Connected, and Cared For*. 2025 Impact Report; Beeck Center. [https://beeckcenter.georgetown.edu/report/2025-impact-report/section-3/#it-takes-a-village](https://beeckcenter.georgetown.edu/report/2025-impact-report/section-3/#it-takes-a-village){.uri target="_blank rel=noopener noreferrer"}
+
+**Ali, E.** (2026, April 1). *Family Health, by Design*. 2025 Impact Report; Beeck Center. [https://beeckcenter.georgetown.edu/report/2025-impact-report/section-2/#family-health-by-design](https://beeckcenter.georgetown.edu/report/2025-impact-report/section-2/#family-health-by-design){.uri target="_blank rel=noopener noreferrer"}
 
 **Ali, E.** (2026, April 1). *A Place to Land*. 2025 Impact Report; Beeck Center. <https://beeckcenter.georgetown.edu/report/2025-impact-report/section-1/#a-place-to-land>
 
@@ -74,6 +76,12 @@ Food+Planet, **Ali, E.**, Harding, J., & Occhetta, A. (2023). Food + Planet and 
 **Ali, E.** (2011). The Greatest Election that Isn't. Loomis Chaffee World Bulletin Winter 2011. <https://issuu.com/loomischaffee/docs/lc_world_bulletin_winter_2011>
 
 **Ali, E.** (2011). A Letter to the Crown Prince of Bahrain . Loomis Chaffee World Bulletin Spring 2011. <https://issuu.com/loomischaffee/docs/lc_world_bulletin_spring_2011>
+
+## Playbooks and Guides
+
+Annam, V., Yoder, I., Hall, W., **Ali, E.**, & Meade-Smith, R. (2026, April 17). *State Chief Data Officer Archetypes: The Evolving Roles and Capabilities of CDO Offices*. Digital Government Hub. [https://digitalgovernmenthub.org/publications/state-chief-data-officer-archetypes-the-evolving-roles-and-capabilities-of-cdo-offices/](https://digitalgovernmenthub.org/publications/state-chief-data-officer-archetypes-the-evolving-roles-and-capabilities-of-cdo-offices/){target="_blank rel=noopener noreferrer"}
+
+Ali, E., Nagao-Peck, H., Flores, M., Overgoor, J., De Rutte, D., Stakelon, J., Lee, M., Strickland, J., O’Rorke, M., & Prescott, J. (2021, April). *COVID-19 Communication Toolkit: A Health Equity Lens*. COVID-19 Communication Toolkit. [https://usdr.gitbook.io/covid-communication-toolkit-health-equity](https://usdr.gitbook.io/covid-communication-toolkit-health-equity){target="_blank rel=noopener noreferrer"}
 
 ## Opinion Editorials
 

@@ -17,3 +17,4 @@ static/etc/*
 .httr-oauth
 
 .DS_Store
+.positai
