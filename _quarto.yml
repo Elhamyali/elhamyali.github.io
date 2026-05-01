@@ -11,6 +11,12 @@ website:
   site-url: https://www.elhamyali.com
   repo-url: https://github.com/Elhamyali/elhamyali.github.io
   back-to-top-navigation: true
+  announcement: 
+    icon: info-square-fill
+    dismissable: true
+    content: "Read about my <a href='https://www.elhamyali.com/johns-hopkins-study/' target='_blank' rel='_noopener noreferrer'>national research study</a> on helping local government teams deliver equitable parks and recreation, featured in <a href='https://elgl.org/working-on-parks-or-green-spaces-in-local-government-this-national-study-wants-your-perspective/' target='_blank' rel='_noopener noreferrer'>Engaging Local Government Leaders (ELGL)</a>."
+    type: primary
+    position: below-navbar
     
   open-graph:
     locale: es_ES

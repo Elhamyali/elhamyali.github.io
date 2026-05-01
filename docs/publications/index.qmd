@@ -79,9 +79,13 @@ Food+Planet, **Ali, E.**, Harding, J., & Occhetta, A. (2023). Food + Planet and 
 
 ## Playbooks and Guides
 
+Pulawski, C., Meade Smith, R., **Ali, E.**, & Goodman, J. (2026, April 30). *Digital Service Teams 101: A Guide for State and Local Governments*. Digital Government Hub. [https://digitalgovernmenthub.org/publications/digital-service-teams-101-a-guide-for-state-and-local-governments/](#0){target="_blank rel=noopener noreferrer"}
+
 Annam, V., Yoder, I., Hall, W., **Ali, E.**, & Meade-Smith, R. (2026, April 17). *State Chief Data Officer Archetypes: The Evolving Roles and Capabilities of CDO Offices*. Digital Government Hub. [https://digitalgovernmenthub.org/publications/state-chief-data-officer-archetypes-the-evolving-roles-and-capabilities-of-cdo-offices/](https://digitalgovernmenthub.org/publications/state-chief-data-officer-archetypes-the-evolving-roles-and-capabilities-of-cdo-offices/){target="_blank rel=noopener noreferrer"}
 
-Ali, E., Nagao-Peck, H., Flores, M., Overgoor, J., De Rutte, D., Stakelon, J., Lee, M., Strickland, J., O’Rorke, M., & Prescott, J. (2021, April). *COVID-19 Communication Toolkit: A Health Equity Lens*. COVID-19 Communication Toolkit. [https://usdr.gitbook.io/covid-communication-toolkit-health-equity](https://usdr.gitbook.io/covid-communication-toolkit-health-equity){target="_blank rel=noopener noreferrer"}
+**Ali, E.** (2024, December). *The Opportunity Project for Cities Resource Library*. Notion & Beeck Center for Social Impact and Innovation. <https://topcities.notion.site/>
+
+**Ali, E.**, Nagao-Peck, H., Flores, M., Overgoor, J., De Rutte, D., Stakelon, J., Lee, M., Strickland, J., O’Rorke, M., & Prescott, J. (2021, April). *COVID-19 Communication Toolkit: A Health Equity Lens*. COVID-19 Communication Toolkit. [https://usdr.gitbook.io/covid-communication-toolkit-health-equity](https://usdr.gitbook.io/covid-communication-toolkit-health-equity){target="_blank rel=noopener noreferrer"}
 
 ## Opinion Editorials
 
@@ -130,12 +134,6 @@ Ackerman, A., **Ali, E.,** & Wait, A. (2024, December 13). *From Practice to Pol
 **Ali, E.** (2020). How to Craft a Meaningful Professional Development Plan. TechLadies. <https://www.eventbrite.com/e/webinar-how-to-craft-a-meaningful-professional-development-plan-tickets-108491278334>
 
 **Ali, E.** (2019). 5 Project Management Hacks. TechLadies. <https://www.eventbrite.com/e/webinar-5-project-management-hacks-tickets-65445231449>
-
-## Toolkits
-
-**Ali, E.** & Beeck Center for Social Impact and Innovation. (2024, December). *The Opportunity Project for Cities Resource Library*. Notion. <https://topcities.notion.site/>
-
-**Ali, E.**, & Nagao-Peck, H. (2021). COVID-19 Communication Toolkit: A Health Equity Lens. U.S. Digital Response. <https://www.usdigitalresponse.org/our-projects/covid-communications-toolkit/>
 
 ## Theses
 
