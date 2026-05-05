@@ -12,13 +12,17 @@ bibliographystyle: apa.csl
 
 ![](/images/johns-hopkins-study/parks3.png){fig-alt="Parks with a carved path that has trees surrounded around it"}
 
+::: callout-important
+## Update: Survey participation extended to May 31, 2026. We’re still looking to hear from parks and recreation teams across the U.S. so the results are more representative and useful for departments like yours.
+:::
+
 ## Key points
 
--   Join a **national Johns Hopkins study** anytime by **May 8, 2026** to share your professional insights on how your local government plans and delivers **equitable parks and green spaces**. You can take part by completing an online survey and/or joining a virtual interview.
+- Join a **national Johns Hopkins study** anytime by **May 8, 2026** to share your professional insights on how your local government plans and delivers **equitable parks and green spaces**. You can take part by completing an online survey and/or joining a virtual interview.
 
--   This study is open to anyone 18 or older who works with **U.S. local governments (city, county, or township)** on parks, green spaces, climate, sustainability, or related topics.
+- This study is open to anyone 18 or older who works with **U.S. local governments (city, county, or township)** on parks, green spaces, climate, sustainability, or related topics.
 
--   When you participate, you’ll receive a gift card (\$) for completing the online survey, the virtual interview, or both (you can also choose to donate it). You’ll also get a **summary of national findings** you can use in your work and authorship credit in published results if you’d like.
+- When you participate, you’ll receive a gift card (\$) for completing the online survey, the virtual interview, or both (you can also choose to donate it). You’ll also get a **summary of national findings** you can use in your work and authorship credit in published results if you’d like.
 
 ## What is this study about?
 
@@ -48,11 +52,11 @@ You can join the study at any time by **May 8, 2026** and participate once or in
 
 We’re looking for people who:
 
--   Are **18 or older**
+- Are **18 or older**
 
--   Work in **a U.S. city, county, township, or consolidated government,** regardless of whether you serve urban, suburban, rural, or unincorporated communities
+- Work in **a U.S. city, county, township, or consolidated government,** regardless of whether you serve urban, suburban, rural, or unincorporated communities
 
--   Work on **parks, recreation, green and open spaces, climate, environment, sustainability, or related topics**
+- Work on **parks, recreation, green and open spaces, climate, environment, sustainability, or related topics**
 
 We’d love to hear from **three or more** people per department or division to capture a range of perspectives. If your team is small, your input is still just as valuable — we encourage you to participate.
 
@@ -60,13 +64,13 @@ We’d love to hear from **three or more** people per department or division to 
 
 When you participate, you’ll:
 
--   Share what **your local government needs** to make parks and green space equity possible
+- Share what **your local government needs** to make parks and green space equity possible
 
--   Receive a **summary of the national findings** you can use in your work to benchmark readiness and progress
+- Receive a **summary of the national findings** you can use in your work to benchmark readiness and progress
 
--   Receive **authorship credit** if you’d like
+- Receive **authorship credit** if you’d like
 
--   Get a **gift card** for completing the online survey, the virtual interview, or both as a token of appreciation for your participation. We can send gift cards digitally, by mail, or donate it to a charity of your choice
+- Get a **gift card** for completing the online survey, the virtual interview, or both as a token of appreciation for your participation. We can send gift cards digitally, by mail, or donate it to a charity of your choice
 
 ## How can I get involved?
 
@@ -74,7 +78,7 @@ You can participate in one or more ways:
 
 To keep the study secure, the survey link needs a password. Enter it if you have one, or <a href="mailto:eali6@jhu.edu?subject=Password%20Request%20for%20Johns%20Hopkins%20Study%20Survey&body=Hi%20Elham%2C%0A%0AI%E2%80%99d%20like%20the%20password%20for%20the%20survey%20form.%20Here%E2%80%99s%20my%20information%20for%20verification%3A%0A-%20Government%20email%3A%20%0A-%20Department%20or%20division%3A%20%0A%0AThank%20you%21" target="_blank" rel="noopener">**request one here**</a> using your government email and your department or agency name.
 
--   📝 **Take the online survey** (15–20 minutes)
+- 📝 **Take the online survey** (15–20 minutes)
 
 ```{=html}
 <!-- Take the Survey -->
@@ -86,7 +90,7 @@ To keep the study secure, the survey link needs a password. Enter it if you have
 </div>
 ```
 
--   💬 **Join a Zoom interview** (30–45 minutes)
+- 💬 **Join a Zoom interview** (30–45 minutes)
 
 ```{=html}
 <!-- Join a Zoom Interview -->
@@ -97,7 +101,7 @@ To keep the study secure, the survey link needs a password. Enter it if you have
 </div>
 ```
 
--   🤝 **Recommend colleagues** who might want to take part by emailing Elham Ali at [eali6\@jhu.edu](mailto:eali6@jhu.edu).
+- 🤝 **Recommend colleagues** who might want to take part by emailing Elham Ali at [eali6\@jhu.edu](mailto:eali6@jhu.edu).
 
 ```{=html}
 <!-- Recommend a Colleague -->
@@ -109,7 +113,7 @@ To keep the study secure, the survey link needs a password. Enter it if you have
 </div>
 ```
 
--   📣 **Share this study webpage** with your networks
+- 📣 **Share this study webpage** with your networks
 
 ```{=html}
 <!-- Share This Study -->
