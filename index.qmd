@@ -26,6 +26,20 @@ I lead end-to-end data storytelling — from sourcing and reporting to data coll
 
 :::::: grid
 ::: {.g-col-12 .g-col-md-4}
+<a href="https://digitalgovernmenthub.org/publications/you-didnt-understand-what-they-meant-the-hidden-barrier-of-cognitive-accessibility/"    target="_blank" rel="noopener noreferrer"> <img src="/images/featured/1_story_RuaWilliams.jpg" alt="Picture of Rua M. Williams" style="max-width:100%; height:auto;"/> </a>
+:::
+
+:::: {.g-col-12 .g-col-md-8}
+::: story-title
+<a href="https://digitalgovernmenthub.org/publications/you-didnt-understand-what-they-meant-the-hidden-barrier-of-cognitive-accessibility/" target="_blank" rel="noopener noreferrer">“You Didn’t Understand What They Meant”: The Hidden Barrier of Cognitive Accessibility</a>
+:::
+
+This is the first story in a series about how digital government accessibility — or the lack thereof — shows up in everyday life, viewed through the lens of the <a href="https://www.ada.gov/resources/2024-03-08-web-rule/" target="_blank" rel="noopener noreferrer">Department of Justice’s Title II accessibility ruling</a>.
+::::
+::::::
+
+:::::: grid
+::: {.g-col-12 .g-col-md-4}
 <a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-3/#it-takes-a-village"    target="_blank" rel="noopener noreferrer"> <img src="/images/featured/data-labs.jpeg" alt="Data Labs feature story" style="max-width:100%; height:auto;"/> </a>
 :::
 
@@ -54,34 +68,6 @@ How fragmented public systems shape the well-being of young families in Californ
 
 :::::: grid
 ::: {.g-col-12 .g-col-md-4}
-<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-1/#a-place-to-land"    target="_blank" rel="noopener noreferrer"> <img src="/images/featured/dbn1.jpg" alt="Digital Benefits Network feature story" style="max-width:100%; height:auto;"/> </a>
-:::
-
-:::: {.g-col-12 .g-col-md-8}
-::: story-title
-<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-1/#a-place-to-land"      target="_blank" rel="noopener noreferrer">A Place to Land</a>
-:::
-
-How connecting the right people turns research into action, advancing more accessible public benefits through the Beeck Center’s Digital Benefits Network.
-::::
-::::::
-
-:::::: grid
-::: {.g-col-12 .g-col-md-4}
-<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-1/#building-government-services"    target="_blank" rel="noopener noreferrer"> <img src="/images/featured/dsn.jpg" alt="Digital Service Network feature story" style="max-width:100%; height:auto;"/> </a>
-:::
-
-:::: {.g-col-12 .g-col-md-8}
-::: story-title
-<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-1/#building-government-services"      target="_blank" rel="noopener noreferrer">Building Government Services is a Team Sport</a>
-:::
-
-A window into the people behind digital government — following one practitioner’s experience navigating collaboration, constraints, and impact through the Digital Government Network.
-::::
-::::::
-
-:::::: grid
-::: {.g-col-12 .g-col-md-4}
 <a href="https://screening-tools.com/blog/pedp-environmental-justice-data-tools-story"
    target="_blank" rel="noopener noreferrer"> <img src="/images/featured/pedp.jpg" alt="Public Environmental Data Partners story" style="max-width:100%; height:auto;"/> </a>
 :::
@@ -92,7 +78,7 @@ A window into the people behind digital government — following one practitione
      target="_blank" rel="noopener noreferrer"> 2,212 studies used disappearing federal climate justice tools. We analyzed them all.</a>
 :::
 
-The inaugural story <a href="https://screening-tools.com/blog/made-possible-series" target="_blank" rel="noopener noreferrer">Made Possible</a>, a Public Environmental Data Partners series spotlighting those who use now-defunct federal environmental justice tools to serve their communities.
+The inaugural story of <a href="https://screening-tools.com/blog/made-possible-series" target="_blank" rel="noopener noreferrer">Made Possible</a>, a Public Environmental Data Partners series spotlighting those who use now-defunct federal environmental justice tools to serve their communities.
 ::::
 ::::::
 

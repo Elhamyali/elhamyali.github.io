@@ -15,9 +15,11 @@ Ackerman, A., **Ali, E.**, Wait, A., Martinez, H., Fabricant, R., Gonzalez, A., 
 
 Wolfson, J. A., Altema-Johnson, D., Yett, A., **Ali, E.**, Kim, B., Carr, N., Santo, R., Cho, C., Browning, G., & Ramsing, R. (2025). Climate change menu labels in a university cafeteria: effects on student's diets, perceptions, and attitudes. *Appetite*, *211*, 108001. [https://doi.org/10.1016/j.appet.2025.108001](https://doi.org/10.1016/j.appet.2025.108001){.uri target="_blank" rel="noopener noreferrer"}
 
-Ackerman, A., Nigon, B., Wait, A., **Ali, E.**, Wilkinson-Lee, A. M., Cohen, A., Jones, M., Cortez, I. G., Kelly, K., Fabricant, R., Serrano-Feliciano, J., Stanowski, J., & Cullen, T. (2025). Using human-centered design to advance health literacy in local health department programming: a case study. *BMC Public Health*, *25*(1), 1--16. [https://doi.org/10.1186/s12889-025-](https://doi.org/10.1186/s12889-025-22491-z){.uri target="_blank" rel="noopener noreferrer"}[22491](https://doi.org/10.1186/s12889-025-22491-z){.uri target="_blank" rel="noopener noreferrer"}[-z](https://doi.org/10.1186/s12889-025-22491-z){.uri target="_blank" rel="noopener noreferrer"}
+Ackerman, A., Nigon, B., Wait, A., **Ali, E.**, Wilkinson-Lee, A. M., Cohen, A., Jones, M., Cortez, I. G., Kelly, K., Fabricant, R., Serrano-Feliciano, J., Stanowski, J., & Cullen, T. (2025). Using human-centered design to advance health literacy in local health department programming: a case study. *BMC Public Health*, *25*(1), 1--16. [https://doi.org/10.1186/s12889-025-22491-z](https://doi.org/10.1186/s12889-025-22491-z){.uri target="_blank" rel="noopener noreferrer"}
 
-## News and Magazine Articles
+## News, Data and Feature Stories
+
+**Ali, E.** (2026, June 15). *“You Didn’t Understand What They Meant”: The Hidden Barrier of Cognitive Accessibility*. Digital Government Hub. [https://digitalgovernmenthub.org/publications/you-didnt-understand-what-they-meant-the-hidden-barrier-of-cognitive-accessibility/](https://digitalgovernmenthub.org/publications/you-didnt-understand-what-they-meant-the-hidden-barrier-of-cognitive-accessibility/){target="_blank" rel="noopener noreferrer"}
 
 Opalsky, A., & **Ali, E.** (2026, April 21). *Beeck’s Accessibility Jam Draws 700+ Government Leaders*. Digital Government Hub. [https://digitalgovernmenthub.org/publications/beecks-accessibility-jam-draws-700-government-leaders/](https://digitalgovernmenthub.org/publications/beecks-accessibility-jam-draws-700-government-leaders/){target="_blank" rel="noopener noreferrer"}
 
