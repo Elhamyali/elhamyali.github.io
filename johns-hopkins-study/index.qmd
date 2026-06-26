@@ -12,10 +12,6 @@ bibliographystyle: apa.csl
 
 ![](/images/johns-hopkins-study/parks3.png){fig-alt="Parks with a carved path that has trees surrounded around it"}
 
-::: callout-important
-## Update: Survey participation extended to May 31, 2026. We’re still looking to hear from parks and recreation teams across the U.S. so the results are more representative and useful for departments like yours.
-:::
-
 ## Key points
 
 - Join a **national Johns Hopkins study** anytime by **May 8, 2026** to share your professional insights on how your local government plans and delivers **equitable parks and green spaces**. You can take part by completing an online survey and/or joining a virtual interview.
