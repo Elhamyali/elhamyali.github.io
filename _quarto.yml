@@ -36,6 +36,9 @@ website:
         text: Johns Hopkins Study       
       - href: publications/index.qmd
         text: Publications
+      - href: https://www.elhamyali.com/love-earth
+        text: Love, Earth   
+        target: "_blank"
       - href: data-viz/index.qmd
         text: Data Viz
       - href: blog/index.qmd
