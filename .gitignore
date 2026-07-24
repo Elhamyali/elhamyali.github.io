@@ -6,15 +6,20 @@
 
 # Quarto stuff
 /.quarto/
-_site/
+/_site/
 **/*_cache/*
+
+# Local environments and editor state
+/.venv/
+/.Rproj.user/
+/.positai/
+
+# Operating-system files
+.DS_Store
+**/.DS_Store
 
 # Miscellaneous stuff
 design-assets/*
 static/etc/*
-.DS_Store
 /.luarc.json
 .httr-oauth
-
-.DS_Store
-.positai

@@ -4,10 +4,6 @@ toc: false
 css: styles.css
 ---
 
-```{r}
-#| echo: FALSE
-```
-
 <p class="description">
 
 Pronounced <a href="https://www.name-coach.com/elhamyali" target="_blank">ill-huhm</a> (she/ella/هي)
@@ -20,208 +16,58 @@ My work sits at the intersection of climate justice, health equity, and human-ce
 
 Here's a sample of my work.
 
-## Select Stories
+## Stories & Data Visualizations
 
-I lead end-to-end data storytelling — from sourcing and reporting to data collection, analysis, visualization, and building interactive stories — then partner with communications and PR teams to bring them to wider audiences.
+I lead end-to-end data storytelling, transforming raw data into stories people can step into—helping them see a piece of their own world in the data and making complex information feel intuitive, immersive, and human. From reporting and analysis to interactive visualization, I partner with design, research, engineering, communications, and PR teams to reach broader audiences.
 
-:::::: grid
-::: {.g-col-12 .g-col-md-4}
-<a href="https://digitalgovernmenthub.org/publications/you-didnt-understand-what-they-meant-the-hidden-barrier-of-cognitive-accessibility/"    target="_blank" rel="noopener noreferrer"> <img src="/images/featured/1_story_RuaWilliams.jpg" alt="Picture of Rua M. Williams" style="max-width:100%; height:auto;"/> </a>
+I specialize in bespoke static, interactive, and scrollytelling experiences built with R, D3.js, Svelte, Highcharts, Flourish, QGIS, and HTML/CSS/JavaScript.
+
+::: story-grid
+<a class="story-card" href="https://www.elhamyali.com/when-home-moves-pacific/" target="_blank" rel="noopener noreferrer" aria-label="Read When Home Moves (opens in a new tab)"> [<video autoplay loop muted playsinline preload="metadata" aria-label="An interactive map showing the total number of people affected by disasters in the Pacific"><source src="/images/featured/when_home_moves.mp4" type="video/mp4">Your browser does not support this video.</video>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [When Home Moves]{.story-card__title} [When home is erased, where do you go? This interactive data essay traces a journey across the Pacific, charting how climate disasters trigger mass internal displacement, fuel public health crises, and drive frontline communities to engineer innovative climate adaptation solutions.]{.story-card__description} [Svelte]{.tool-badge .tool-badge--svelte} [D3.js]{.tool-badge .tool-badge--d3} [R]{.tool-badge .tool-badge--R} </a>
+
+<a class="story-card" href="- https://www.elhamyali.com/love-earth" target="_blank" rel="noopener noreferrer" aria-label="Love, Earth (opens in a new tab)"> [<img src="/images/featured/love_earth.png" alt="First postcard in the Love, Earth series" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [Love, Earth]{.story-card__title} [A microfiction and data visualization postcard series, where each postcard pairs an interactive chart with a short fictional story, both grounded in research on real climate solutions. The series invites readers to imagine a more hopeful climate future.]{.story-card__description} [Svelte]{.tool-badge .tool-badge--svelte} [D3.js]{.tool-badge .tool-badge--d3} [rough.js]{.tool-badge .tool-badge--rough} [R]{.tool-badge .tool-badge--R}</a>
+
+<a class="story-card" href="https://screening-tools.com/blog/pedp-environmental-justice-data-tools-story" target="_blank" rel="noopener noreferrer" aria-label="Read 2,212 studies used disappearing federal climate justice tools. We analyzed them all. (opens in a new tab)"> [<img src="/images/featured/pedp.jpg" alt="Public Environmental Data Partners climate justice data story" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [2,212 studies used disappearing federal climate justice tools. We analyzed them all.]{.story-card__title} [An investigation into how researchers use now-defunct federal environmental justice tools to serve communities.]{.story-card__description} [R]{.tool-badge .tool-badge--r} [Highcharts]{.tool-badge .tool-badge--highcharts} [Flourish]{.tool-badge .tool-badge--flourish} [JavaScript]{.tool-badge .tool-badge--javascript} </a>
+
+<a class="story-card" href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/" target="_blank" rel="noopener noreferrer" aria-label="Read Climate resilience requires equitable access to quality green jobs. Saint Paul is making strides (opens in a new tab)"> [<img src="/images/featured/saint_paul_story_2.gif" alt="Animated preview of the Saint Paul green jobs data story" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [Climate resilience requires equitable access to quality green jobs. Saint Paul is making strides.]{.story-card__title} [An analysis of racial and income inequities in access to quality green jobs across three sectors in Saint Paul.]{.story-card__description} [R]{.tool-badge .tool-badge--r} [Highcharts]{.tool-badge .tool-badge--highcharts} [Flourish]{.tool-badge .tool-badge--flourish} [JavaScript]{.tool-badge .tool-badge--javascript} </a>
+
+<a class="story-card" href="https://digitalgovernmenthub.org/publications/the-state-of-state-digital-transformation/" target="_blank" rel="noopener noreferrer" aria-label="Read The State of State Digital Transformation (opens in a new tab)"> [<img src="/images/featured/state_of_states.png" alt="Interactive map of the state of state digital transformation" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [The State of State Digital Transformation]{.story-card__title} [An interactive map and landscape research into how states are modernizing government operations and services.]{.story-card__description} [Moustache]{.tool-badge .tool-badge--moustache} [QGIS]{.tool-badge .tool-badge--qgis} [Flourish]{.tool-badge .tool-badge--flourish} </a>
+
+<a class="story-card" href="https://beeckcenter.georgetown.edu/responding-to-the-needs-of-student-parents-in-maryland/" target="_blank" rel="noopener noreferrer" aria-label="Read Responding to the Needs of Student Parents in Maryland (opens in a new tab)"> [<img src="/images/featured/student_parents.avif" alt="A dedicated study room for student parent scholars at Howard Community College in Maryland" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [Responding to the Needs of Student Parents in Maryland]{.story-card__title} [How to build stronger systems that support their educational, career, and caregiving goals.]{.story-card__description} [Moustache]{.tool-badge .tool-badge--moustache} [Flourish]{.tool-badge .tool-badge--flourish} </a>
+
+<a class="story-card" href="https://digitalgovernmenthub.org/publications/you-didnt-understand-what-they-meant-the-hidden-barrier-of-cognitive-accessibility/" target="_blank" rel="noopener noreferrer" aria-label="Read You Didn’t Understand What They Meant: The Hidden Barrier of Cognitive Accessibility (opens in a new tab)"> [<img src="/images/featured/1_story_RuaWilliams.jpg" alt="Rua M. Williams speaking during an interview" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [“You Didn’t Understand What They Meant”: The Hidden Barrier of Cognitive Accessibility]{.story-card__title} [How digital government accessibility — or the lack of it — shows up in everyday life through the lens of the Department of Justice’s Title II ruling.]{.story-card__description} [Flourish]{.tool-badge .tool-badge--flourish} [JavaScript]{.tool-badge .tool-badge--javascript} </a>
+
+<a class="story-card" href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-3/#it-takes-a-village" target="_blank" rel="noopener noreferrer" aria-label="Read It Takes a Village: Counted, Connected, and Cared For (opens in a new tab)"> [<img src="/images/featured/data-labs.jpeg" alt="Data Labs feature story about linking health and homelessness data" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [“It Takes a Village”: Counted, Connected, and Cared For]{.story-card__title} [Inside Arizona’s effort to link health and homelessness data through the Beeck Center’s award-winning Data Labs program.]{.story-card__description} [Flourish]{.tool-badge .tool-badge--flourish} [JavaScript]{.tool-badge .tool-badge--javascript} </a>
+
+<a class="story-card" href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-2/#family-health-by-design" target="_blank" rel="noopener noreferrer" aria-label="Read Family Health, by Design (opens in a new tab)"> [<img src="/images/featured/fbl.jpg" alt="Family Benefits Lab feature story" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [Family Health, by Design]{.story-card__title} [How fragmented public systems shape young families’ well-being in California — and what it would take to design them to work together.]{.story-card__description} [Highcharts]{.tool-badge .tool-badge--highcharts} [Flourish]{.tool-badge .tool-badge--flourish} </a>
+
+<a class="story-card" href="https://beeckcenter.georgetown.edu/the-heart-of-topcities/" target="_blank" rel="noopener noreferrer" aria-label="Read The Heart of TOPCities (opens in a new tab)"> [<img src="/images/featured/heart_topcities_2.png" alt="Preview of The Heart of TOPCities multimedia story" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [The Heart of TOPCities]{.story-card__title} [A multimedia story blending qualitative research, survey analysis, and community audio to show how residents co-designed local digital tools.]{.story-card__description} [R]{.tool-badge .tool-badge--r} [Highcharts]{.tool-badge .tool-badge--highcharts} [Flourish]{.tool-badge .tool-badge--flourish} </a>
 :::
 
-:::: {.g-col-12 .g-col-md-8}
-::: story-title
-<a href="https://digitalgovernmenthub.org/publications/you-didnt-understand-what-they-meant-the-hidden-barrier-of-cognitive-accessibility/" target="_blank" rel="noopener noreferrer">“You Didn’t Understand What They Meant”: The Hidden Barrier of Cognitive Accessibility</a>
+## Research & Human-centered Design
+
+::: story-grid
+<a class="story-card research-card" href="/featured-work/pima-county-health-department/" aria-label="View Pima County Health Department project"> [<img src="/images/featured/pchd.png" alt="Pima County Health Department project preview" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [Pima County Health Department]{.story-card__organization} [COVID-19 vaccine delivery for Latina/o/e pregnant people]{.story-card__title} </a>
+
+<a class="story-card research-card" href="/featured-work/washington-state-board-health/" aria-label="View Washington State Board of Health project"> [<img src="/images/featured/wsboh.png" alt="Washington State Board of Health project preview" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [Washington State Board of Health]{.story-card__organization} [Decisions to require COVID-19 vaccination for school entry]{.story-card__title} </a>
+
+<a class="story-card research-card" href="/featured-work/us-digital-response/" aria-label="View U.S. Digital Response project"> [<img src="/images/featured/usdr.png" alt="A U.S. flag held by a hand against a blurred background" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [U.S. Digital Response]{.story-card__organization} [COVID-19 crisis delivery for 19+ local and state governments]{.story-card__title} </a>
+
+<a class="story-card research-card" href="/featured-work/johns-hopkins-center-for-livable-future/" aria-label="View Johns Hopkins Center for a Livable Future project"> [<img src="/images/featured/clf.jpg" alt="Johns Hopkins Center for a Livable Future project preview" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [Johns Hopkins Center for a Livable Future]{.story-card__organization} [Climate food labels to influence student eating behavior]{.story-card__title} </a>
+
+<a class="story-card research-card" href="/featured-work/arizona-department-of-health-services/" aria-label="View Arizona Department of Health Services project"> [<img src="/images/featured/azdhs.png" alt="Arizona Department of Health Services project preview" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [Arizona Department of Health Services]{.story-card__organization} [Testing bilingual patient vaccine portal for faster bookings]{.story-card__title} </a>
+
+<a class="story-card research-card" href="/featured-work/new-york-state-department-health-aids-institute/" aria-label="View New York State Department of Health AIDS Institute project"> [<img src="/images/featured/2-nysdoh.jpg" alt="New York State Department of Health AIDS Institute project preview" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [New York State Department of Health AIDS Institute]{.story-card__organization} [Digital tools for improved HIV prevention among young adults]{.story-card__title} </a>
+
+<a class="story-card research-card" href="/featured-work/city-of-los-angeles/" aria-label="View City of Los Angeles project"> [<img src="/images/featured/la.png" alt="City of Los Angeles project preview" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [City of Los Angeles]{.story-card__organization} [Racial equity hubsite with historical and actionable datasets]{.story-card__title} </a>
+
+<a class="story-card research-card" href="/featured-work/rho-impact/" aria-label="View Rho Impact project"> [<img src="/images/featured/rho.png" alt="Rho Impact project preview" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [Rho Impact]{.story-card__organization} [Projected greenhouse emissions cuts by new farming technology]{.story-card__title} </a>
+
+<a class="story-card research-card" href="/featured-work/bureau-veritas/" aria-label="View Bureau Veritas project"> [<img src="/images/featured/bva.png" alt="Bureau Veritas project preview" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [Bureau Veritas]{.story-card__organization} [Rebrand of an $11M merger and acquisition of six companies]{.story-card__title} </a>
+
+<a class="story-card research-card" href="/featured-work/food-planet/" aria-label="View Food+Planet project"> [<img src="/images/featured/foodplanet.png" alt="Food+Planet project preview" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [Food+Planet]{.story-card__organization} [Analysis of dietitian attitudes and actions towards sustainable diets]{.story-card__title} </a>
+
+<a class="story-card research-card" href="/featured-work/columbia-university/" aria-label="View Columbia University project"> [<img src="/images/featured/columbia.png" alt="Columbia University project preview" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [Columbia University]{.story-card__organization} [Impact of lactation pods among pregnant and lactating staff]{.story-card__title} </a>
+
+<a class="story-card research-card" href="/featured-work/healthcare-ready/" aria-label="View Healthcare Ready project"> [<img src="/images/featured/healthcare.png" alt="Healthcare Ready project preview" loading="lazy"/>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [Healthcare Ready]{.story-card__organization} [Multilingual patient and clinician education on COVID-19 treatment]{.story-card__title} </a>
 :::
-
-This is the first story in a series about how digital government accessibility — or the lack thereof — shows up in everyday life, viewed through the lens of the <a href="https://www.ada.gov/resources/2024-03-08-web-rule/" target="_blank" rel="noopener noreferrer">Department of Justice’s Title II accessibility ruling</a>.
-::::
-::::::
-
-:::::: grid
-::: {.g-col-12 .g-col-md-4}
-<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-3/#it-takes-a-village"    target="_blank" rel="noopener noreferrer"> <img src="/images/featured/data-labs.jpeg" alt="Data Labs feature story" style="max-width:100%; height:auto;"/> </a>
-:::
-
-:::: {.g-col-12 .g-col-md-8}
-::: story-title
-<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-3/#it-takes-a-village"      target="_blank" rel="noopener noreferrer"> “It Takes a Village”: Counted, Connected, and Cared For</a>
-:::
-
-Inside Arizona’s effort to link health and homelessness data through the Beeck Center’s award-winning Data Labs program.
-::::
-::::::
-
-:::::: grid
-::: {.g-col-12 .g-col-md-4}
-<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-2/#family-health-by-design"    target="_blank" rel="noopener noreferrer"> <img src="/images/featured/fbl.jpg" alt="Family Benefits Labs feature story" style="max-width:100%; height:auto;"/> </a>
-:::
-
-:::: {.g-col-12 .g-col-md-8}
-::: story-title
-<a href="https://beeckcenter.georgetown.edu/report/2025-impact-report/section-2/#family-health-by-design"      target="_blank" rel="noopener noreferrer"> Family Health, by Design</a>
-:::
-
-How fragmented public systems shape the well-being of young families in California and what it would take to design them to actually work together.
-::::
-::::::
-
-:::::: grid
-::: {.g-col-12 .g-col-md-4}
-<a href="https://screening-tools.com/blog/pedp-environmental-justice-data-tools-story"
-   target="_blank" rel="noopener noreferrer"> <img src="/images/featured/pedp.jpg" alt="Public Environmental Data Partners story" style="max-width:100%; height:auto;"/> </a>
-:::
-
-:::: {.g-col-12 .g-col-md-8}
-::: story-title
-<a href="https://screening-tools.com/blog/pedp-environmental-justice-data-tools-story"
-     target="_blank" rel="noopener noreferrer"> 2,212 studies used disappearing federal climate justice tools. We analyzed them all.</a>
-:::
-
-The inaugural story of <a href="https://screening-tools.com/blog/made-possible-series" target="_blank" rel="noopener noreferrer">Made Possible</a>, a Public Environmental Data Partners series spotlighting those who use now-defunct federal environmental justice tools to serve their communities.
-::::
-::::::
-
-:::::: grid
-::: {.g-col-12 .g-col-md-4}
-<a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/"
-   target="_blank" rel="noopener noreferrer"> <img src="/images/featured/saint_paul_story_2.gif" alt="Saint Paul green jobs story" style="max-width:100%; height:auto;"/> </a>
-:::
-
-:::: {.g-col-12 .g-col-md-8}
-::: story-title
-<a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/"
-     target="_blank" rel="noopener noreferrer"> Climate resilience requires equitable access to quality green jobs. Saint Paul is making strides. </a>
-:::
-
-Using user research from the City of Saint Paul and national datasets, I analyzed racial and income inequities in access to quality green jobs across three sectors. The findings were featured on the Beeck Center's <a href="https://beeckcenter.georgetown.edu/saint-paul-climate-resilience-equity-green-jobs/" target="_blank" rel="noopener noreferrer">website</a>, <a href="https://beeckcenter.georgetown.edu/report/2024-impact-report/present/" target="_blank" rel="noopener noreferrer">annual impact report</a> and <a href="https://fullstacksaintpaul.com/climate-resilience-requires-equitable-access-to-quality-green-jobs-saint-paul-is-making-strides/" target="_blank" rel="noopener noreferrer">Full Stack Saint Paul</a>.
-::::
-::::::
-
-:::::: grid
-::: {.g-col-12 .g-col-md-4}
-<a href="https://beeckcenter.georgetown.edu/the-heart-of-topcities/"
-   target="_blank" rel="noopener noreferrer"> <img src="/images/featured/heart_topcities_2.png" alt="Heart of TOPCities story" style="max-width:100%; height:auto;"/> </a>
-:::
-
-:::: {.g-col-12 .g-col-md-8}
-::: story-title
-<a href="https://beeckcenter.georgetown.edu/the-heart-of-topcities/"
-     target="_blank" rel="noopener noreferrer"> The Heart of TOPCities </a>
-:::
-
-A multimedia story that blends qualitative research, survey analysis, and community audio to show how residents and local governments co-designed digital tools to tackle blight, extreme heat, and access to household energy credits in U.S. cities.
-::::
-::::::
-
-## Projects
-
-::::::::::::::: featured-work
-::: work-item
-```         
-```
-
-[![Pima County Health Department](images/featured/pchd.png)](/featured-work/pima-county-health-department/index.qmd)
-
-COVID-19 vaccine delivery for Latina/o/e pregnant people
-:::
-
-::: work-item
-```         
-```
-
-[![Washington State Board of Health](images/featured/wsboh.png)](/featured-work/washington-state-board-health/index.qmd)
-
-Decisions to require COVID-19 vaccination for school entry
-:::
-
-::: work-item
-```         
-```
-
-[![U.S. Digital Response](images/featured/usdr.png){fig-alt="Image of a U.S. flag being held by a white hand with a blurred background"}](/featured-work/us-digital-response/index.qmd)
-
-COVID-19 crisis delivery for 19+ local and state governments
-:::
-
-::: work-item
-```         
-```
-
-[![Johns Hopkins Center for a Livable Future](images/featured/clf.jpg)](/featured-work/johns-hopkins-center-for-livable-future/index.qmd)
-
-Climate food labels to influence student eating behavior
-:::
-
-::: work-item
-```         
-```
-
-[![Arizona Department of Health Services](images/featured/azdhs.png)](/featured-work/arizona-department-of-health-services/index.qmd)
-
-Testing bilingual patient vaccine portal for faster bookings
-:::
-
-::: work-item
-```         
-```
-
-[![New York State Department of Health AIDS Institute](images/featured/2-nysdoh.jpg)](/featured-work/new-york-state-department-health-aids-institute/index.qmd)
-
-Digital tools for improved HIV prevention among young adults
-:::
-
-::: work-item
-```         
-```
-
-[![City of Los Angeles](images/featured/la.png)](/featured-work/city-of-los-angeles/index.qmd)
-
-Racial equity hubsite with historical and actionable datasets
-:::
-
-::: work-item
-```         
-```
-
-[![Rho Impact](images/featured/rho.png)](/featured-work/rho-impact/index.qmd)
-
-Projected greenhouse emissions cuts by new farming technology‬
-:::
-
-::: work-item
-```         
-```
-
-[![Bureau Veritas](images/featured/bva.png)](/featured-work/bureau-veritas/index.qmd)
-
-Rebrand of an \$11M merger and acquisition of six companies
-:::
-
-::: work-item
-```         
-```
-
-[![Food+Planet](images/featured/foodplanet.png)](/featured-work/food-planet/index.qmd)
-
-Analysis of dietitian attitudes and actions towards sustainable diets
-:::
-
-::: work-item
-```         
-```
-
-[![Columbia University](images/featured/columbia.png)](/featured-work/columbia-university/index.qmd)
-
-Impact of lactation pods among pregnant and lactating staff
-:::
-
-::: work-item
-```         
-```
-
-[![Healthcare Ready](images/featured/healthcare.png)](/featured-work/healthcare-ready/index.qmd)
-
-Multilingual patient and clinician education on COVID-19 treatment
-:::
-:::::::::::::::

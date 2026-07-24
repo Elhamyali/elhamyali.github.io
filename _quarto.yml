@@ -19,14 +19,14 @@ website:
   #   position: below-navbar
     
   open-graph:
-    locale: es_ES
-    site-name: https://elhamyali.com
+    locale: en_US
+    site-name: "Elham Y. Ali"
 
   page-footer:
     center:
-      - text: "Built with <i class='bi bi-heart-fill'></i> and <img src='https://quarto.org/favicon.png' width='12'> Quarto. Source available on <a href='https://github.com/Elhamyali/elhamyali.github.io' target='_blank'><i class='bi bi-git'></i> GitHub</a>."
+      - text: "Built with <i class='bi bi-heart-fill'></i>, <a href='https://quarto.org/' target='_blank' rel='noopener noreferrer'>Quarto</a>, and <a href='https://github.com/' target='_blank' rel='noopener noreferrer'><i class='bi bi-git'></i> GitHub</a>."
     left:
-      - text: "© Copyright 2026 Elham Y. Ali. All rights reserved."
+      - text: "© 2026 Elham Y. Ali. All rights reserved."
 
   navbar:
     right:
@@ -36,11 +36,6 @@ website:
         text: Johns Hopkins Study       
       - href: publications/index.qmd
         text: Publications
-      - href: https://www.elhamyali.com/love-earth
-        text: Love, Earth   
-        target: "_blank"
-      - href: data-viz/index.qmd
-        text: Data Viz
       - href: blog/index.qmd
         text: Blog
       - href: fun/index.qmd
@@ -73,14 +68,7 @@ format:
     css: styles.css
     toc: true
     highlight-style: arrow
-    include-in-header:
-      - https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
-      - https://cdn.jsdelivr.net/npm/glightbox@3.1.0/dist/css/glightbox.min.css
     include-after-body:
-      - https://code.jquery.com/jquery-3.5.1.slim.min.js
-      - https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js
-      - https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
-      - https://cdn.jsdelivr.net/npm/glightbox@3.1.0/dist/js/glightbox.min.js
       - accessibility.js
 
 editor: visual

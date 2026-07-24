@@ -5,17 +5,13 @@ execute:
   warning: false
   toc: false
 ---
-:::float-left
 
-<br>
-<left>
-<img src="images/404/404.webp" width=350>
-</left>
+::: float-left
+<br> <left> </left>
 
 # Whoops!
 
 ### Looks like you found a page that doesn’t exist. Don’t worry, even the best explorers get lost sometimes!
 
-Let’s [head back home](https://www.elhamyali.com) before we end up in Narnia. 🦁✨
-
+Let’s [head back home](https://www.elhamyali.com) before we end up in Narnia.
 :::

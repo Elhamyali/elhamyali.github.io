@@ -1,9 +1,3 @@
-<!-- badges: start -->
+# Elham Y. Ali
 
-[![Render & Deploy
-Site](https://github.com/jhelvy/jhelvy_quarto/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/elhamyali/jhelvy_quarto/actions/workflows/main.yml)
-<!-- badges: end -->
-
-Source files for my [personal website](https://elhamyali.com/), built using [Quarto](https://quarto.org/).
-
-Source code for my previous version built using the [minimal theme on GitHub Pages](https://github.com/orderedlist/minimal).
+Source files for my personal website, [elhamyali.com](https://elhamyali.com/), built with [Quarto](https://quarto.org/) and hosted on GitHub Pages.
