@@ -1,8 +1,19 @@
 ---
-title: "Hi👋, I'm Elham."
+title: Featured Work
+title-block-banner: false
 toc: false
 css: styles.css
+body-classes: homepage
 ---
+
+<p class="role-statement" aria-label="I'm a Researcher, Data storyteller, and Data Visualization Developer.">
+  <span class="role-statement__intro">Hi👋, I'm Elham. I'm a</span>
+  <span class="role-rotator" aria-hidden="true">
+    <span class="role-rotator__word">Researcher.</span>
+    <span class="role-rotator__word">Data storyteller.</span>
+    <span class="role-rotator__word">Data Visualization Developer.</span>
+  </span>
+</p>
 
 <p class="description">
 
@@ -10,17 +21,11 @@ Pronounced <a href="https://www.name-coach.com/elhamyali" target="_blank">ill-hu
 
 </p>
 
-I'm a mixed-methods researcher and data storyteller 📊 based in Southern California. I translate community voices and local insights into data experiences from interactive maps to visual stories that reveal deeper truths about our world, shift norms, and drive action.
-
-My work sits at the intersection of climate justice, health equity, and human-centered design. Over the past 12+ years, I’ve worked with local and state governments, health departments, and public health agencies to build digital tools that reflect how people actually live. That means mapping tree canopy in the City of Akron, OH or expanding equitable pathways into high-quality green jobs in the City of Saint Paul, MN. My hope is to help cities, counties, and towns make confident decisions that protect both people and planet. 🌍
-
-Here's a sample of my work.
+<p class="homepage-purpose">I help local and state governments, nonprofits, startups, and academic institutions turn research insights, public data, and community voices into interactive stories and digital tools. Working across research, design, engineering, and communications teams, I combine qualitative and quantitative research, data analysis, human-centered design, and data visualization to create data experiences that make evidence clear, engaging, and actionable — helping people learn, organizations make better decisions, and communities drive change in public health, climate justice, and health equity.</p>
 
 ## Stories & Data Visualizations
 
-I lead end-to-end data storytelling, transforming raw data into stories people can step into—helping them see a piece of their own world in the data and making complex information feel intuitive, immersive, and human. From reporting and analysis to interactive visualization, I partner with design, research, engineering, communications, and PR teams to reach broader audiences.
-
-I specialize in bespoke static, interactive, and scrollytelling experiences built with R, D3.js, Svelte, Highcharts, Flourish, QGIS, and HTML/CSS/JavaScript.
+I design and build static, interactive, and scrollytelling experiences using R, D3.js, Svelte, Highcharts, Flourish, QGIS, Git/GitHub, and HTML, CSS, and JavaScript.
 
 ::: story-grid
 <a class="story-card" href="https://www.elhamyali.com/when-home-moves-pacific/" target="_blank" rel="noopener noreferrer" aria-label="Read When Home Moves (opens in a new tab)"> [<video autoplay loop muted playsinline preload="metadata" aria-label="An interactive map showing the total number of people affected by disasters in the Pacific"><source src="/images/featured/when_home_moves.mp4" type="video/mp4">Your browser does not support this video.</video>]{.story-card__image}[↗]{.story-card__arrow aria-hidden="true"} [When Home Moves]{.story-card__title} [When home is erased, where do you go? This interactive data essay traces a journey across the Pacific, charting how climate disasters trigger mass internal displacement, fuel public health crises, and drive frontline communities to engineer innovative climate adaptation solutions.]{.story-card__description} [Svelte]{.tool-badge .tool-badge--svelte} [D3.js]{.tool-badge .tool-badge--d3} [R]{.tool-badge .tool-badge--R} </a>

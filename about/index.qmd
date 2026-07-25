@@ -1,6 +1,6 @@
 ---
 title: "About"
-subtitle: "Mixed-methods researcher and data storyteller in climate resilience, public health, health equity, and civic tech."
+subtitle: "Researcher and data storyteller in climate change, public health, health equity, and civic tech."
 about:
   template: marquee
   links:
@@ -67,7 +67,7 @@ format:
 
 9.  I’m currently writing my doctoral dissertation on parks and green space equity at Johns Hopkins University.
 
-10. My partner and I live in Southern California with our kitties: Lilly, Coco, and Gizmo.
+10. In my free time, I draw comics about a wholesome potato named Spud (read **Spudnuts Comics** on [Webtoons](https://www.webtoons.com/en/canvas/spudnuts-comics/list?title_no=847331) and [Instagram](https://www.instagram.com/spudnutscomics/)). I also hosted a limited podcast series, **Unmuted with Elham Ali**, where I interviewed inspiring people about equity, belonging, and the stories that shaped their lives. Listen on [Spotify](https://open.spotify.com/show/3t0HajfVLLDYV7AeqF9oAr), [Apple Podcast](https://podcasts.apple.com/us/podcast/unmuted-with-elham-ali/id1628406345), or [Amazon Music](https://music.amazon.com/podcasts/46744d66-475b-4238-8ba5-bee12f995ef9).
 
 💌 I’m always happy to connect so don’t hesitate to reach out.
 

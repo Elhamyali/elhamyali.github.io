@@ -112,6 +112,10 @@ body.dark-theme .right-arrow {
 /* ==========================================================================
    4. PAGE COMPONENTS (Buttons, Banner, Titles)
    ========================================================================== */
+.homepage .quarto-title-block {
+  display: none;
+}
+
 .quarto-title-block .quarto-title-banner {
   background: $quarto-bgcolor;
 }
@@ -126,6 +130,75 @@ body.dark-theme .right-arrow {
   font-weight: bold;
   text-decoration: none;
   color: inherit;
+}
+
+/* Homepage role animation */
+.role-statement {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0 0.32em;
+  margin: 1.5rem 0 0;
+  font-size: clamp(1.35rem, 3.5vw, 2.15rem);
+  font-weight: 750;
+  letter-spacing: -0.035em;
+  line-height: 1.2;
+}
+
+.role-statement__intro {
+  white-space: nowrap;
+}
+
+.role-rotator {
+  display: inline-grid;
+  color: #135ae1;
+}
+
+.role-rotator__word {
+  grid-area: 1 / 1;
+  opacity: 0;
+  transform: translateY(0.35em);
+  animation: role-cycle 9s infinite;
+}
+
+.role-rotator__word:nth-child(2) {
+  animation-delay: 3s;
+}
+
+.role-rotator__word:nth-child(3) {
+  animation-delay: 6s;
+}
+
+.homepage-purpose {
+  /* max-width: 48ch; */
+  margin: 0.8rem 0 2.75rem;
+  color: #000;
+  font-size: clamp(1.05rem, 1.7vw, 1.25rem);
+  line-height: 1.5;
+}
+
+@keyframes role-cycle {
+  0%,
+  28% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  33%,
+  95% {
+    opacity: 0;
+    transform: translateY(-0.35em);
+  }
+
+  96%,
+  100% {
+    opacity: 0;
+    transform: translateY(0.35em);
+  }
+}
+
+body.quarto-dark .homepage-purpose {
+  color: #b6bbc0;
 }
 
 /* Selected Stories */
@@ -294,17 +367,16 @@ body.dark-theme .right-arrow {
   white-space: nowrap;
 }
 
-.tool-badge--svelte { color: var(--data-orange); }
-.tool-badge--d3 { color: var(--data-yellow); }
-.tool-badge--qgis { color: var(--data-green); }
+.tool-badge--d3 { color: var(--data-blue); }
+.tool-badge--javascript { color: var(--data-purple); }
 .tool-badge--r,
-.tool-badge--R { color: var(--data-blue); }
-.tool-badge--figma { color: var(--data-dark-grey); }
-.tool-badge--research { color: var(--data-purple); }
-.tool-badge--rough { color: var(--data-magenta); }
-.tool-badge--highcharts { color: var(--supporting-blue); }
-.tool-badge--flourish { color: var(--data-teal); }
-.tool-badge--javascript { color: var(--data-yellow); }
+.tool-badge--R { color: var(--data-magenta); }
+.tool-badge--svelte { color: var(--data-orange); }
+.tool-badge--figma { color: var(--data-yellow); }
+.tool-badge--rough { color: var(--data-teal); }
+.tool-badge--qgis { color: var(--data-green); }
+.tool-badge--highcharts { color: var(--data-red); }
+.tool-badge--flourish { color: var(--supporting-blue); }
 .tool-badge--moustache { color: var(--data-dark-grey); }
 
 .story-card:hover .story-card__image,
@@ -346,6 +418,17 @@ body.quarto-dark .story-card:focus-visible .story-card__title {
 }
 
 @media (max-width: 767px) {
+  .role-statement {
+    display: block;
+    font-size: clamp(1.4rem, 7vw, 1.8rem);
+  }
+
+  .role-rotator {
+    display: grid;
+    width: 100%;
+    margin-top: 0.15em;
+  }
+
   .story-grid {
     grid-template-columns: 1fr;
     gap: 3rem;
@@ -358,6 +441,16 @@ body.quarto-dark .story-card:focus-visible .story-card__title {
 }
 
 @media (prefers-reduced-motion: reduce) {
+  .role-rotator__word {
+    opacity: 0;
+    transform: none;
+    animation: none;
+  }
+
+  .role-rotator__word:first-child {
+    opacity: 1;
+  }
+
   .story-card,
   .story-card__image,
   .story-card__image img,

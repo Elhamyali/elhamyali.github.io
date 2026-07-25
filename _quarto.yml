@@ -33,13 +33,11 @@ website:
       - href: index.qmd
         text: Featured Work
       - href: johns-hopkins-study/index.qmd
-        text: Johns Hopkins Study       
+        text: Research Study       
       - href: publications/index.qmd
         text: Publications
       - href: blog/index.qmd
         text: Blog
-      - href: fun/index.qmd
-        text: Fun
       - href: about/index.qmd
         text: About
       - icon: github
