@@ -43,6 +43,10 @@ format:
 #quarto-sidebar-glass {
     display: none;
   }
+
+div.quarto-about-marquee {
+    padding-top: 2rem !important;
+  }
 ```
 
 ![Photo by Gabby Vera for the City of Santa Clarita, taken during Community Beautification Day at Valencia Glen Park. [Read the full story](https://signalscv.com/2025/06/volunteers-and-city-make-mulch-ado-about-beautification/){target="_blank\" rel=\"noopener noreferrer"}.](/images/home/scv2.jpg)
