@@ -1,4 +1,16 @@
-<img src="https://signalscv.com/2025/06/volunteers-and-city-make-mulch-ado-about-beautification/" alt="Gabby Vera for the City of Santa Clarita, taken during Community Beautification Day at Valencia Glen Park. [Read the full story" loading="lazy" />.](/images/home/scv2.jpg)
+<figure>
+	<a href="https://signalscv.com/2025/06/volunteers-and-city-make-mulch-ado-about-beautification/">
+		<img
+			src="/images/home/scv2.jpg"
+			alt="Gabby Vera for the City of Santa Clarita during Community Beautification Day at Valencia Glen Park"
+			loading="lazy"
+		/>
+	</a>
+	<figcaption>
+		Gabby Vera for the City of Santa Clarita during Community Beautification Day at Valencia Glen
+		Park. <a href="https://signalscv.com/2025/06/volunteers-and-city-make-mulch-ado-about-beautification/">Read the full story.</a>
+	</figcaption>
+</figure>
 
 **10 things to know about me:**
 

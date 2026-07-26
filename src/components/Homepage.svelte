@@ -27,13 +27,11 @@
 			</span>
 		</h1>
 		<p class="purpose">
-			I help local and state governments, nonprofits, startups, and academic
-			institutions turn research insights, public data, and community voices into
-			interactive stories and digital tools. Working across research, design,
-			engineering, and communications teams, I combine qualitative and quantitative
-			research, data analysis, human-centered design, and data visualization to create
-			data experiences that help people learn, organizations make better decisions, and
-			communities drive change in public health, climate justice, and health equity.
+			I turn research insights, public data, and community voices into interactive
+			stories and digital tools. Using qualitative and quantitative research, data
+			analysis, human-centered design, and data visualization, I create data experiences
+			that help people learn, organizations make better decisions, and communities drive
+			change in public health and climate change.
 		</p>
 	</section>
 

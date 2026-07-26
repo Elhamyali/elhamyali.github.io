@@ -6,10 +6,10 @@
 	<div class="footer-inner">
 		<p class="copyright">© 2026 Elham Y. Ali. All rights reserved.</p>
 		<div class="footer-links">
-			<a href={site.social.github} target="_blank" rel="noreferrer">GitHub ↗</a>
-			<a href={site.social.linkedin} target="_blank" rel="noreferrer">LinkedIn ↗</a>
-			<a href={site.social.adplist} target="_blank" rel="noreferrer">ADPList ↗</a>
 			<a href={site.email}>Email</a>
+			<a href={site.social.linkedin} target="_blank" rel="noreferrer">LinkedIn ↗</a>
+			<a href={site.social.github} target="_blank" rel="noreferrer">GitHub ↗</a>
+			<a href={site.social.adplist} target="_blank" rel="noreferrer">ADPList ↗</a>
 		</div>
 	</div>
 </footer>
