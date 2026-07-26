@@ -5,7 +5,7 @@
 	const metadata = {
 		title: "Publications",
 		description:
-			"Research, data stories, guides, presentations, and writing by Elham Y. Ali.",
+			"Journal articles, stories, toolkits, conference presentations, and other writings.",
 		href: "/publications/",
 		image: "/images/featured/clf.jpg",
 		imageAlt: "A selection of publications and research by Elham Y. Ali"

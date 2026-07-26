@@ -1,8 +1,8 @@
 export const site = {
 	name: "Elham Y. Ali",
-	title: "Elham Y. Ali — Researcher and Data Visualization Developer",
+	title: "Elham Y. Ali — Researcher and Data Visualization Specialist",
 	description:
-		"Featured work and publications of Elham Y. Ali, a researcher, data storyteller, and data visualization developer.",
+		"Featured work and publications of Elham Y. Ali, a researcher, data storyteller, and data visualization specialist.",
 	url: "https://www.elhamyali.com",
 	author: "Elham Y. Ali",
 	email: "mailto:elham.yusufali@gmail.com",

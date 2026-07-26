@@ -79,7 +79,7 @@
 	}
 
 	.article-header {
-		max-width: 70rem;
+		max-width: 59.5rem;
 		padding-block: clamp(5rem, 10vw, 9rem);
 	}
 
@@ -94,7 +94,7 @@
 	h1 {
 		margin: 0;
 		font-family: var(--font-serif);
-		font-size: clamp(3.625rem, 7.6vw, 7.5rem);
+		font-size: clamp(3.1rem, 6.45vw, 6.375rem);
 		font-style: italic;
 		font-weight: 600;
 		letter-spacing: -0.05em;
@@ -102,9 +102,9 @@
 	}
 
 	.dek {
-		max-width: 50rem;
+		max-width: 42.5rem;
 		margin: 2rem 0 0;
-		font-size: clamp(1.25rem, 2.1vw, 1.875rem);
+		font-size: clamp(1.1rem, 1.8vw, 1.6rem);
 		line-height: 1.35;
 	}
 
@@ -134,17 +134,17 @@
 	}
 
 	.article-body {
-		max-width: 70rem;
+		max-width: 59.5rem;
 		margin-inline: 0;
 		font-family: var(--font-sans);
-		font-size: clamp(1.125rem, 1.5vw, 1.3125rem);
+		font-size: clamp(1.0625rem, 1.3vw, 1.1875rem);
 		line-height: 1.62;
 	}
 
 	.article-body :global(h2) {
 		margin: clamp(4rem, 8vw, 7rem) 0 1.5rem;
 		font-family: var(--font-serif);
-		font-size: clamp(2.75rem, 5vw, 5rem);
+		font-size: clamp(2.35rem, 4.25vw, 4.25rem);
 		font-style: italic;
 		font-weight: 600;
 		letter-spacing: -0.04em;
@@ -153,6 +153,13 @@
 
 	.article-body :global(p) {
 		margin: 0 0 1.5rem;
+	}
+
+	.article-body :global(.image-caption) {
+		margin: 0.75rem 0 2.5rem;
+		color: var(--color-body);
+		font-size: var(--font-size-14);
+		line-height: 1.5;
 	}
 
 	.article-body :global(a) {
@@ -239,7 +246,7 @@
 
 	.article-navigation strong {
 		font-family: var(--font-serif);
-		font-size: clamp(1.25rem, 2vw, 1.75rem);
+		font-size: clamp(1.1rem, 1.7vw, 1.5rem);
 		font-style: italic;
 		font-weight: 600;
 	}

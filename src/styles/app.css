@@ -8,7 +8,7 @@
 	--font-serif: "Playfair Display", "Iowan Old Style", "Times New Roman", Times, serif;
 	--font-body: var(--font-sans);
 	--font-form: var(--font-sans);
-	--content-width: 96rem;
+	--content-width: 84rem;
 	--reading-width: 46rem;
 	--page-gutter: clamp(1.25rem, 4vw, 4rem);
 	--color-bg: var(--color-white);

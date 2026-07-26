@@ -15,7 +15,7 @@
 		<h1
 			id="hero-title"
 			class="role-statement"
-			aria-label="Hi, I'm Elham. I'm a researcher, data storyteller, and data visualization developer."
+			aria-label="Hi, I'm Elham. I'm a researcher, data storyteller, and data visualization specialist."
 		>
 			<span class="role-statement__intro"
 				>Hi <span class="wave" aria-hidden="true">👋</span>, I’m Elham. I’m a</span
@@ -23,17 +23,15 @@
 			<span class="role-rotator" aria-hidden="true">
 				<span class="role-rotator__word">Researcher.</span>
 				<span class="role-rotator__word">Data storyteller.</span>
-				<span class="role-rotator__word">Data Visualization Developer.</span>
+				<span class="role-rotator__word">Data Visualization Specialist.</span>
 			</span>
 		</h1>
 		<p class="purpose">
-			I help local and state governments, nonprofits, startups, and academic
-			institutions turn research insights, public data, and community voices into
-			interactive stories and digital tools. Working across research, design,
-			engineering, and communications teams, I combine qualitative and quantitative
-			research, data analysis, human-centered design, and data visualization to create
-			data experiences that help people learn, organizations make better decisions, and
-			communities drive change in public health, climate justice, and health equity.
+			I turn research insights, public data, and community voices into interactive
+			stories and digital tools. Combining qualitative and quantitative research, data
+			analysis, human-centered design, and data visualization, I create data experiences
+			that help people learn, make better decisions, and drive change in public health
+			and climate change.
 		</p>
 	</section>
 
@@ -43,7 +41,7 @@
 			<h2 id="stories-title">Stories &amp; data visualizations</h2>
 			<div>
 				I design and build static, interactive, and scrollytelling experiences using R,
-				D3.js, Svelte, Highcharts, Flourish, QGIS, HTML, CSS, and JavaScript.
+				D3.js, Svelte, Highcharts, Flourish, QGIS, HTML5/CSS3, and JavaScript (ES6+).
 			</div>
 		</header>
 		<div class="story-grid">
@@ -78,7 +76,7 @@
 	}
 
 	.hero {
-		max-width: 78rem;
+		max-width: 66rem;
 		padding-block: clamp(5rem, 10vw, 9rem);
 	}
 
@@ -89,7 +87,7 @@
 		gap: 0 0.3em;
 		margin: 0;
 		font-family: var(--font-serif);
-		font-size: clamp(3.25rem, 6.7vw, 6.75rem);
+		font-size: clamp(2.75rem, 5.7vw, 5.75rem);
 		font-style: italic;
 		font-weight: 600;
 		letter-spacing: -0.05em;
@@ -138,7 +136,7 @@
 	}
 
 	.purpose {
-		max-width: 75rem;
+		max-width: 64rem;
 		margin: 2rem 0 0;
 		font-size: clamp(1.125rem, 1.5vw, 1.3125rem);
 		line-height: 1.55;
@@ -165,7 +163,7 @@
 	h2 {
 		margin: 0 0 1.25rem;
 		font-family: var(--font-serif);
-		font-size: clamp(2.75rem, 5.7vw, 5.75rem);
+		font-size: clamp(2.35rem, 4.85vw, 4.875rem);
 		font-style: italic;
 		font-weight: 600;
 		letter-spacing: -0.04em;

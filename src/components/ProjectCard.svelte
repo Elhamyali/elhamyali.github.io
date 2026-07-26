@@ -68,7 +68,7 @@
 	.card-link {
 		display: grid;
 		height: 100%;
-		color: var(--color-black);
+		color: var(--color-fg);
 		text-decoration: none;
 	}
 
@@ -103,7 +103,7 @@
 		max-width: 27ch;
 		margin: 0;
 		font-family: var(--font-serif);
-		font-size: clamp(1.65rem, 2.5vw, 2.5rem);
+		font-size: clamp(1.4rem, 2.125vw, 2.125rem);
 		font-style: italic;
 		font-weight: 600;
 		letter-spacing: -0.025em;
@@ -184,7 +184,7 @@
 	}
 
 	.research h3 {
-		font-size: clamp(1.4rem, 2vw, 2rem);
+		font-size: clamp(1.2rem, 1.7vw, 1.7rem);
 	}
 
 	@media (hover: hover) {

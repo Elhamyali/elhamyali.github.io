@@ -44,7 +44,7 @@
 	.blog-index {
 		width: min(100%, var(--content-width));
 		margin-inline: auto;
-		padding: clamp(5rem, 10vw, 9rem) var(--page-gutter);
+		padding: clamp(4.25rem, 8.5vw, 7.65rem) var(--page-gutter);
 	}
 
 	header p {
@@ -58,7 +58,7 @@
 	h1 {
 		margin: 0 0 clamp(4rem, 8vw, 7rem);
 		font-family: var(--font-serif);
-		font-size: clamp(3.625rem, 7.6vw, 7.5rem);
+		font-size: clamp(3.1rem, 6.45vw, 6.375rem);
 		font-style: italic;
 		font-weight: 600;
 		letter-spacing: -0.05em;
@@ -101,7 +101,7 @@
 	h2 {
 		margin: 0;
 		font-family: var(--font-serif);
-		font-size: clamp(1.75rem, 3vw, 3rem);
+		font-size: clamp(1.5rem, 2.55vw, 2.55rem);
 		font-style: italic;
 		line-height: 1.05;
 	}
