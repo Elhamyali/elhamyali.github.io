@@ -1,0 +1,53 @@
+## Challenge
+
+At the height of the COVID-19 pandemic, employees at the [Arizona Department of Health Services](https://www.azdhs.gov/)struggled with the process of booking COVID-19 vaccination appointments. The sign-up, booking, and password resetting procedures were cumbersome and frustrating, even for those within the department who were among the first to test a new portal. Recognizing the urgent need for a quicker and easier system, the department, in collaboration with the governor's office, sought to improve the Vaccine Patient Portal to better serve Arizona's 7 million residents.
+
+By March 2021, the Department had launched the initial version of the Vaccine Patient Portal, designed to handle registration, eligibility determination, and appointment scheduling. However, the portal still required enhancements to make it more user-friendly. My team and I were brought in to conduct usability testing with the department's employees to identify key pain points and provide actionable recommendations for improving the booking process.
+
+## Approach
+
+As the Project Lead and Experience Researcher, I led a team of researchers in collaboration with the department's project manager and UX designer. We developed research protocols, including screener surveys to select participants, facilitation guides, and communication materials for leadership. I coached researchers on effective interview techniques to reduce bias during usability assessments and provided feedback throughout the research process.
+
+I also wrote and refined the content for the Vaccine Patient Portal, aligning it with research recommendations focused on equitable communication. This included revising dropdown menus for gender preferences, updating insurance status fields, and improving microcopy, tooltips, emails, and instructional content. Our content strategy prioritized language justice, clarity, transparency, and trust to minimize decision fatigue, reduce information overload, and correct misaligned mental models.
+
+To ensure the portal was more user-friendly, we conducted two rounds of moderated and unmoderated remote usability testing on high-fidelity prototypes, closely collaborating with the governor's office and department staff to refine the design based on user feedback.
+
+## Results
+
+Within two months, we delivered the project on time and with important insights. The Arizona Department of Health Services published an improved [Vaccine Patient Portal](https://podvaccine.azdhs.gov/) in both Spanish and English, incorporating our research recommendations to ensure equity-focused design and accessibility. The improved portal allowed users to book vaccination appointments more quickly and increased overall satisfaction with the process.
+
+Key outcomes from the usability testing included significant reductions in the average time to complete various tasks on the portal:
+
+-   Login time reduced by 1 minute.
+
+-   Password reset time reduced by 4 minutes.
+
+-   Sign-up time reduced by 8 minutes.
+
+-   Vaccine appointment scheduling time reduced by 3 minutes, resulting in a total improvement of up to 16 minutes faster.
+
+Customer satisfaction scores improved markedly, with the overall rating increasing from 3 to 5 on a scale of 1 to 5 among all residents, including bilingual speakers.
+
+The Arizona Department of Health Services has since made the [website](https://drive.google.com/file/d/1NHGrsOIbUFDfKvMhIqPPQls4U5Flu8Jk/view?usp=sharing) and [mobile prototypes](https://www.figma.com/file/hEjTnK1flO9EbjkSnNu9O6/Vaccine-portal), along with the published content and design, available on their Vaccine Patient Portal.
+
+<div class="media-grid">
+<img src="/content/arizona-department-of-health-services/1-azdhs.webp" alt="Tooltip recommendation" loading="lazy" />
+
+<img src="/content/arizona-department-of-health-services/2-azdhs.webp" alt="Insurance microcopy recommendation" loading="lazy" />
+
+<img src="/content/arizona-department-of-health-services/14-azdhs.webp" alt="User workflows and user stories" loading="lazy" />
+
+<img src="/content/arizona-department-of-health-services/4-azdhs.webp" alt="Content and design recommendation" loading="lazy" />
+
+<img src="/content/arizona-department-of-health-services/5-azdhs.webp" alt="Design recommendation" loading="lazy" />
+
+<img src="/content/arizona-department-of-health-services/6-azdhs.webp" alt="Design and process recommendation" loading="lazy" />
+
+<img src="/content/arizona-department-of-health-services/7-azdhs.webp" alt="Spanish translation recommendation" loading="lazy" />
+
+<img src="/content/arizona-department-of-health-services/10-azdhs.webp" alt="Moderated usability testing with participants" loading="lazy" />
+
+<img src="/content/arizona-department-of-health-services/12-azdhs.webp" alt="Unmoderated usability testing with participants" loading="lazy" />
+
+<img src="/content/arizona-department-of-health-services/13-azdhs.webp" alt="Facilitator guide" loading="lazy" />
+</div>

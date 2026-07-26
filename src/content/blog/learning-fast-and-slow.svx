@@ -1,0 +1,19 @@
+<img src="/content/learning-fast-and-slow/images/learning_fast_slow.png" alt="Project visual" loading="lazy" />
+
+<br>
+
+Adult students performed better in an intensive course (110 hrs in 5 weeks) than in an extensive course (110 hrs in 7 months) in language education programs. ([Hinger, 2006](http://dx.doi.org/10.1016/j.system.2005.08.003))
+
+🤔 But, there's also evidence that learning a complex skill like a new language slowly and steadily improves our memory due to repeated exposure to materials over time (Spacing Effect). ([Serrano, 2007](http://dx.doi.org/10.1016/j.system.2007.02.001))
+
+💡 One consensus is that people learning a new skill like a language will benefit from first intensively studying until they are conversational, then transitioning to continuous/period review instead of just studying 30 minutes per day from the start. I personally prefer to learn this way. ([Zerr et al., 2018](http://dx.doi.org/10.1177/0956797618772540))
+
+I wonder about the impact of intensive versus extensive learning experiences. Do students in UX design bootcamps forget more than their college counterparts who spread design classes over four years? Is a 21-day racial equity challenge worse for anti-racist thinking than training taken over a year?
+
+How do you prefer to learn?
+
+## References
+
+1. <span id="ref-hinger2006"></span>Hinger, Barbara (2006). [The distribution of instructional time and its effect on group cohesion in the foreign language classroom: A comparison of intensive and standard format courses](http://dx.doi.org/10.1016/j.system.2005.08.003).
+2. <span id="ref-serrano2007"></span>Serrano, Raquel and Muñoz, Carmen (2007). [Same hours, different time distribution: Any difference in EFL?](http://dx.doi.org/10.1016/j.system.2007.02.001).
+3. <span id="ref-Zerr2018"></span>Zerr, Christopher L. and Berg, Jeffrey J. and Nelson, Steven M. and Fishell, Andrew K. and Savalia, Neil K. and McDermott, Kathleen B. (2018). [Learning Efficiency: Identifying Individual Differences in Learning Rate and Retention in Healthy Adults](http://dx.doi.org/10.1177/0956797618772540).

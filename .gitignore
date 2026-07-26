@@ -1,25 +1,12 @@
-# R stuff
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-
-# Quarto stuff
-/.quarto/
-/_site/
-**/*_cache/*
-
-# Local environments and editor state
-/.venv/
-/.Rproj.user/
-/.positai/
+# SvelteKit
+/node_modules/
+/.svelte-kit/
+/build/
 
 # Operating-system files
 .DS_Store
 **/.DS_Store
 
-# Miscellaneous stuff
-design-assets/*
-static/etc/*
-/.luarc.json
-.httr-oauth
+# Local editor files
+/.vscode/
+/.idea/
