@@ -1,0 +1,31 @@
+## Challenge
+
+[Bridge to Home](https://btohome.org/home), an organization dedicated to helping individuals and families in the Santa Clarita Valley transition from homelessness to stable housing, faced a critical need to increase funding for a new permanent shelter. With limited dedicated social media engagement, they needed support to effectively reach potential donors and raise awareness for their cause. To meet this challenge, I directed and launched targeted social media campaigns within two months to drive fundraising efforts through the [Virtual Cowboy Chili Cookout](https://btohome.org/home), with proceeds from this event supporting Bridge to Home's essential services, including emergency shelter, case management, housing navigation, and referrals for health, mental health, and substance use treatment.
+
+## Approach
+
+I began the campaign by developing a social media strategy that included an editorial calendar, content guidelines, and a style guide for design assets. I used Google analytics and analytics on various social media platforms to track the effectiveness of different communication approaches, refining messaging based on what resonated most with potential donors. I applied behavioral science principles, such as the endowment effect and crowd-out effect, to optimize social media posts.
+
+I crafted engaging content for Facebook, Instagram, and the website, including client stories, achievements, donor spotlights, facts and figures, service updates, news, events, and sponsor promotions. I created a content calendar with targeted calls to action for the primary demographics and presented the strategy to the Fundraising team and Board of Directors. I also coordinated partnerships with sponsors and partners to amplify our reach through cross-promotion.
+
+## Results
+
+The campaign raised nearly $20,000 for the Chili Cookout event (excluding sponsorships), with $2,800 (14%) generated from social media traffic. It also increased awareness among new supporters and redirected new followers to the Capital Campaign, which aims to raise $1M for a new shelter. The content and designs I developed were published on Bridge to Home's Facebook, Instagram, and website, effectively reaching a wider audience and driving engagement. Published content and design are available on Bridge to Home's [Facebook](https://www.facebook.com/btohome), [Instagram](https://www.instagram.com/btohome/?hl=en), and [Website](https://btohome.org/cowboy-chili-cookoff?rq=chili%20cookoff). Sample content is listed below.
+
+<div class="media-grid">
+<img src="/content/bridge-to-home/1-bridgehome.webp" alt="Compelling facts and figures" loading="lazy" />
+
+<img src="/content/bridge-to-home/2-bridgehome.webp" alt="Client story post" loading="lazy" />
+
+<img src="/content/bridge-to-home/3-bridgehome.webp" alt="News article highlight of the chili cookout fundraisere" loading="lazy" />
+
+<img src="/content/bridge-to-home/4-bridgehome.webp" alt="Social media with of local news partnerships" loading="lazy" />
+
+<img src="/content/bridge-to-home/5-bridgehome.webp" alt="Social media post event sponsors promotional" loading="lazy" />
+
+<img src="/content/bridge-to-home/6-bridgehome.webp" alt="Website copy of the chili cookout fundraiser" loading="lazy" />
+
+<img src="/content/bridge-to-home/7-bridgehome.webp" alt="Fundraising event website copy" loading="lazy" />
+
+<img src="/content/bridge-to-home/8-bridgehome.webp" alt="Sponsorship website copy" loading="lazy" />
+</div>

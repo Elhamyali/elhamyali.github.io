@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@1,500;1,600;1,700&display=swap");
+@import "./variables.css";
+@import "./normalize.css";
+@import "./reset.css";
+
+:root {
+	--font-sans: "Inter", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+	--font-serif: "Playfair Display", "Iowan Old Style", "Times New Roman", Times, serif;
+	--font-body: var(--font-sans);
+	--font-form: var(--font-sans);
+	--content-width: 96rem;
+	--reading-width: 46rem;
+	--page-gutter: clamp(1.25rem, 4vw, 4rem);
+	--color-bg: var(--color-white);
+	--color-fg: var(--color-black);
+	--color-focus: var(--color-blue);
+	--color-selection: var(--color-hairline);
+	color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+	--color-bg: #000000;
+	--color-fg: #ffffff;
+	--color-ink-soft: #f5f5f5;
+	--color-body: #a7abaf;
+	--color-hairline: #333333;
+	--color-selection: #333333;
+	color-scheme: dark;
+}
+
+body {
+	color: var(--color-fg);
+	background: var(--color-bg);
+	font-family: var(--font-body);
+	font-feature-settings:
+		"kern" 1,
+		"liga" 1;
+	line-height: 1.62;
+	overflow-x: hidden;
+}
+
+a {
+	color: inherit;
+	text-decoration-thickness: 1px;
+	text-underline-offset: 0.2em;
+}
+
+button,
+input,
+select,
+textarea {
+	border-radius: 0;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+	outline: 3px solid var(--color-focus);
+	outline-offset: 3px;
+}
+
+::selection {
+	background: var(--color-selection);
+}
+
+.skip-to-main {
+	position: fixed;
+	z-index: 1000;
+	top: 0;
+	left: 0;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
+	color: var(--color-white);
+	background: var(--color-black);
+	transform: translateY(-120%);
+}
+
+.skip-to-main:focus {
+	width: auto;
+	height: auto;
+	padding: 0.75rem 1rem;
+	transform: translateY(0);
+}

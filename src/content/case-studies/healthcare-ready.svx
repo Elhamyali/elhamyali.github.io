@@ -1,0 +1,37 @@
+## Challenge
+
+Many residents and health practitioners across the country were unaware of effective early COVID-19 treatments, such as monoclonal antibody therapy, that could help prevent severe outcomes. In collaboration with the HHS, Administration for Strategic Preparedness and Response (ASPR), and representatives of the private sector, I supported [Healthcare Ready](https://healthcareready.org/), a nonprofit focused on healthcare supply chains and disaster response, in launching an educational campaign to address this gap. The goal was to create printed and digital materials for distribution at COVID-19 testing sites, providing clear and accessible information in plain-language about monoclonal antibodies as an early treatment option for those at risk for COVID-19.​
+
+## Approach
+
+As a user researcher and advisor, I worked closely with a project manager, experience designer, and content strategist to develop an effective educational campaign. I began by defining the project scope, outlining deliverables, setting the schedule, identifying potential risks and dependencies, and establishing the roles within the team. We then moved to concept testing, where I coordinated sessions with a panel of residents and clinicians to gather insights on the draft educational flyers. This testing revealed the need for simple language, messages that matched patient values, personal stories, and trusted sources.
+
+Using these insights, I developed clear recommendations for the design and content of the materials. I reviewed and edited the flyers and website content to make sure they followed FDA guidelines and health literacy standards. I also translated the patient education materials into Tagalog and Arabic to reach more communities. To measure the campaign's effectiveness, I advised on using Google Analytics to track how people interacted with the content.
+
+## Results
+
+Within six weeks, my team and I developed and published multilingual health communications for patients and clinicians, making them accessible to the public and distributing them to various partner COVID-19 testing sites nationwide. The materials included:
+
+-   [Website content](https://healthcareready.org/covid19/therapeutics/)
+
+-   [Patient education flyer](https://healthcareready.org/wp-content/uploads/2022/02/HealthReady_PatientFlyer_20220202.pdf)
+
+-   [Clinician education flyer](https://healthcareready.org/wp-content/uploads/2022/02/HealthReady_ProviderFlyer_20220202b.pdf)
+
+<div class="media-grid">
+<img src="/content/healthcare-ready/1-healthcare.webp" alt="Patient education brochure in English" loading="lazy" />
+
+<img src="/content/healthcare-ready/2-healthcare.webp" alt="Patient education brochure in Tagalog" loading="lazy" />
+
+<img src="/content/healthcare-ready/4-healthcare.webp" alt="Clinician education back of brochure" loading="lazy" />
+
+<img src="/content/healthcare-ready/6-healthcare.webp" alt="Example of early draft key messages in flyers" loading="lazy" />
+
+<img src="/content/healthcare-ready/5-healthcare.webp" alt="Example of concept testing session of clinician brochure with a practitioner" loading="lazy" />
+
+<img src="/content/healthcare-ready/10-healthcare.webp" alt="Evolution of flyers based on experience research" loading="lazy" />
+
+<img src="/content/healthcare-ready/8-healthcare.webp" alt="Edits and proofreading based on research insights" loading="lazy" />
+
+<img src="/content/healthcare-ready/11-healthcare.webp" alt="Website content design" loading="lazy" />
+</div>

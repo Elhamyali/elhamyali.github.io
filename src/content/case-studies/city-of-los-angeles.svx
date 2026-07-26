@@ -1,0 +1,43 @@
+## Challenge
+
+In 2022, the City Council of Los Angeles approved the creation of a centralized hub to share the city's racial equity history using historical datasets and community stories. The goal is to provide a resource that residents and community advocates can use to better understand and engage with the city's efforts toward racial equity. The City needed guidance on how to organize a large amount of information in a way that is user-friendly and accessible to diverse learners and advocates. This is where I came in.
+
+The [City of Los Angeles](https://lacity.gov/), the second-largest municipality in the United States with a population of over 4 million, required support in developing a racial equity hub website to showcase the work of its newly established [Civil & Human Rights Department](https://lasentinel.net/racial-equity-finds-a-permanent-home-in-los-angeles.html). The site needed to present historical context for racial inequities, offer deep data insights, and connect residents to valuable resources. The content was organized around five key thematic areas: Housing and Built Environment, Economic Opportunity and Community Wealth, Education Access and Attainment, Justice, Policing, and Civic Engagement, and Health and Wellbeing.
+
+## Approach
+
+As the project lead, I managed and coaches a team of researchers, UX designers, and content strategists. I established inclusive partnerships with various city departments, community organizations, and stakeholders to maintain a broad perspective on user needs.
+
+I conducted user research, including card sorting exercises and moderated usability assessments, to understand how residents interact with the hub's content. Working closely with the UX designer, I helped shape the site's information architecture to be intuitive and accessible. I developed content guidelines to ensure the site communicated with an intersectional and anti-racist voice. This included providing clear historical context, sharing community stories, explaining how various efforts advance racial equity, analyzing race-based data, and connecting users to relevant resources, programs, and services.
+
+## Results
+
+This work demonstrated that data is essential in driving conversations about racial equity and empowering community members to identify, learn, and engage with local partners. Within eight weeks, my team delivered prototypes and a new information architecture that the City of Los Angeles put into production. Key deliverables include the following and are now under development with the City of Los Angeles Civil & Human Rights Department.
+
+-   [Mobile and desktop prototypes](https://bit.ly/3COizhi)
+
+-   [Content development guidelines](https://docs.google.com/document/d/1X0grgdLBa3Pz2nCYsFZdlYUK5bXn9LCU--_npQzc58U/edit)
+
+<div class="media-grid">
+<img src="/content/city-of-los-angeles/1-la.webp" alt="User research methods used" loading="lazy" />
+
+<img src="/content/city-of-los-angeles/9-la.webp" alt="Logic model of the racial equity hub" loading="lazy" />
+
+<img src="/content/city-of-los-angeles/3-la.webp" alt="Content development guidelines" loading="lazy" />
+
+<img src="/content/city-of-los-angeles/4-la.webp" alt="Prototype of racial equity hub historical context" loading="lazy" />
+
+<img src="/content/city-of-los-angeles/6-la.webp" alt="Prototype of community stories" loading="lazy" />
+
+<img src="/content/city-of-los-angeles/8-la.webp" alt="Prototype of deep data dives" loading="lazy" />
+
+<img src="/content/city-of-los-angeles/7-la.webp" alt="Contact us prototype" loading="lazy" />
+
+<img src="/content/city-of-los-angeles/2-la.webp" alt="Example of a quote from a research participant" loading="lazy" />
+</div>
+
+## Testimonial
+
+> "I enjoyed working with Elham and USDR on a racial equity project for the City of Los Angeles. Elham was wonderful to work with and excelled as the project lead. She gave us the structure that we needed, and connected us with an impressive team of technologists. Her leadership helped us get the project off the ground and through the prototyping stage. I highly recommend working with her for her grasp of public policy issues, technology expertise, and ability to drive projects forward."
+
+\- Eva Pereira, Chief Data Officer at City of Los Angeles
