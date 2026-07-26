@@ -114,7 +114,7 @@ export const blogPosts = [
 		description:
 			"Racial reconciliation leader John Bobb-Semple shares insights on navigating difficult conversations about race and equity with empathy and vulnerability.",
 		date: "2022-06-03",
-		image: `${liveSite}/blog/2022-06-09-how-to-talk-about-race-with-white-peers/images/unmuted_ep1.png`,
+		image: "/content/how-to-talk-about-race-with-white-peers/images/unmuted_ep1.png",
 		imageAlt: "Unmuted podcast episode about discussing race with white peers",
 		categories: ["Unmuted Podcast", "Race", "Racism", "Compassionate Dialogue"],
 		href: `${liveSite}/blog/2022-06-09-how-to-talk-about-race-with-white-peers/`
@@ -127,7 +127,8 @@ export const blogPosts = [
 		description:
 			"How natural and built environments can shape personal and organizational self-actualization.",
 		date: "2022-07-22",
-		image: `${liveSite}/blog/2022-07-22-what-the-environment-can-teach-us-about-self-actualization/images/unmuted_ep2.png`,
+		image:
+			"/content/what-the-environment-can-teach-us-about-self-actualization/images/unmuted_ep2.png",
 		imageAlt: "Unmuted podcast episode about environment and self-actualization",
 		categories: ["Unmuted Podcast", "Built environment", "Ecosystem thinking"],
 		href: `${liveSite}/blog/2022-07-22-what-the-environment-can-teach-us-about-self-actualization/`
@@ -140,7 +141,7 @@ export const blogPosts = [
 		description:
 			"How to create a culture of trust and power-sharing so everyone can take risks safely.",
 		date: "2022-08-05",
-		image: `${liveSite}/blog/2022-08-05-taking-risks-without-being-at-risk/images/unmuted_ep3.png`,
+		image: "/content/taking-risks-without-being-at-risk/images/unmuted_ep3.png",
 		imageAlt: "Unmuted podcast episode about organizational safety and trust",
 		categories: ["Unmuted Podcast", "Organizational safety", "Leadership"],
 		href: `${liveSite}/blog/2022-08-05-taking-risks-without-being-at-risk/`
@@ -153,7 +154,8 @@ export const blogPosts = [
 		description:
 			"The impact of racism on farming and land ownership, food sovereignty, and a just circular food economy.",
 		date: "2022-09-01",
-		image: `${liveSite}/blog/2022-09-01-how-racism-shapes-farming-and-land-access-in-the-us/images/unmuted_ep4.png`,
+		image:
+			"/content/how-racism-shapes-farming-and-land-access-in-the-us/images/unmuted_ep4.png",
 		imageAlt: "Unmuted podcast episode about farming and racial equity",
 		categories: ["Unmuted Podcast", "Farming equity", "Food justice"],
 		href: `${liveSite}/blog/2022-09-01-how-racism-shapes-farming-and-land-access-in-the-us/`
@@ -166,7 +168,7 @@ export const blogPosts = [
 		description:
 			"Is it better to learn intensively or slowly over time? Research suggests a mix might be best.",
 		date: "2023-02-13",
-		image: `${liveSite}/blog/2023-02-13-learning-fast-and-slow/images/learning_fast_slow.png`,
+		image: "/content/learning-fast-and-slow/images/learning_fast_slow.png",
 		imageAlt: "Illustration for Learning fast and slow",
 		categories: ["Learning Design"],
 		href: `${liveSite}/blog/2023-02-13-learning-fast-and-slow/`
@@ -179,7 +181,8 @@ export const blogPosts = [
 		description:
 			"Six strategies that help teams go beyond resilience and grow stronger through adversity.",
 		date: "2023-03-28",
-		image: `${liveSite}/blog/2023-03-28-six-ways-organizations-can-build-antifragile-teams/images/antifragile_teams.png`,
+		image:
+			"/content/six-ways-organizations-can-build-antifragile-teams/images/antifragile_teams.png",
 		imageAlt: "Illustration for Six ways organizations can build antifragile teams",
 		categories: ["Learning Design", "Human-centered Design"],
 		href: `${liveSite}/blog/2023-03-28-six-ways-organizations-can-build-antifragile-teams/`
