@@ -28,10 +28,10 @@
 		</h1>
 		<p class="purpose">
 			I turn research insights, public data, and community voices into interactive
-			stories and digital tools. Combining qualitative and quantitative research, data
-			analysis, human-centered design, and data visualization, I create data experiences
-			that help people learn, make better decisions, and drive change in public health
-			and climate change.
+			stories and digital tools. Using qualitative and quantitative research,
+			human-centered design, front-end development, and data visualization, I create
+			data experiences that help people learn, make better decisions, and drive change
+			in public health and climate change.
 		</p>
 	</section>
 
@@ -198,6 +198,7 @@
 	@media (max-width: 40rem) {
 		.role-statement {
 			display: block;
+			font-size: clamp(2rem, 9vw, 3rem);
 		}
 
 		.role-rotator {
