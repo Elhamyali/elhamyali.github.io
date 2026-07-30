@@ -8,6 +8,7 @@ export function GET() {
 		"/",
 		"/about/",
 		"/blog/",
+		"/contact/",
 		"/johns-hopkins-study/",
 		"/publications/",
 		...migratedContent.map((item) => item.href)

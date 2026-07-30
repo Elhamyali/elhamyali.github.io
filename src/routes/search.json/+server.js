@@ -20,6 +20,14 @@ export function GET() {
 			categories: []
 		},
 		{
+			title: "Contact",
+			description:
+				"Get in touch with Elham Y. Ali about new opportunities, research, and data storytelling.",
+			href: "/contact/",
+			type: "page",
+			categories: []
+		},
+		{
 			title: "Johns Hopkins Study on Parks and Green Spaces",
 			description:
 				"A national study about equitable, resilient, and responsive parks and green spaces.",

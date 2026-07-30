@@ -47,6 +47,7 @@ export const stories = [
 		alt: "Interactive map of state digital transformation",
 		tools: ["Mustache", "QGIS", "Flourish"]
 	},
+	/*
 	{
 		title: "Responding to the Needs of Student Parents in Maryland",
 		description:
@@ -65,6 +66,7 @@ export const stories = [
 		alt: "Rua M. Williams speaking during an interview",
 		tools: ["Flourish", "JavaScript"]
 	},
+	*/
 	{
 		title: "“It Takes a Village”: Counted, Connected, and Cared For",
 		description:

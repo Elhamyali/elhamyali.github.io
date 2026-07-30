@@ -16,6 +16,7 @@ export const site = {
 		{ label: "Research Study", href: "/johns-hopkins-study/" },
 		{ label: "Publications", href: "/publications/" },
 		{ label: "Blog", href: "/blog/" },
-		{ label: "About", href: "/about/" }
+		{ label: "About", href: "/about/" },
+		{ label: "Contact", href: "/contact/" }
 	]
 };
