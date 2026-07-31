@@ -1,4 +1,5 @@
 <script>
+	import ClientMarquee from "$components/ClientMarquee.svelte";
 	import ProjectCard from "$components/ProjectCard.svelte";
 	import { researchProjects, stories } from "$data/projects.js";
 </script>
@@ -34,6 +35,8 @@
 			in public health and climate change.
 		</p>
 	</section>
+
+	<ClientMarquee />
 
 	<section class="work-section" aria-labelledby="stories-title">
 		<header class="section-heading">
@@ -136,7 +139,7 @@
 	}
 
 	.purpose {
-		max-width: 64rem;
+		max-width: 54rem;
 		margin: 2rem 0 0;
 		font-size: clamp(1.125rem, 1.5vw, 1.3125rem);
 		line-height: 1.55;
