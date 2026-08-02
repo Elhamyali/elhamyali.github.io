@@ -20,7 +20,10 @@
 
 <header class="site-header">
 	<div class="header-inner">
-		<a class="wordmark" href="/" aria-label="Elham Y. Ali, home">{site.name}</a>
+		<a class="wordmark" href="/" aria-label="Elham Y. Ali, home">
+			<img src="/images/brand/eya-logo.jpg" alt="" width="100" height="100" />
+			<span>{site.name}</span>
+		</a>
 		<div class="navigation-cluster">
 			<button
 				class="menu-button"
@@ -88,12 +91,22 @@
 	}
 
 	.wordmark {
+		display: flex;
+		align-items: center;
+		gap: 0.65rem;
 		flex: 0 0 auto;
 		font-family: var(--font-sans);
 		font-size: var(--font-size-14);
 		font-style: normal;
 		font-weight: 600;
 		text-decoration: none;
+	}
+
+	.wordmark img {
+		display: block;
+		width: 2rem;
+		height: 2rem;
+		object-fit: cover;
 	}
 
 	.navigation-cluster {
