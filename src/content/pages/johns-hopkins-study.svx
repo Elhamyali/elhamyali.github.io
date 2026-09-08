@@ -1,3 +1,7 @@
+<script>
+  import StudyEventEmbed from "$components/content/StudyEventEmbed.svelte";
+</script>
+
 <img src="/images/johns-hopkins-study/parks3.png" alt="Parks with a carved path that has trees surrounded around it" loading="lazy" />
 
 ## Key points
@@ -7,6 +11,12 @@
 - This study is open to anyone 18 or older who works with **U.S. local governments (city, county, or township)** on parks, green spaces, climate, sustainability, or related topics.
 
 - When you participate, you’ll receive a gift card ($) for completing the online survey, the virtual interview, or both (you can also choose to donate it). You’ll also get a **summary of national findings** you can use in your work and authorship credit in published results if you’d like.
+
+## What are the results of this study?
+
+**Register today** to hear insights and practical recommendations from this research that can support your department’s work. This public presentation is especially helpful for local government departments working in parks and recreation, climate and environment, sustainability, and equity. Technical assistance providers, consultants, vendors, nonprofits, and professional associations are also welcome—as are families, friends, and anyone who enjoys parks and recreation in everyday life.
+
+<StudyEventEmbed />
 
 ## What is this study about?
 
@@ -66,10 +76,9 @@ To keep the study secure, the survey link needs a password. Enter it if you have
 
 
 <div class="study-btn-wrapper">
-  <a href="https://jh.qualtrics.com/jfe/form/SV_3klJKLVJYAxV35c" target="_blank" rel="noreferrer"
-     class="study-btn">
-    Take the Survey
-  </a>
+  <span class="study-btn disabled" aria-disabled="true">
+    Survey closed
+  </span>
 </div>
 
 
@@ -87,10 +96,9 @@ To keep the study secure, the survey link needs a password. Enter it if you have
 
 
 <div class="study-btn-wrapper">
-  <a href="mailto:eali6@jhu.edu?subject=Recommendation%20for%20Johns%20Hopkins%20parks%20%26%20green%20spaces%20study" target="_blank" rel="noreferrer"
-     class="study-btn">
+  <span class="study-btn disabled" aria-disabled="true">
     Recommend a Colleague
-  </a>
+  </span>
 </div>
 
 
